@@ -1,0 +1,21 @@
+0,1
+Conditions,Characteristic
+Static,"Freshly exposed Ti surface in contact with oxygen causes
+ignition."
+,"Reaction is dependent on oxygen content and pressure, the
+lower the O content, the higher the pressure needed.
+2"
+,"Pure O static conditions pressure of ~2.5MPa required.
+2"
+,"Affected by purity of O atmosphere.
+2
+At O concentrations <~47%, ignition does not occur.
+2"
+,"Ignition limits are not influenced by surface to volume ratio or
+by temperatures up to ~300°C."
+Dynamic,Increased possibility of ignition
+,Limited to oxygen concentration < 35%.
+,Ignition will not occur in air.
+,Ignition is not self sustaining in water or aqueous solution.
+,"Ignition may occur in vapour space above solution, if
+conditions are favourable."

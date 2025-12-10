@@ -1,0 +1,29 @@
+0,1,2
+Condition,Characteristics,Comments
+Environment,Occurs without H charging of material.,-
+,"Degradation of properties compared with
+air or inert environment, i.e. He.",
+Material,"Effects thin surface layer which then cracks
+when deformed (strain-to-crack initiation).",-
+,Relevant to all materials.,
+"Mechanical
+properties",Lower tensile ductility.,"Elastic
+properties and
+tensile yield
+strength
+largely
+unchanged"
+,"Tensile plastic deformation causes surface
+cracking.",
+,Sub-critical crack growth.,
+,"Faster crack growth rates, both under cyclic
+and sustained loads.",
+,Reduced notched tensile strength.,
+Temperature,"Occurs between cryogenic up to ~1144K,
+typically.",
+,Most severe at approx. RT.,
+"Pressure and
+purity","Increases with increasing Hydrogen
+pressure.","Pure hydrogen
+most severe."
+,Sensitive to gas purity.,

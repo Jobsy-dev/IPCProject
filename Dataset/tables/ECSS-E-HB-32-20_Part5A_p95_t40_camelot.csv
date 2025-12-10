@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+Properties,MCX‐693,MCX‐686,MCX‐696,MCX‐724,MCX‐947
+"Flexural strength, 
+4pt-bend (MPa)",300,480,517,330,530
+"Young's modulus 
+(GPa)",255,235,262,235,196
+Poisson's ratio,0.24,0.22,0.25,0.23,0.25
+Density (kg/m3),2980,3000,3010,2940,2950
+"Coefficient of 
+thermal expansion 
+(ppm/K)",6.4,6.8,6.9,7.2,9.4
+"Specific heat 
+(J/kg.K)",720-760,720-760,720-760,720-760,720-760
+"Thermal 
+conductivity 
+(W/mK)",180,175,192,165,179
+"Electrical 
+resistivity 
+(μohm.cm)",30 - 50,30 - 50,30 - 50,30 - 50,30 - 50
+Supplier’s data.,,,,,

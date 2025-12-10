@@ -1,0 +1,11 @@
+0,1
+,Structured Light Scanning was found to be a highly effective tool for characterization of the results of these
+"additive processes. Scanning provided data relative to positional tolerance and feature sizes of SLM parts, data about",
+movement of the materials as they were subjected to these additive processes and data that could be used to compare,
+the as-modeled parts with the as-deposited state post deposition. Figure 15 shows an example of the scan data,
+compared to the model data for an early manufacturing demonstrator unit. The green is the scan data and the black,
+"line is the model. Several features become clear. First, the green line is inside of the black line on the top of the figure",
+"below, showing how the part compressed toward the centerline. The top black line is the SLM GRCop-84 substrate",
+"and did not have Inconel deposited in that region, so the movement represented movement of the substrate. Second,",
+regions where the process limitations prevented deposition of the minimum required material are shown as regions,
+where the green line is far outboard of the black line.,

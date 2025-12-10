@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6,7,8
+"Temp 
+YS 
+UTS 
+Modulus 
+Elong 
+R of A 
+Notes 
+Condition 
+Alloy composition 
+[Reference] 
+(°C) 
+(MPa) 
+(MPa) 
+(GPa) 
+(%) 
+(%)",,,,,,,,
+Experimental alloys,,,,,,,,
+TiAl,-,335*,450,-,0.9,-,,Ref. [49-10]
+TiAl,-,-,-,176,-,-,,"L10 crystal structure,Ref. [49-1]"
+TiAl,-,-,-,176,-,-,,
+Ti3Al,-,-,-,145,-,-,,"DO19 crystal structure, Ref. [49-1]"
+Ti3Al,-,-,-,145-110,-,-,,Ref. [49-13]
+Ti3Al,-,-,550,-,-,-,,Ref. [49-10]
+"Ti-14.2Al-21.5Nb(wt%) 
+TRW/PWA",20,709,743,-,1.4,0.7,"Powder Consolidation by HIP: 
+927°C/207 MPa/2 hour 1177°C/1 
+hr/Fan Cool. 760°C/1 hr/Air Cool.",Precision Cast Part Corp. Ref. [49-12]
+,"""",696,759,-,1.5,1.6,,
+,"""",689,791,-,1.6,2.4,,
+,204,578,748,-,3.9,4.0,,
+,"""",588,731,-,3.0,3.2,,
+,"""",601,695,-,2.0,2.8,,
+,649,429,686,-,18.4,23.3,,
+,"""",426,683,-,18.8,27.2,,
+,"""",444,650,-,19.1,17.5,,
+,20,608,722,-,1.3,1.6,"Cast + isoforged at 1068°C + 
+1093°C/0.5 hr/ Cool 260°C/minute 
+760°C/1 hr/Air Cool.","Exact composition not stated. 
+Data used for comparison with Powder Met 
+TRW experimental, Ref. [49-12]"
+,"""",608,728,-,1.2,4.3,,
+,649,385,601,-,13.0,21.5,,
+,"""",385,576,-,16.0,24.8,,
+"Ti3Al Niobium Modified. 
+Crucible Materials Corp. 
+USA",RT(a),510,606,-,2,2,"1175°C/0.5 hr/Air Cool +760°C/1 hr/AC 
++595°C/8 hr/Vac Cool.","D
+Powder Production by Plasma Rotating 
+Electrode Process (PREP) consolidated by 
+HIP @ 1065°C, Ref. [49-1] 
+ifferent Cooling Rates from Solution 
+Treatment Temperature: 
+(a) 50°C/min"
+,RT(c),530,592,-,<1,2,1205°C/0.5 hr/Fan Air Cool +760°C.,
+,RT(d),661,772,-,1,3,,
+,760(d),303,558,-,14,20,"1205°C/0.5 hr/AC +760°C/1 hr/ Vac 
+Cool.",
+,425(b),344,572,-,11,12,,

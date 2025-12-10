@@ -1,0 +1,4 @@
+0,1
+,Follow-on testing under PJ038 performed cyclic testing to achieve high duty cycles (high number of start/shutdown
+tests) to understand performance and durability of the hardware. The PJ038 testing that followed completed a series,
+of cyclic tests with up to 7 full hot-fire and purge cycles per test at 30 seconds per test cycle using TEA/TEB for,

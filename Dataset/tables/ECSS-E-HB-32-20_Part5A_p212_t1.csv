@@ -1,0 +1,57 @@
+0,1,2,3,4
+"Coating
+property",Requirements,Location,,
+,,"Coating
+surface","Coating
+bulk","C:S
+Interface"
+"Oxidation/
+Corrosion
+resistance","Operating environment is known:
+- temperature(s)
+- corrosive species
+- erosive species
+- design life","X
+X
+X
+X","X
+X
+X","X
+X"
+,Low rates of scale formation,X,,
+,Uniform surface attack,X,,
+,"Stable surface oxide
+(thermodynamically)",X,,
+,Ductile surface scales,X,,
+,Adherent surface scales,X,,
+,"High concentration of scale forming
+elements in coating (self-repairing)",X,X,
+"Interface
+stability","Low rate of diffusion across
+interface at service temperatures",,,X
+,"Limited compositional changes
+across interface",,,X
+,"Avoidance of brittle phase
+formation in service",,,X
+"Good
+adhesion","Matched coating to substrate
+properties to reduce stresses at
+interface",,,X
+,"Optimised surface condition prior to
+coating",,,X
+,"Minimise stress during coating
+process",,,X
+"Mechanical
+strength","Coatings should withstand service
+loading:
+- creep
+- fatigue
+- impact
+- thermally induced",,X,X
+,"Well matched coefficient of thermal
+expansion",,X,X
+,"Coating does not adversely affect
+component performance",X,X,X
+,"Coating heat treatments does not
+affect component heat-treatments",X,X,X
+Key: C ‐ Coating; S ‐ Substrate.,,,,

@@ -1,0 +1,36 @@
+0,1
+"Fibre
+type(1)/Name","Al 0
+2 3
+Carbon Carbon Carbon Al 0 :SiO
+2 3 2
+Nextel
+HT IM HM Altex
+610"
+Composition,"99%
+> 99% C > 99% C 100% C 15% Si0
+2
+Al O
+2 3"
+"Density
+(kg/m3)","1800 –
+1800 1800 3300 3900
+2200"
+Properties (2):,
+"Strength
+(MPa):
+L",4000-5000 5300-6400 1900-4400 1800 3000
+"Young's modulus (GPa):
+L 230-235 290-300 380-930 210 380
+T 15 15 15 210 380",
+"Thermal expansion (ppm/K):
+L 1.2 to 
+0.1 to 0.4 0.1 to 0.4 6 7.9
+1.5
+T n.a. n.a. 9.5 to12.5 - -",
+"Thermal conductivity (W/mK):
+L 9 to 17 32 to 35 69 to 1050 - <30
+T low low low - <30",
+"Key: (1) HT ‐ high tenacity; IM ‐ intermediate modulus; HM ‐ high modulus
+(2) L longitudinal; T transverse
+Altex is a tradename of Sumitomo; Nextel is a tradename of 3M",

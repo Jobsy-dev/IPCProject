@@ -1,0 +1,19 @@
+0,1,2,3
+Properties,AlSiC‐9,AlSiC‐10,AlSiC‐12
+Matrix Alloy A 356.2,37 vol.%,45 vol.%,63 vol.%
+Reinforcement SiC (electronic grade),63 vol.%,55 vol.%,37 vol.%
+Strength (MPa) a-bar 4pt-bend,488,450,471
+Young’s Modulus (GPa),188,167,167
+Shear Modulus (GPa),76,67,69
+Density (kg/m3),3010,2960,2890
+"Thermal Expansion, CTE, (ppm/°C):",,,
+30°C to 100°C,8,9.77,10.9
+30°C to 150°C,8.37,10.16,11.2
+30°C to 200°C,8.75,10.56,11.7
+Specific Heat (J/kgK) @ 25°C,741,786,808
+Thermal Conductivity (W/mK) @25°C,"200 typ. /
+190 min","200 typ. /
+190 min","180 typ. /
+170 min"
+Electrical Resistance (µohm.cm),20.7,20.7,20.7
+Supplier’s data.,,,

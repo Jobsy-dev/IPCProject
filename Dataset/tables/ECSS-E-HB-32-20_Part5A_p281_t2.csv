@@ -1,0 +1,18 @@
+0,1,2,3,4
+Metal,"Density
+(kg m‐3)","Melting Point
+(C)","CTE
+(10‐6C‐1)","Thermal Conductivity
+†
+(W m‐1C‐1)"
+Niobium (Nb),8570,2468,7.2,53.7
+"Molybdenum
+(Mo)",10220,2617,5.1,138
+Tantalum (Ta),16600,2996,6.5,57.4
+Rhenium (Re),21000,3180,6.6,48.0
+Tungsten (W),19300,3410,4.5,173
+Platinum (Pt) ‡,21450,1772,9.0,71.6
+Rhodium (Rh) ‡,12400,1965,8.5,150
+Iridium (Ir) ‡,22400,2410,6.8,147
+"Key †: Indicative properties at room temperature.
+‡: Precious Metals Group",,,,

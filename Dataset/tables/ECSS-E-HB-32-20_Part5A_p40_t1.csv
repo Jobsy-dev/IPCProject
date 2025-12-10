@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10
+Alloy Supplier,Composition (a),,,,,,,Forms,Tempers,Target replacements
+,Cu,Li,Mg,Zr,Ag,Zn,Mn,,,
+Standard alloys,,,,,,,,,,
+2090 Alcoa,2.4-3.0,1.9-2.6,0.25,0.08-0.15,-,0.10,0.05,sheet; 3-10mm,T83,"2024-T3, 7075-T6,
+7475-T6"
+2098 Alcan,3.2-3.8,0.8-1.3,0.25-0.80,0.04-0.18,0.25-0.6,0.35,0.35,sheet; 6.4-7.7mm,T82P (b),2024-T62
+2x98 Alcan,recent modification to 2098 to give enhanced damage tolerance,,,,,,,sheet,T82P (b),2024-T62
+2099 Alcoa,2.4-3.0,1.6-2.0,0.10-0.50,0.07-0.13,-,0.4-1.0,0.10-0.50,extrusions 1.2-75 mm,"T8E65, T8E67","7075-T6511, 7050-
+T76511 2024-T3511,
+2026-T3511"
+2195 Alcan,3.7-4.3,0.8-1.2,0.25-0.80,0.08-0.16,0.25-0.6,0.25,0.25,plate 6.4-50mm,T8R78,2219-T87
+2196 Alcan,2.5-3.3,1.4-2.1,0.25-0.80,Ti+Zr 0.25,0.25-0.6,0.35,0.35,extrusions 1.6-25mm,T8511,7075-T76511
+2297 Alcan,2.5-3.1,0.8-1.3,0.10-0.50,0.04-0.18,-,0.05,0.35,plate 35-150mm,T87,2124-T851
+"8090 Dolgarrog,
+Otto Fuchs (c)",1.0-1.6,2.2-2.7,0.6-1.3,0.04-0.16,-,0.25,0.10,"sheet; extrusions/
+forgings","T3, T34",-
+1441 VIAM,1.6,1.7,0.95,0.08,-,-,-,"Plate/sheet, extrusions","T1, T11","2024, 2524"
+Special order alloys,,,,,,,,,,
+2050 Alcan,3.2-3.9,0.7-1.3,0.20-0.6,0.06-0.14,0.20-0.7,0.25,0.20-0.50,-,-,-
+2094 Alcan,4.4-5.2,0.7-1.4,0.25-0.80,0.04-0.18,0.25-0.6,0.25,0.25,-,-,-
+2095 (d) Alcan,3.9-4.6,0.7-1.5,0.25-0.80,0.04-0.18,0.25-0.6,0.25,0.25,-,-,-
+2097 (e) Alcoa,2.5-3.1,1.2-1.8,0.35,0.08-0.16,-,0.35,0.10-0.60,-,-,-
+AMC500 AMC,(f),,,,,,,Forgings,T1,-
+"Key: (a) A single figure denotes maximum content, except for 1441 where figures are nominal
+(b) Supplied on 'O' temper for subsequent heat treatment
+(c) Dolgarrog produce sheet; Otto Fuchs produce extrusions and forgings
+(d) Similar to 2195 but produced for super-plastic forming (SPF)
+(e) Alcoa alloy similar to 2297
+(f) Dispersion hardened Al-Li alloy made by proprietary powder metallurgy process",,,,,,,,,,

@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+Polishing Step,Grit Size,Lubricant,"Time
+(min)","Load
+(N)",RPM
+1,220,"H O
+2",1-2,150,300
+2,"9um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",7,150,150
+3,"6 um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",7,150,150
+4,"3 um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",3.5,150,150
+5,"3 um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",3.5,150,150
+6,"1 um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",3.5,150,150
+7,"1 um Diamond
+suspension","60% HUDOIL Extender +
+40% ethanol",15,150,150
+8,.05,"60% Colloidal Silica + 40%
+H O
+2",120-240,N/A,N/A

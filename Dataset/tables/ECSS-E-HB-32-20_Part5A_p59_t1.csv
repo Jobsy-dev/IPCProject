@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8
+"Alloy +
+condition",t (mm) 3,"Orientati
+on",R,"Test
+temp.3
+(C)","K3
+(MPam)",,,"Specim
+en ID"
+,,,,,6.6,11,22,
+"2195-T8
+plate 1","6.35, 12.7","L-T, T-L","0.1, 0.5",24,0.5-1.4,4.3- 7.8,33.7-78,All
+,,,,93,0.3-1.5,2.7-8.0,29.4-77.2,All
+VPPAW 1,"6.35, 12.7",L-T,"0.1, 0.5",24,-,1.0-1.8,9.0-1131,All
+FSW 1,"6.35, 12.7",L-T,0.5,196,-,14.8,98.6-114.2,All
+,,,,24,-,5.6-11.6,34.3,All
+,,,,94,2.6-2.7,13.3-13.5,-,All
+2195 2,"6.35,
+31.75",All,"0.1, 0.5",196,-,0.4-4.4,11-110,All
+,,,,24,0.07-16.5,0.2-55,-,All
+"Key: Orientation is defined in ASTM E1823‐Annex 2.
+Fatigue crack growth rate, da/dN (10‐6 in/cycle).
+VPPAW – variable polarity plasma arc welding.
+FSW – friction stir welding.
+Conversion from Imperial units: MATWEB http://www.matweb.com/tools/conversion.asp
+1 – Ref. [46‐66]
+2 – Results from SLWT design allowables program: R.E. Reinmuller ‘SO 89818 Al‐Li Materials
+Database, Lockheed Martin Manned Space Systems, New Orleans, LA 70189
+3 ‐ Conversion from Imperial units: MATWEB http:/www.matweb.com/tools/conversion.asp",,,,,,,,

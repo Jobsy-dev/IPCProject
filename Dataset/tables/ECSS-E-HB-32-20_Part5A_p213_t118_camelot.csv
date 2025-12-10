@@ -1,0 +1,50 @@
+0,1
+"Diffusion coatings 
+Overlay coatings (MCrAlY Types)",
+Environmental resistance,
+"Chromising:  
+Forming Cr oxide surface. Corrosion 
+resistance to sulphates at temperatures 
+<1123K (high velocity gas streams).","Contain ~7wt% Al to form Al2O3. 
+Increase Cr content to combat hot corrosion 
+(sulphate contamination)."
+"Aluminising:  
+Formation of NiAl or CoAl in Ni-base & Co-
+base superalloy respectively. Forming 
+Al2O3 surface scales. Temperatures 
+<1100°C; not too corrosive. Prone to 
+thermal fatigue cracking.","Too high Cr or Si content (used to combat 
+Type II hot corrosion) may affect diffusional 
+stability of C:S interface at high 
+temperatures. 
+Cr oxide provides oxidation resistance up to 
+~900°C. 
+Al oxide provides oxidation resistance up to 
+~1200°C. 
+Al oxide-scales are not adherent when 
+thermally cycled. add Y."
+"Modified aluminides: 
+ >1100°C. Improved thermal fatigue.","Presence of Cr to combat acid or basic fluxing 
+mechanisms (Type I & Type II hot corrosion)."
+Chemical compatibility (Interface stability / Adhesion),
+"Interdiffusion across interface Al 
+Substrate; Ni Coating, depending on 
+alloy composition.","Interdiffusion effects between coating/ 
+substrate lowers oxidation resistance of 
+coating, notably Ti."
+,"Diffusionally stable systems are: NiCrAlY on 
+Ni-base or Fe-base substrates, CoCrAY on Fe-
+base."
+,"Unstable systems are: CoCrAlY on Ni-base, 
+FeCrAlY on Ni-base or Fe-base."
+Mechanical strength,
+"Aluminide CTE < substrate at high temps 
+Ductile  Brittle transition temperature > 
+600°C typical.","Carbide interface forming for MCrAlY on Co-
+base (less for CoCrAlY) (preferential oxidation 
+path &/or spalling of coating)."
+"Complex structure, difficult to determine 
+intrinsic properties.",CTE difference should not exceed 2 x 10-4 /K.
+,"DuctileBrittle transition temp increases 
+with increasing Al content (100 to 600°C)."
+,Some compositions exhibit superplasticity.

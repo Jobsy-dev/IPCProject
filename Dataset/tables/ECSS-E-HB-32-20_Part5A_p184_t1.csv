@@ -1,0 +1,104 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Filament,Matrix,,"Fibre vol
+(%)","Diffusion
+barrier coating","Fibre angle
+(°)","Test temp
+(°C)","0.2% YS
+(MPa)","UTS
+(MPa)","E
+(GPa)","Elong.
+(%)","R of A
+(%)"
+"W-1%Th0 
+2",FeCrAlY,,"35
+35
+35
+35
+30
+30
+50
+<38
+42
+44","-
+-
+-
+-
+-
+-
+-
+-
+-
+-","90
+90
+0
+0
+0
+0
+0
+0
+0
+0","760
+RT
+648
+648
+982
+1093
+982
+982
+1093
+1093","-
+-
+-
+-
+-
+-
+615
+665
+428
+540","111
+654
+737
+768
+460
+381
+684
+724
+>548
+607","-
+179
+-
+-
+-
+-
+152
+151
+265
+-","6.5
+-
+3
+2.9
+0.6
+0.3
+3.2
+2.4
+>1.6
+3","-
+-
+-
+-
+-
+-
+-
+-
+-
+-"
+W-Hf-C ,FeCrAlY,,,,,,,,,,
+Key:,"
+
+
+
+","After heat treating
+Composites HIPped 1050 to 1200°C & 150 to 250 MPa
+Composites hot pressed
+As fabricated, after creep testing at: 1037°C for 1077 hrs. 1093°C for 99 hrs.
+Composites hot pressed",,,,,,,,,

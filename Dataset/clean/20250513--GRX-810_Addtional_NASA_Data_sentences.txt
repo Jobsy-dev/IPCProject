@@ -1,0 +1,129 @@
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+GRX-810 GRX-810 alloy is a nickel-Cobalt-Chromium-Tungsten oxide dispersion strengthened (ODS) alloy that combines excellent high-temperature strength, outstanding resistance to oxidizing environments up to 2400°F (1316°C).
+At 2000°F (1093°C) GRX-810 provides a 2x improvement in strength compared to superalloy 718 and 625.
+Most notably, GRX-810 provides over 1000x longer creep rupture lives in the build direction compared to 718 and 625.
+It is amenable to the additive manufacturing, specifically laser-powder bed fusion.
+Other attractive features include its stable microstructure up to its melting temperature.
+Easily Fabricated GRX-810 can be easily printed at similar build speeds compared to superalloy 718.
+Heat Treatment GRX-810 can be used in both the as-built and post HIP states.
+No aging or solution treatment is required.
+Applications The GRX-810 alloy was specifically designed for aerospace applications, including liquid rocket engine injectors, preburners, turbines, and hot-section components, capable of withstanding temperatures up to 1,100 °C.
+The objective of this alloy was to bridge the temperature gap between traditional Nickel-based superalloys and refractory alloys.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Composition and Processing Table 1: Nominal composition for base powder GRX-810.
+Element Nominal Al 0.3% C 0.055% Cr 30% Co 32% Nb 0.8% Ni Balance Re 1.5% Ti 0.3% W 3.0% Table 2: Heat treatment used performed on GRX-810 samples used for material test data.
+Heat Treatment Temperature Time Stress HIP – ASTM 3301 1163°C 3-4 hours 103 MPa Table 3: L-PBF core process parameters for GRX-810.
+Laser Power (W) Scan Speed (mm/s) Layer Thickness (mm) 275 1000 0.04 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Physical Properties Room Temperature Overview All Thermal properties were measured from room temperature to 1300°C.
+Due to system limitations, thermal diffusivity could not be determined above 1200C, therefore, thermal diffusivity and thermal conductivity were reported to 1200C.
+Density was measured per ASTM B3311-22 on a Mettler-Toledo XS-205 Density Determinator.
+Specific heat was measured per ASTM E1269-24 using a Netzsch DSC 404 F1 Pegasus.
+Thermal Diffusivity was measured per ASTM E1461-13 (2022) using a TA Instruments DLF1200 laser flash.
+Thermal Expansion was performed per ASTM E288-22 using a Netzsch DIL402SE dilatometer.
+Table 4: Room Temperature Properties for HIP GRX-810 Density (g/cm3) 8.44 Specific Heat (J/g*K) 0.434 Coefficient of Thermal Expansion (10-6/K) 10.6 Thermal Conductivity (W/m*K) 11.0 Thermal Diffusivity (Cm2/s) 0.0299 Poisson’s Ratio 0.234 Young’s Modulus (GPa) 188.2 Table 5: Room Temperature Properties for As-built GRX-810 Density (g/cm3) 8.44 Specific Heat (J/g*K) 0.434 Coefficient of Thermal Expansion (10-6/K) 11.8 Thermal Conductivity (W/m*K) 10.55 Thermal Diffusivity (Cm2/s) 0.0295 Poisson’s Ratio 0.24 Young’s Modulus (GPa) 190.6 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Specific Heat Figure 1: Specific heat as a function of temperature for AM GRX-810 in the as-built and HIP condition.
+Thermal Conductivity Figure 2: Thermal conductivity vs temperature curve for AM GRX-810 in the as-built and HIP condition.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Thermal Diffusivity Figure 3: Thermal Diffusivity vs temperature curve for AM GRX-810 in the as-built and HIP conditions.
+Table 6: Tabulated data for specific heat, thermal diffusivity, and thermal conductivity vs temperature in As-built GRX-810.
+AB Thermal Diffusivity Temperature AB Specific Heat AB Thermal Conductivity -2 (C) (J/g/K) (Cm /s) (W/m/K) 25 0.420 0.0295 10.7 100 0.428 0.0322 12.0 200 0.444 0.0357 13.9 300 0.454 0.0388 15.6 400 0.467 0.0417 17.3 500 0.471 0.0443 18.6 600 0.440 0.0467 18.8 700 0.559 0.0487 24.1 800 0.570 0.0505 25.3 900 0.587 0.0520 26.7 1000 0.650 0.0532 30.0 1100 0.694 0.0541 32.6 1200 0.635 0.0547 28.7 1300 0.646 --- --- DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Table 7: Tabulated data for specific heat, thermal diffusivity, and thermal conductivity vs temperature in HIP GRX-810 HIP Thermal Diffusivity HIP Specific Heat HIP Thermal Conductivity Temperature (C) (J/g/K) (Cm /s) (W/m/K) 25 0.434 0.0299 11.0 100 0.446 0.0327 12.3 200 0.464 0.0361 14.1 300 0.479 0.0392 15.8 400 0.495 0.0421 17.6 500 0.511 0.0447 19.3 600 0.547 0.0470 21.7 700 0.598 0.0491 24.7 800 0.617 0.0509 26.5 900 0.638 0.0524 28.2 1000 0.693 0.0537 31.4 1100 0.750 0.0547 34.6 1200 0.683 0.0554 32.0 1300 0.666 --- --- Thermal Expansion Figure 4: Thermal displacement as a function of temperature for AM HIP GRX-810 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 5: Thermal displacement as a function of temperature for AM As-built GRX-810 Table 8: Tabulated thermal expansion data vs.
+Temperature in HIP and as-built AM GRX-810 -6 -6 Temperature (C) HIP CTE (10 m/m/°C) AB CTE (10 m/m/°C) 100 11.8 10.6 200 12.9 12.3 300 13.5 13 400 13.9 13.5 500 14.3 13.9 600 14.7 13.9 700 15.4 14.4 800 16 15 900 16.5 15.5 1000 17.2 16.1 1100 17.9 16.8 1200 18.5 17.4 1300 19 17.9 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Elastic Modulus: Table 9: Elastic modulus for AM GRX-810 produced using a single-laser AM printer (1) measured from tensile tests.
+Temp (C) Modulus (Gpa) -196 182.0 21 158.6 427 115.8 649 106.2 871 82.1 1093 42.7 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Microstructure and Characterization Polish Procedure: Table 10: GRX-810 polishing procedure.
+Polishing Step Grit Size Lubricant Time Load RPM (min) (N) 1 220 H O 1-2 150 300 2 9um Diamond 60% HUDOIL Extender + 7 150 150 suspension 40% ethanol 3 6 um Diamond 60% HUDOIL Extender + 7 150 150 suspension 40% ethanol 4 3 um Diamond 60% HUDOIL Extender + 3.5 150 150 suspension 40% ethanol 5 3 um Diamond 60% HUDOIL Extender + 3.5 150 150 suspension 40% ethanol 6 1 um Diamond 60% HUDOIL Extender + 3.5 150 150 suspension 40% ethanol 7 1 um Diamond 60% HUDOIL Extender + 15 150 150 suspension 40% ethanol 8 .05 60% Colloidal Silica + 40% 120-240 N/A N/A H O Etchant Electrolytic etching in 5g Oxalic, 95mL HCl at 25C.
+Stainless steel cathode, carbon cathode at 6V with 1- 2s contact.
+(Etch until blue film covers specimen surface evenly) Figure 6: Typical as-built microstructure of AM GRX-810 in the XZ plane for (a) as-built and (b) HIP after etching.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Grain Structure Figure 7: Typical grain structure of HIPed AM GRX-810 in the XY plane (left) and XZ plane (right).
+Figure 8: Typical SEM microstructure of (a) as-built and (b) HIP AM GRX-810.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Mechanical Properties Multiple printers were employed to print and test GRX-810 specimen.
+The data from each AM printer has been separated to convey printer-to-printer variation typical for GRX-810.
+Tensile Table 11: Average tensile behavior vs temperature for as-built AM GRX-810 loading in Z direction with respect to AM machine.
+Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 1 -320 -196 118.3 815.3 183.5 1265.2 49.0 4 75 24 83.1 573.3 127.9 881.5 44.6 7 800 427 68.0 468.8 99.0 682.6 40.0 2 1200 649 61.5 424.0 94.8 653.3 43.0 2 1600 871 33.1 227.9 40.3 277.5 62.0 2 1832 1000 21.8 150.3 23.2 159.6 45.5 2 2000 1093 15.9 109.9 16.7 115.0 21.6 9 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 2 75 24 76.0 524.0 115.2 794.0 45.5 18 400 204 55.1 380.1 95.3 656.7 4 800 427 52.0 358.5 87.4 602.4 4 1000 538 59.0 406.7 88.1 607.2 41.9 8 1200 649 46.4 319.9 82.9 571.4 4 1600 871 27.2 187.2 36.4 250.6 4 1800 982 19.2 132.2 22.8 157.0 4 1900 1038 19.0 131.0 19.3 133.1 4 2000 1093 14.9 103.0 15.6 107.7 39.6 17 2100 1149 13.0 89.8 13.2 91.3 23.9 10 2200 1204 10.7 73.6 11.1 76.3 13.2 6 2300 1260 8.7 59.9 9.4 64.5 13.0 6 2400 1316 6.1 41.8 7.1 49.1 6.6 6 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 3 75 24 90.0 620.5 114.0 786.0 56.5 3 1000 538 67.2 463.3 90.5 624.2 55.8 3 2000 1093 13.4 92.2 14.9 103.0 40.8 3 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Multi-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 1 75 24 75.5 520.7 115.5 796.3 48.0 16 400 204 62.7 432.3 96.2 663.5 47.9 16 800 427 58.4 402.4 89.6 618.0 48.7 16 1000 538 56.5 389.6 84.8 584.3 48.5 6 1200 649 53.1 365.9 84.8 584.9 50.2 16 1400 760 48.3 332.7 61.3 422.9 102.2 6 1600 871 30.1 207.7 37.3 257.0 98.8 16 1800 982 20.3 140.0 22.4 154.2 81.4 16 1900 1038 16.6 114.5 17.8 122.7 68.0 10 2000 1093 13.7 94.7 14.5 100.0 53.5 19 2100 1149 12.1 83.1 12.3 84.9 6 2200 1204 9.3 64.3 9.5 65.7 6 2300 1260 7.4 50.9 7.7 52.9 7 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Table 12: Average tensile behavior vs temperature for HIP AM GRX-810 loading in Z direction with respect to AM machine.
+Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 1 -320 -196 105.0 723.9 178.0 1227.3 49.0 2 75 24 69.7 480.3 129.3 891.7 51.5 3 800 427 59.5 410.2 95.0 655.0 40.0 1 1200 649 53.5 368.9 91.5 630.9 43.0 1 1600 871 29.9 206.2 38.1 262.7 62.0 1 1832 1000 21.8 150.3 23.2 159.6 45.5 2 2000 1093 15.8 108.9 16.9 116.3 32.5 3 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 2 75 24 69.7 480.7 114.5 789.4 48.2 12 400 204 55.1 380.1 95.3 656.7 4 800 427 52.0 358.5 87.4 602.4 4 1000 538 51.6 355.9 85.5 589.3 46.1 4 1200 649 46.4 319.9 82.9 571.4 4 1600 871 27.2 187.2 36.4 250.6 4 1800 982 19.2 132.2 22.8 157.0 4 1900 1038 19.0 131.0 19.3 133.1 4 2000 1093 14.9 102.8 15.5 107.0 37.1 10 2100 1149 13.0 89.6 13.3 91.7 21.8 7 2200 1204 10.2 70.4 11.0 76.0 13.2 3 2300 1260 8.6 59.5 9.6 66.1 15.0 3 2400 1316 5.5 37.8 6.6 45.8 4.3 3 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 3 75 24 67.6 466.3 107.4 740.7 62.8 3 1000 538 49.3 339.9 84.2 580.5 59.2 3 2000 1093 13.2 90.8 14.6 100.4 40.6 3 Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Multi-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 1 75 24 65.9 454.4 111.9 771.7 51.0 8 400 204 54.1 373.1 92.5 637.5 51.4 8 800 427 50.9 351.0 86.5 596.5 52.7 8 1000 538 48.5 334.4 81.8 564.2 52.7 3 1200 649 45.4 312.8 81.4 561.3 58.2 8 1400 760 43.5 299.9 58.8 405.6 109.0 3 1600 871 27.7 190.8 35.2 242.5 104.1 8 1800 982 19.0 131.0 21.8 150.2 88.2 8 1900 1038 16.1 111.1 17.4 120.2 68.5 5 2000 1093 13.6 93.9 14.4 99.0 58.5 11 2100 1149 11.6 80.3 11.9 82.0 3 2200 1204 9.5 65.2 9.7 66.7 3 2300 1260 7.7 52.8 7.9 54.7 3 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Table 13: Average tensile behavior vs temperature for as-built AM GRX-810 loading in X direction (horizontal) with respect to AM machine.
+Table 14: Average tensile behavior vs temperature for HIP AM GRX-810 loading in X direction (horizontal) with respect to AM machine.
+Table 15: Average tensile behavior vs temperature for AM GRX-810 loading in 45° from the build direction (Z) M a ch in e M u lti-La se r A M P rin te r 1 T e st T °F 7 5 4 0 0 8 0 0 1 2 0 0 1 6 0 0 1 8 0 0 1 9 0 0 2 0 0 0 2 1 0 0 2 2 0 0 2 3 0 0 e m p e ra tu re °C2 2 0 4 4 2 7 6 4 9 8 7 1 9 8 2 1 0 3 8 1 0 9 3 1 1 4 9 1 2 0 4 1 2 6 0 A v g .
+0 k si 8 5 .3 7 0 .7 6 5 .7 5 8 .8 3 2 .5 2 1 .2 1 6 .8 1 3 .3 1 1 .6 8 .6 6 .3 .2 % Y ie ld S tre n g th M p a 5 8 7 .8 4 8 7 .3 4 5 2 .6 4 0 5 .2 2 2 3 .9 1 4 6 .2 1 1 5 .5 9 1 .8 8 0 .0 5 9 .3 4 3 .6 A v g .
+U ltim k si 1 2 9 .0 1 0 9 .2 9 9 .9 9 2 .8 4 0 .9 2 4 .1 1 8 .6 1 4 .3 1 1 .7 8 .9 6 .6 a te T e n sile S tre n M p a 8 8 9 .4 7 5 3 .2 6 8 8 .6 6 4 0 .0 2 8 2 .2 1 6 5 .9 1 2 8 .0 9 8 .7 8 0 .8 6 1 .2 4 5 .6 g th A v g .
+E lo% 3 7 3 7 3 6 3 4 3 8 2 3 1 7 1 4 n g .5.3.8.2.1.0.0.3 a tio n T e ste d S a #1 1 0 1 0 1 0 1 0 1 0 1 0 1 6666 m p le s Machine Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Multi-Laser °F °C ksi Mpa ksi Mpa % # AM Printer 1 75 24 74.2 511.6 127.0 875.6 42.6 3 400 204 58.4 402.8 105.9 730.2 41.5 5 800 427 54.3 374.4 96.9 668.0 40.5 5 1200 649 49.4 340.7 89.8 619.0 38.0 5 1600 871 28.8 198.3 39.3 270.7 41.5 5 1800 982 19.6 134.9 23.5 162.2 25.8 5 1900 1038 16.2 111.6 18.6 128.2 16.1 5 2000 1093 13.1 90.4 14.3 98.4 14.1 8 2100 1149 10.6 73.0 10.7 74.0 3 2200 1204 8.9 61.3 9.1 62.7 3 2300 1260 6.4 44.2 6.7 46.0 3 Machine Condition Test Temperature Avg.
+0.2% Yield Strength Avg.
+Ultimate Tensile Strength Avg.
+Elongation Tested Samples Single-Laser N/A °F °C ksi Mpa ksi Mpa % # AM Printer 3 As-built 75 24 98.8 681.0 132.6 914.2 34.2 3 HIP 75 24 74.2 511.6 127.0 875.6 42.6 3 As-built 800 427 77.4 533.4 105.1 724.4 33.6 3 HIP 800 427 55.6 383.3 99.7 687.4 38.2 3 As-built 1200 649 70.2 484.0 100.0 689.2 29.9 3 HIP 1200 649 50.6 349.1 94.5 651.6 38.8 3 DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 9: Ultimate Tensile Strength vs. temperature for AM GRX-810 Figure 10: Ultimate Tensile Strength vs. temperature for AM GRX-810 at elevated temperatures DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Low Cycle Fatigue Figure 11: Low cycle fatigue life vs strain amplitude (R=-1) at room temperature for AM GRX-810 loading in the Z direction Figure 12: Low cycle fatigue life vs strain amplitude (R=-1) at 1000°F (537.8°C) for AM GRX-810 loading in the Z direction DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 13: Low cycle fatigue life vs strain amplitude (R=-1) at 2000°F (1093°C) for AM GRX-810 loading in the Z direction High Cycle Fatigue Figure 14: Stress controlled high cycle fatigue life vs stress amplitude (R=-1) for GRX-810 loading in the Z direction at room temperature.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 15: Stress controlled high cycle fatigue life vs stress amplitude (R=-1) for GRX-810 loading in the Z direction at 1000°F (537.8°C).
+Figure 16: Stress controlled high cycle fatigue life vs stress amplitude (R=-1) for GRX-810 loading in the Z direction at 1600°F (871.1°C).
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 17: Stress controlled high cycle fatigue life vs stress amplitude (R=-1) for GRX-810 loading in the Z direction at 2200°F (1204°C).
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Creep Figure 18: Creep overview at 2000°F (1093°C) for AM GRX-810.
+Figure 19: The Larson Miller Parameter vs. stress for creep rupture in GRX-810 in the horizontal (H) and vertical (V) build directions compared to plate Haynes 230 and sheet Superalloy 625.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Oxidation Resistance Cyclic Oxidation Figure 20: Cyclic Oxidation Results at 1100°C, 1200°C, and 1300°C.
+Cyclic oxidation results for (a) GRX-810, 718, and single crystal B1900 at 1100°C, (b) GRX-810, 718, ME3 (powder metallurgy (PM) disk alloy), 625, and B1900 at 1200C, and (c) GRX-810, 625, 718, single crystals B1900+Hf, B1900, and SC180 at 1300°C.
+Images of the samples were taken after the final cycle measured to highlight the state of the alloy at that point.
+Note: the 718 sample produced runaway oxidation gain after cycle 3 which has been denoted with the dashed arrow.
+“x” denotes a test ending due to catastrophic oxidation (sample weight < 1 gram or severe microstructure degradation).
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Figure 21: Microstructural stability at 1300°C.
+metallography cross-sections of (a) superalloy 718 after 7 cycles and (b) GRX-810 after 10 cycles.
+SEM micrographs of the oxide (fine dark circular features) size and morphology of (c) as-printed GRX-810 and (d) GRX-810 after ten 1300°C 1-hour cycles.
+DISTRIBUTION STATEMENT A.
+Approved for public release; distribution is unlimited.
+Acknowledgements: Funding for this data sheet was provided by ate (ARMD) – Transformational Tools and Technologies (TTT) Project Office, (STMD) Game Changing Development (GCD) Program under the optimized and Repeatable Components in Additive Manufacturing (ORCA) project and the Air Force Research Laboratory.

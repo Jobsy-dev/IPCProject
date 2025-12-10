@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8
+Alloy composition,"Temp
+(°C)","YS
+(MPa)","UTS
+(MPa)","Modulus
+(GPa)","Elong
+(%)","R of A
+(%)",Condition,"Notes
+[Reference]"
+,540(b),324,517,-,12,15,,"(b) 60°C/min
+(c) 120°C/min
+(d) >280°C/min
+(e) >17000°C/min"
+,650(b),282,468,-,13,20,,
+,760(b),248,400,-,18,22,"1205°C/0.5 hr/Oil Q + 760°C/1 hr/Vac
+Cool.",
+,760(d),241,386,-,14,15,,
+"Ti Al-5Nb-1W
+3",-,796*,920,-,0.4,-,Not stated.,Ref. [49-10]
+"Ti Al-15Nb
+3",-,-,-,-,4.9,-,,
+TiAl-2W,-,642*,790,-,0.8,-,,
+TiAl-1V,-,-,400,-,2.2,-,,
+Ti-23.75Al-5Nb (at%),650,270*,587,-,8.3,10.3,As-extruded.,"Melt Spun Ribbon-Pulverised-Hot Extruded,
+Ref. [49-11]"
+Ti-21.25Al-15Nb (at%),650,449,840,-,1.8 †,5.2,,
+Ti-20.50Al-15Nb-3Zr,650,518,962,-,1.6,3.5,,
+"Ti-21.24Al-15Nb-0.3Er O
+2 3",650,321,651,-,1.8 †,3.9,,
+"Ti-21.10Al-15Nb-0.6Er O
+2 3",650,456,795,-,4.7,8.7,,
+"Ti-21.03Al-15Nb-0.9Er O
+2 3",650,388,702,-,9.1,13.8,,
+Two-phase -TiAl alloys,,,,,,,,
+Ti-48Al-2Cr,-196,-,577,172,-,-,"Ingot metallurgy.
+Near- microstructure.","Sheet test specimens,Ref. [49-24]"
+,25,421*,432,109,2,-,,
+,600,323*,457,128,4,-,,
+,700,322*,512,115,31,-,,
+,700V,350*,562,-,56,-,,
+,800,292*,357,97,93,-,,
+Ti-48Al-2Cr,-196,-,559,160,-,-,"Ingot metallurgy.
+Near- microstructure.
+Annealed: 700°C/100hrs.","Sheet test specimens, Ref. [49-24]"
+,25,-,407,162,0.4,-,,
+,600,376*,540,145,8,-,,
+,700,363*,524,112,54,-,,
+,700V,336*,508,-,66,-,,
+,800,313*,339,105,65,-,,
+Ti-48Al-2Cr,-196,625*,622,149,0.2,-,Ingot metallurgy.,"Sheet test specimens, Ref. [49-24]"

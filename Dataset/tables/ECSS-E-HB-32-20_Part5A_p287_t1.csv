@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+Grade,Composition,,,Tensile Properties,,,Note
+,"Be
+(min)","BeO
+(max)",Bal.,"UTS
+(MPa)","YS
+(MPa)","Elong
+(%)",
+S-200-E,98.0,2.0,<0.2,276,207,1,-
+S-200-F,98.5,1.5,<0.2,325,242,2,"Standard
+Quality"
+S-65,99.0,1.0,<0.1,290,207,3,"High
+ductility"
+I-70,99.0,0.7,<0.2,242,173,2,High purity
+I-220,98.0,2.2,<0.2,380,276,2,"High
+stability"
+I-400,94.0,4.3,<0.3,346,-,-,"Regular or
+selected
+grade"
+"SR-200-
+E",98.0,2.0,<0.2,484,346,10,Sheet 7mm

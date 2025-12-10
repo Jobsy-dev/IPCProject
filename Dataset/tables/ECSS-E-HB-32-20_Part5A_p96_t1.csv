@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6
+Properties,Material designation,,,,,
+,"ASC‐
+301(1)","ASC‐
+303","ASC‐
+401(1)","ASC‐
+551(1)","ASC‐
+701(1)","HSC‐
+702E(2)"
+Matrix,Al,,,Al-Si,,
+"Particle
+Reinforcement",SiC,SiC,SiC,SiC,SiC,SiC
+Content (% vol.),30,30,40,55,70,75
+"Matrix (Heat
+Treatment)","Al-10Si-
+1Mg
+(T6)","Al
+AA359","Al-10Si-
+1Mg
+(T6)","Al-Si-
+Mg
+(F)","Al-Si-
+Mg
+(F)","Al-
+70Si"
+"UTS, (MPa)",370,300,370,340,230,-
+"Flexural strength,
+(MPa)",-,-,-,-,-,270
+"Modulus, (GPa)",125,120,150,200,270,345
+Poisson’s ratio,0.29,0.29,0.28,0.24,0.22,0.19
+"Fatigue Limit, 107
+cycles:",,,,,,
+R = 0.1 (MPa),190,,,,,
+R = 1 (MPa),130,,,,,
+"Fracture
+Toughness
+(MPa√m)",15,-,-,11,10,5.5
+"Density, (kg/m3)",2780,2780,2870,2950,3010,3040
+"CTE, 25°C to100°C,
+(ppm/K)",14,15,12,10,6.2,4.1
+"Thermal
+Conductivity
+(W/mK)",160,146,170,180,170,210
+"Specific heat (J/kg
+K)",820,-,750,-,730,700
+"Knoop hardness,
+500g load (kg/mm2)",165,-,-,343,647,1609
+"Key: Suppliers’ data.
+(1) ASC materials produced under Lanxide licenses;
+(2) reactive infiltration technique of preform",,,,,,

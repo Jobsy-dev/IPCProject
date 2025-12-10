@@ -1,0 +1,56 @@
+0,1,2,3,4,5
+Properties (1),,"2009/SiC
+/15.5p","6092/SiC
+/17.5p","6092/SiC
+/17.5p","6092/SiC/
+25p"
+Form,,"extrusio
+n","extrusio
+n",sheet,"extrusio
+n"
+Temper,,T-42,T-6,T-6,T-6
+Thickness (mm),,95.3,2.3,2.5,18.8
+Density (kg/m3),,2823,2796,2796,2823
+"Tensile 
+strength 
+(MPa)",L,552,510,462,517
+,LT,510,,455,483
+"Compressive 
+strength 
+(MPa)",L,-,462,407,427
+,LT,-,-,386,407
+"Shear 
+strength 
+(MPa)",L,-,303,290,310
+,LT,-,-,290,290
+"Flexural 
+strength 
+(MPa)",L (E/d=1.5),-,793,731,703
+,L (E/d=2.0),-,1000,958,945
+,LT (E/d=1.5),-,-,758,696
+,LT (E/d=2.0),-,-,958,910
+"Flexural 
+yield 
+strength 
+(MPa)",L (E/d=1.5),-,703,689,683
+,L (E/d=2.0),-,827,855,834
+,LT (E/d=1.5),-,-,696,683
+,LT (E/d=2.0),-,-,841,834
+"Yield stress 
+(MPa)",L,372,448,393,421
+,LT,345,,365,400
+"Elongation 
+(%)",L,7,7,8,5
+,LT,6,-,7,4
+"Elastic 
+modulus 
+(GPa)",L,95,105,101,121
+,LT,92,-,101,114
+"Compressive 
+modulus 
+(GPa)",L,-,105,100,121
+,LT,-,-,100,113
+CTE(ppm/K),L,-,-,16.4,15.3
+,LT,-,-,-,16.9
+"Key: 
+(1) Supplier’s data",,,,,

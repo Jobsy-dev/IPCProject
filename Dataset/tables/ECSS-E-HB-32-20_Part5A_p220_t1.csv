@@ -1,0 +1,71 @@
+0,1,2,3,4,5
+Material system,,Thermal history,"Test
+temp.
+(°C)","Fatigue life, Nf
+(x103 cycles)",Comments
+Coating,Substrate,,,,
+"Codep B
+(Low
+activity
+aluminide)",Rene 80,"ST + A: not stated
+Coat: 1068°C/6h/?",900,286 ± 103,"Fatigue Test:
+90 Hz; R = 0.1
+Coating HT
+changes micro-
+structure of
+substrate
+alloy; crack
+initiates in
+coating,
+change in c.s.a."
+-,Rene 80,"ST + A: not stated
+1068°C/6h/?
+(simulated coat
+H.T.)",900,764 ± 261,-
+"Aluminide
+(high
+activity)
+[75m]","CMSX-2
+(SC)","ST:1315°C/30
+mins/AC
+A:1050°C/16hr/AC
++
+850°/24 hr/AC
+Coat: 700°C/7 hr/?",870,"Significantly
+lowers HCF
+resistance. At 107
+cycles stress
+reduced by 100
+MPa. Similar
+effect as for
+aluminide/CMSX-
+2 combination.","Fatigue Test:
+70 Hz;
+Load ratio R =
+0.95"
+"Ni-23Co-
+20Cr-
+8.5Al-4Ta-
+0.6Y
+[100m]","CMSX-2
+(SC)","ST + A as above
+Coat: PS
+(vacuum) +
+diffusion (1st
+alloy ageing
+temp)",870,"Cracks initiate at
+coating-to-
+substrate
+interface. Cracks
+also observed on
+surface of
+coating. Change
+in mechanism
+from uncoated,
+where cracks
+initiate from
+internal
+micropores of
+alloy.",-
+"Key: HT: Heat treatment; c.s.a: Cross sectional area; ST: Solution treatment; A: Aged; SC: Single
+crystal; PS(Vacuum): Plasma spray in vacuum.",,,,,

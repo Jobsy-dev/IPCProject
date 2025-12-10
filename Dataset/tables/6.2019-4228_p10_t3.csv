@@ -1,0 +1,9 @@
+0,1
+,The SLM process uses a layer-by-layer approach in which the desired component features are created by melting
+the powder using a laser. SLM is being used for the fabrication of the GRCop materials described in this paper. The,
+process starts with a 3D-CAD model that is sliced into thin 2D layers that are used to define the laser toolpath for,
+"sintering the part. A thin layer, typically 50 microns or thinner, of metal powder is spread across the build area, and a",
+"finely focused laser rasters to melt the area that defines the part cross-section at that particular layer17,18. A series of",
+in-fill (internal) and contouring (inner and outer edges of part) scans are completed in a defined strategy that generally,
+"minimizes incorporation of ejecta from the bed, hear build up and deformation of the parts and allows for 100%",
+coverage of the 2D sliced layer.,

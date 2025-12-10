@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6,7,8,9,10
+Property,Units,"Temp
+(°C)",Alloy classification,,,,,,,
+,,,Nickel‐base,,,Cobalt‐base,,,Iron‐base,
+,,,")a(
+X
+yolletsaH","A08
+cinomiN )b(",")b(
+817
+lenocnI",")b(
+201NI","223
+M-RAM )c(","203
+M-RAM )c(",")d(
+yolacsiD","
+YlArCeF"
+Density,g/cm3,-,8.22,8.19,8.19,8.55,8.91,9.21,7.95,-
+"Thermal
+Conductivit
+y ","Wm/
+K",-,9.7,11.2,11.2,-,-,-,-,-
+"Thermal
+Expansion
+","10-6
+/K",-,13.8,12.7,13.0,-,-,-,-,14.0
+"0.2% Proof
+Stress",MPa,RT,358-380,621-740,1056,504,628,690,730,-
+,,760,262,504,628,386,379,386,428,-
+,,870,179,262,-,200,345,310,173,-
+"Tensile
+Strength",MPa,RT,787,1235,1276,959,828,932,1000,-
+,,760,435,758,676,441,628,704,483,-
+,,870,255,400,-,214,552,448,-,-
+"Young's
+Modulus",GPa,RT,195,-,200,-,227,227,195,-
+,,760,-,-,155,-,160,160,-,-
+,,870,-,-,-,-,"150
+nom.","150
+nom.",-,-
+Elongation,%,RT,43,24,22,47,3.2,2,40,-
+,,760,37,20,8,110,6.5,8,32,-
+,,870,50,34,-,110,12,11,33,-
+"Material
+Form",,,Sheet,Bar,Sheet,Bar,-,-,-,-
+,,,"Wrough
+t","Wrough
+t","Wrough
+t","Wrough
+t",Cast,Cast,"Wrough
+t",-
+"Key: (a)  Cabot Corp. (b)  The International Nickel Co. Inc.; (c)  Martin Marietta Corp.’ (d) 
+Westinghouse Electric Corp.
+ : At 20°C;  : Between 20°C and 95°C;  : FeCrAlY alloys are only considered as superalloys with
+Oxide Dispersion Strengthening.",,,,,,,,,,

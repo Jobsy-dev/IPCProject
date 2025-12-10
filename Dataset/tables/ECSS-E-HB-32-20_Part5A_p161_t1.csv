@@ -1,0 +1,44 @@
+0,1
+Application,Property requirements
+Turbine discs,Operating temperatures 200 to 700°C typ.
+,Cyclic stress up to 1100 MPa typ.
+,Oxidising atmosphere
+,Hot corrosion resistance (1)
+,Centrifugal loading
+,Rim temperature 677°C typ.
+,Temperature gradients
+,High yield stress
+,Tensile strength to 700°C typ.
+,Creep and creep fatigue resistance
+,"Low and high cycle fatigue resistance (LCF, HCF)"
+,Crack growth resistance
+,Oxidisation resistance
+Turbine blades,Hot corrosion resistance
+,"Centrifugal stresses 150 to 200 MPa, typ."
+,"Gas entry temperature 1377°C, typ"
+,Gas temperature at incipient melting point (2)
+,Thermal gradients: Blade tip to root.
+,"Blade temperatures 1047°C, typ."
+,Static and cyclic loading
+,High temperature creep strength (at 0.8 Tm.) (3)
+,Fatigue resistance
+Gas turbine engines,Density
+,Thermal conductivity
+,Thermal emissivity
+,Thermal expansion
+,Melting point
+,Stiffness
+,Tensile strength
+,Creep strength
+,Fatigue strength
+,Fracture resistance
+,Impact resistance
+,Toughness
+"Nozzle guide vanes
+and combustion
+hardware","High temperature properties similar to blades even
+though they are static components."
+,Sheet form: High tensile and creep resistance.
+"Key: (1) By salts in marine environments & low grade fuel contaminants.
+(2) Cooled blades with internal channels.
+(3) Tm is the melting temperature in °C",

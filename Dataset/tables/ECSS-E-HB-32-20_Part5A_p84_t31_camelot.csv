@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+Material (1),"Young’s modulus 
+[GPa]",,"CTE 
+[ppm/K]",,"Thermal 
+Conductivity  
+[W/mK]","Density 
+[kg/m3]"
+,L(4),T(5),L(4),T(5),,
+"Fibres: 
+A and B (a) 
+(2)",758,6.9,1.45,10,550,2140
+"Fibres: 
+C and D (b) 
+(3)","931 to 
+965",6.9,1.45,10,900 to1100,2150
+Al-Si alloy,69,69,23,23,155,2660
+"Key
+(1) MMCC suppliers data; All are pitch‐based products and are milled before carbonising;  
+(2) Milled fibres A and B are produced from the same resin as Cytec P‐120;  
+(3) Milled fibres C and D are produced from the same resin as Cytec K1100;  
+(4) L ‐ Longitudinal (listed as ‘axial’ in supplier’s data);  
+(5) T ‐ Transverse",,,,,,

@@ -1,0 +1,1993 @@
+paper_id,page_num,table_idx,n_rows,n_cols,csv_path,sample_header
+20250513--GRX-810_Addtional_NASA_Data,2,1,10,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p2_t1.csv,Element | Nominal
+20250513--GRX-810_Addtional_NASA_Data,2,2,2,4,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p2_t2.csv,Heat Treatment | Temperature | Time | Stress
+20250513--GRX-810_Addtional_NASA_Data,2,3,2,3,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p2_t3.csv,Laser Power (W) | Scan Speed (mm/s) | Layer Thickness (mm)
+20250513--GRX-810_Addtional_NASA_Data,3,1,7,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p3_t1.csv,Density (g/cm3) | 8.44
+20250513--GRX-810_Addtional_NASA_Data,3,2,7,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p3_t2.csv,Density (g/cm3) | 8.44
+20250513--GRX-810_Addtional_NASA_Data,3,3,7,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p3_t3_camelot.csv,Density (g/cm3) | 8.44
+20250513--GRX-810_Addtional_NASA_Data,5,1,15,4,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p5_t1.csv,"Temperature
+(C) | AB Specific Heat
+(J/g/K) | AB Thermal Diffusivity
+-2
+(Cm /s) | AB Thermal Conductivity
+(W/m/K)"
+20250513--GRX-810_Addtional_NASA_Data,5,7,15,4,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p5_t7_camelot.csv,"Temperature 
+ (C) | AB Specific Heat  
+(J/g/K) | AB Thermal Diffusivity 
+-2
+(Cm
+/s) | AB Thermal Conductivity 
+(W/m/K)"
+20250513--GRX-810_Addtional_NASA_Data,6,1,15,4,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p6_t1.csv,"Temperature (C) | HIP Specific Heat
+(J/g/K) | HIP Thermal Diffusivity
+2
+(Cm /s) | HIP Thermal Conductivity
+(W/m/K)"
+20250513--GRX-810_Addtional_NASA_Data,6,8,15,4,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p6_t8_camelot.csv,"Temperature (C) | HIP Specific Heat  
+(J/g/K) | HIP Thermal Diffusivity 
+2
+(Cm
+/s) | HIP Thermal Conductivity  
+(W/m/K)"
+20250513--GRX-810_Addtional_NASA_Data,7,1,14,3,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p7_t1.csv,"Temperature (C) | -6
+HIP CTE (10 m/m/°C) | -6
+AB CTE (10 m/m/°C)"
+20250513--GRX-810_Addtional_NASA_Data,7,11,14,3,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p7_t11_camelot.csv,"Temperature (C) | -6
+HIP CTE (10
+m/m/°C) | -6
+AB CTE (10
+m/m/°C)"
+20250513--GRX-810_Addtional_NASA_Data,8,1,7,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p8_t1.csv,Temp (C) | Modulus (Gpa)
+20250513--GRX-810_Addtional_NASA_Data,8,12,7,2,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p8_t12_camelot.csv,Temp (C) | Modulus (Gpa)
+20250513--GRX-810_Addtional_NASA_Data,9,1,9,6,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p9_t1.csv,"Polishing Step | Grit Size | Lubricant | Time
+(min) | Load
+(N) | RPM"
+20250513--GRX-810_Addtional_NASA_Data,9,13,9,6,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p9_t13_camelot.csv,"Polishing Step | Grit Size | Lubricant | Time 
+(min) | Load 
+(N) | RPM"
+20250513--GRX-810_Addtional_NASA_Data,11,1,44,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p11_t1.csv,Machine | Test Temperature | None | Avg. 0.2% Yield Strength | None | Avg. Ultimate Tensile Strength | None | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,11,14,41,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p11_t14_camelot.csv,Machine | Test Temperature | <NA> | Avg. 0.2% Yield Strength | <NA> | Avg. Ultimate Tensile Strength | <NA> | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,12,1,44,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p12_t1.csv,Machine | Test Temperature | None | Avg. 0.2% Yield Strength | None | Avg. Ultimate Tensile Strength | None | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,12,15,41,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p12_t15_camelot.csv,Machine | Test Temperature | <NA> | Avg. 0.2% Yield Strength | <NA> | Avg. Ultimate Tensile Strength | <NA> | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,13,1,13,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p13_t1.csv,Machine | Test Temperature | None | Avg. 0.2% Yield Strength | None | Avg. Ultimate Tensile Strength | None | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,13,2,8,10,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p13_t2.csv,Machine | Condition | Test Temperature | None | Avg. 0.2% Yield Strength | None | Avg. Ultimate Tensile Strength | None | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,13,16,13,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p13_t16_camelot.csv,Machine | Test Temperature | <NA> | Avg. 0.2% Yield Strength | <NA> | Avg. Ultimate Tensile Strength | <NA> | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,13,17,13,9,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p13_t17_camelot.csv,Machine | Test Temperature | <NA> | Avg. 0.2% Yield Strength | <NA> | Avg. Ultimate Tensile Strength | <NA> | Avg. Elongation | Tested Samples
+20250513--GRX-810_Addtional_NASA_Data,13,18,8,10,Dataset\tables\20250513--GRX-810_Addtional_NASA_Data_p13_t18_camelot.csv,Machine | Condition | Test Temperature | <NA> | Avg. 0.2% Yield Strength | <NA> | Avg. Ultimate Tensile Strength | <NA> | Avg. Elongation | Tested Samples
+6.2017-4670,1,1,19,2,Dataset\tables\6.2017-4670_p1_t1.csv,None | NASA and industry partners are working towards fabrication process development to reduce
+6.2017-4670,1,3,6,1,Dataset\tables\6.2017-4670_p1_t3.csv,"1 Combustion Devices Engineer, NASA Marshall Space Flight Center, Huntsville, AL 35812"
+6.2017-4670,2,2,12,2,Dataset\tables\6.2017-4670_p2_t2.csv,A | dditive Manufacturing (AM) technologies continue to evolve and mature creating opportunities for application
+6.2017-4670,3,1,5,2,Dataset\tables\6.2017-4670_p3_t1.csv,None | SLM offers a new approach to fabricate pre-closeout coolant passages and makes alternate processes viable for
+6.2017-4670,3,3,6,2,Dataset\tables\6.2017-4670_p3_t3.csv,None | A variety of copper-based alloys such as NARloy-Z (Cu-3 wt.% Ag-0.5 wt.% Zr) and C-18150 have been used for
+6.2017-4670,3,4,4,2,Dataset\tables\6.2017-4670_p3_t4.csv,"None | In SLM, a layer of powder tens of microns thick is spread on a flat plate. A laser melts the powder where solid"
+6.2017-4670,4,1,5,2,Dataset\tables\6.2017-4670_p4_t1.csv,None | Several challenges exist in attempting to consolidate copper-based alloys using SLM. The first is that copper is
+6.2017-4670,4,2,5,2,Dataset\tables\6.2017-4670_p4_t2.csv,"None | GRCop and GlidCop, two alloys that have been considered for rocket engines in the past7, have the unique problem"
+6.2017-4670,4,3,8,2,Dataset\tables\6.2017-4670_p4_t3.csv,"None | Finally, SLM processing leaves a surface finish roughly equivalent to the diameter of the powder used. Typically"
+6.2017-4670,4,4,4,2,Dataset\tables\6.2017-4670_p4_t4.csv,"None | It was rapidly discovered that GRCop-84 was easily melted in the SLM process. Most likely, the 14 vol.% Cr Nb
+2"
+6.2017-4670,4,5,4,2,Dataset\tables\6.2017-4670_p4_t5.csv,None | The microstructure of the SLM GRCop-84 was examined by sectioning witness samples made at the same time as
+6.2017-4670,4,6,2,2,Dataset\tables\6.2017-4670_p4_t6.csv,(a) As-Extruded GRCop-84 (b) SLM GRCop-84 | None
+6.2017-4670,4,7,5,2,Dataset\tables\6.2017-4670_p4_t7.csv,"None | Two observations were made. First, the SLM process did not result in segregation of the Cr2Nb precipitates. This"
+6.2017-4670,4,8,4,2,Dataset\tables\6.2017-4670_p4_t8.csv,"None | The second observation was that the Cr Nb appears to have been refined in size. The Cr Nb present in the as-
+2 2"
+6.2017-4670,5,2,4,2,Dataset\tables\6.2017-4670_p5_t2.csv,None | Room tensile testing was conducted on a limited number of as-built specimens and samples that underwent a Hot
+6.2017-4670,5,3,1,2,Dataset\tables\6.2017-4670_p5_t3.csv,None | Figure 2. Average Room Temperature Stress-Strain Curves for SLM GRCop-84 in the As-Built and
+6.2017-4670,5,4,8,2,Dataset\tables\6.2017-4670_p5_t4.csv,None | Three things were immediately apparent. The first observation was that there was significant anisotropy in the as-
+6.2017-4670,5,5,4,2,Dataset\tables\6.2017-4670_p5_t5.csv,None | The third observation was that the tensile elongations of the HIPed SLM GRCop-84 were much greater than those
+6.2017-4670,5,6,4,2,Dataset\tables\6.2017-4670_p5_t6.csv,"None | Not shown in Figure 2 but documented elsewhere, HIPing and other high temperature thermal excursions will"
+6.2017-4670,5,7,5,2,Dataset\tables\6.2017-4670_p5_t7.csv,None | Creep testing also revealed that the material retains information from the SLM process. Figure 3 shows a
+6.2017-4670,6,1,6,2,Dataset\tables\6.2017-4670_p6_t1.csv,None | Low Cycle Fatigue (LCF) occurs in rocket
+6.2017-4670,6,2,10,2,Dataset\tables\6.2017-4670_p6_t2.csv,"None | As noted earlier, the cooling channel walls"
+6.2017-4670,6,3,11,3,Dataset\tables\6.2017-4670_p6_t3.csv,"None | None | As can be seen in Figure 4, the LCF samples"
+6.2017-4670,7,1,9,2,Dataset\tables\6.2017-4670_p7_t1.csv,"None | For reusable rocket engines, creep and other time dependent properties become a concern. The SLM GRCop-84"
+6.2017-4670,7,2,5,2,Dataset\tables\6.2017-4670_p7_t2.csv,None | It has been noted in the past that GRCop-84 has significant scatter in creep testing. That can be seen in the
+6.2017-4670,7,3,3,2,Dataset\tables\6.2017-4670_p7_t3.csv,"None | Overall, the properties of SLM GRCop-84 are equal to or exceed the properties of conventionally processed"
+6.2017-4670,7,4,5,2,Dataset\tables\6.2017-4670_p7_t4.csv,None | The benefits of SLM processing may extend to some other additive manufacturing processes. Electron Beam
+6.2017-4670,8,1,8,2,Dataset\tables\6.2017-4670_p8_t1.csv,"None | Starting in 2014, NASA’s LCUSP program has developed AM technologies and design tools aimed at reducing"
+6.2017-4670,8,2,10,2,Dataset\tables\6.2017-4670_p8_t2.csv,None | One of LCUSP’s goals is to advance these technologies to the level that can then be used to fabricate a test article
+6.2017-4670,8,3,6,2,Dataset\tables\6.2017-4670_p8_t3.csv,"None | Under LCUSP, AM technologies in SLM GRCop-84 and EBF3 Inconel 625 have been significantly advanced. In"
+6.2017-4670,9,1,1,1,Dataset\tables\6.2017-4670_p9_t1.csv,Figure 7.(a) LCUSP Thrust Chamber Assembly and (b)Hot Fire Test Article after joining and EBF3
+6.2017-4670,12,1,8,2,Dataset\tables\6.2017-4670_p12_t1.csv,None | As the required chamber length exceeded the build box dimensions of the SLM machine utilized for fabrication of
+6.2017-4670,12,2,10,2,Dataset\tables\6.2017-4670_p12_t2.csv,None | Structured Light Scanning was found to be a highly effective tool for characterization of the results of these
+6.2017-4670,12,3,5,2,Dataset\tables\6.2017-4670_p12_t3.csv,None | This information is useful for iterating on future redesigns and serves to quantify the limits of the types of features
+6.2017-4670,13,1,5,3,Dataset\tables\6.2017-4670_p13_t1.csv,"feed material at the right time. This is compared to subtractive machining, in which the tool must make contact in an | None | None"
+6.2017-4670,13,2,6,2,Dataset\tables\6.2017-4670_p13_t2.csv,None | A technique utilizing the combination of structured light scanning with CT information and the design model were
+6.2017-4670,13,3,1,2,Dataset\tables\6.2017-4670_p13_t3.csv,"A0001
+Barrel section alignment
+Yellow -CAD
+White -3D Scan
+Grey -CT Scan | <NA>"
+6.2017-4670,13,4,6,2,Dataset\tables\6.2017-4670_p13_t4.csv,"None | Finally, CT scans in comparison to the model geometry were found to be very useful for disposition discrepancies."
+6.2017-4670,14,3,5,2,Dataset\tables\6.2017-4670_p14_t3.csv,"None | Since 2005, MSFC has been designing, fabricating, and hot-fire testing thruster components for"
+6.2017-4670,14,4,9,2,Dataset\tables\6.2017-4670_p14_t4.csv,"None | Shown in Figure 17, the coolant channels were printed into this first GRCop-84 design, so that no separate"
+6.2017-4670,14,5,5,2,Dataset\tables\6.2017-4670_p14_t5.csv,None | This unit required multiple print attempts and design changes were made after each to produce a successful
+6.2017-4670,15,1,1,3,Dataset\tables\6.2017-4670_p15_t1.csv,None | Figure 19. Methane Cooled SLM GRCop-84 Throat Section Chamber Mounted & Hot-fire Tested at | None
+6.2017-4670,15,2,4,2,Dataset\tables\6.2017-4670_p15_t2.csv,None | The data from this methane cooled throat section chamber was used to optimize the design for the full length
+6.2017-4670,15,3,3,2,Dataset\tables\6.2017-4670_p15_t3.csv,"None | Due to its overall length, the chamber is printed in two sections to fit in the print envelope in the available Concept"
+6.2017-4670,15,4,7,2,Dataset\tables\6.2017-4670_p15_t4.csv,"None | Liquid methane is provided to the inlet manifold at the aft end. An open volume for this manifold is printed in,"
+6.2017-4670,15,5,2,2,Dataset\tables\6.2017-4670_p15_t5.csv,None | Hot-fire testing on the first META4 unit was successfully performed in March 2017. Figure 20 shows the
+6.2017-4670,16,1,5,1,Dataset\tables\6.2017-4670_p16_t1.csv,"the GRCop-84 chamber at high mixture ratio (MR) conditions, and the chamber remained well overcooled, showing"
+6.2017-4670,16,2,6,2,Dataset\tables\6.2017-4670_p16_t2.csv,None | An alternate version of META4 has been designed to create a smaller thruster for potential engine applications.
+6.2017-4670,16,3,7,2,Dataset\tables\6.2017-4670_p16_t3.csv,"None | A smaller version of META4 is also being developed as MET1 – Methane Engine Thruster for 1000 lb. This unit
+f"
+6.2017-4670,17,1,10,2,Dataset\tables\6.2017-4670_p17_t1.csv,"None | A 1.2K-lb thrust LOX/H2 chamber was designed to replace a heritage chamber (vintage 1960’s design) for use as
+f"
+6.2017-4670,17,2,10,2,Dataset\tables\6.2017-4670_p17_t2.csv,None | These new workhorse chambers were designed to meet chamber pressure up to 1100 psia and a range of MR
+6.2017-4670,17,3,5,2,Dataset\tables\6.2017-4670_p17_t3.csv,None | One-Piece Chamber Development
+6.2017-4670,18,1,10,2,Dataset\tables\6.2017-4670_p18_t1.csv,None | The initial SLM build of the one-piece chamber was completed at the MSFC materials lab. This build used a mix
+6.2017-4670,18,2,8,2,Dataset\tables\6.2017-4670_p18_t2.csv,None | The ports were each tapped manually using the port top surface as a primary datum and the outer circumference
+6.2017-4670,18,3,9,2,Dataset\tables\6.2017-4670_p18_t3.csv,"None | Following the port tapping, additional attempts were made at powder removal but continued to be a challenge."
+6.2017-4670,19,1,10,2,Dataset\tables\6.2017-4670_p19_t1.csv,None | The OD groove allowed for small diameter wire to be traversed up and down each one of the channels to help
+6.2017-4670,19,2,12,2,Dataset\tables\6.2017-4670_p19_t2.csv,None | The chamber was sent for a HIP cycle. A split ring was machined to match the groove to closeout the channels.
+6.2017-4670,19,3,6,2,Dataset\tables\6.2017-4670_p19_t3.csv,"None | This initial chamber was proof tested after all welding, but several hot wall pinhole leaks were discovered at low"
+6.2017-4670,20,1,6,2,Dataset\tables\6.2017-4670_p20_t1.csv,"None | Although this one-piece chamber was not tested, it provided several lessons learned during the design and"
+6.2017-4670,20,2,8,2,Dataset\tables\6.2017-4670_p20_t2.csv,None | Two-piece chamber development
+6.2017-4670,20,3,7,2,Dataset\tables\6.2017-4670_p20_t3.csv,None | The design of the two-piece was nearly identical to that of the one-piece including variable channels and integral
+6.2017-4670,21,1,11,2,Dataset\tables\6.2017-4670_p21_t1.csv,None | The SLM process for GRCop-84 has gone through significant development to produce desirable surface finishes.
+6.2017-4670,21,2,7,2,Dataset\tables\6.2017-4670_p21_t2.csv,None | Interchangeable Hybrid Additive Liner Slip Jacket Chamber Design
+6.2017-4670,22,1,1,2,Dataset\tables\6.2017-4670_p22_t1.csv,None | Figure 27. 1.2K SLM Printed Regen Chamber with Slip Jacket and O-Ring Design.
+6.2017-4670,22,2,8,2,Dataset\tables\6.2017-4670_p22_t2.csv,None | The hybrid additive slip jacket chamber completed hot-fire testing in November 2016 at MSFC TS115 using a
+6.2017-4670,23,1,2,2,Dataset\tables\6.2017-4670_p23_t1.csv,None | Figure 29. Hot-fire testing of the GRCop-84 additively manufactured liner with the stainless slip jacke
+6.2017-4670,23,3,1,2,Dataset\tables\6.2017-4670_p23_t3.csv,Adjust Mo | del / Redesign
+6.2017-4670,24,1,8,2,Dataset\tables\6.2017-4670_p24_t1.csv,"None | If a designer does not have internal access to the SLM machines and process, it should be noted that one should"
+6.2017-4670,25,6,6,2,Dataset\tables\6.2017-4670_p25_t6.csv,"None | Many SLM builds are being contracted out,"
+6.2017-4670,26,1,15,2,Dataset\tables\6.2017-4670_p26_t1.csv,"None | A significant team across NASA has been involved in the design, development, fabrication and hot-fire testing of"
+6.2017-4670,26,2,3,2,Dataset\tables\6.2017-4670_p26_t2.csv,"None | 1 Kazaroff, J. M., and G. A. Repas. Conventionally cast and forged copper alloy for high-heat-flux thrust chambers. No. N-87-"
+6.2017-4670,26,3,2,1,Dataset\tables\6.2017-4670_p26_t3.csv,"7 Pandey, A. B. ""MPSA061. 2 High Strength Copper Alloys for Rocket Engine Applications."" (2006)."
+6.2017-4670,26,4,4,2,Dataset\tables\6.2017-4670_p26_t4.csv,"None | 10 Protz, C., Bowman, R., Cooper, K., Fikes, J., Taminger, K., Wright, B. Additive Manufacturing of Low Cost Upper Stage"
+6.2017-4670,26,5,3,2,Dataset\tables\6.2017-4670_p26_t5.csv,"None | 11 Gradl, P.R., Greene, S.E., Valentine, P., Crisanti, M. Subscale Carbon-Carbon Nozzle Extension Development and Hot Fire"
+6.2017-4670,26,6,4,2,Dataset\tables\6.2017-4670_p26_t6.csv,"None | 12 Barnett, G., Bullard, B. Summary of Liquid Oxygen/Hydrogen, Direct Metal Laser Sintering Injector Testing and Evaluation"
+6.2017-4670,26,7,3,2,Dataset\tables\6.2017-4670_p26_t7.csv,"None | 13 Bullard, B. Design, Fabrication and Hot-fire Test of an Additively Manufactured Liquid Oxygen/Hydrogen 35-klbf Swirl"
+6.2017-4670,26,8,4,2,Dataset\tables\6.2017-4670_p26_t8.csv,"None | 14 Carter, R. W., Ellis, D.L., Locci, I.E., Evans, L.J., Lerch, B., Jones, Z.C., Cooper, K. G. Evaluation of GRCop-84 Produced"
+6.2017-4670,27,1,2,1,Dataset\tables\6.2017-4670_p27_t1.csv,"18 Elam, S.K; and Sprader: LOX/LCH4 Technology Demonstration - P8006A, NASA TM2009-216268, December 2009."
+6.2017-4670,27,2,3,2,Dataset\tables\6.2017-4670_p27_t2.csv,"None | 20 Greene, S.E., “Summary of LOX/CH4 Technology Development at NASA/MSFC”, 62nd JANNAF Propulsion Meeting and"
+6.2017-4670,27,3,3,2,Dataset\tables\6.2017-4670_p27_t3.csv,"None | 21 Greene, S.E., Protz, C., Garcia, C., Goodman, D., Baker, K., “Additively Manufactured Combustion Devices Components"
+6.2017-4670,27,4,3,2,Dataset\tables\6.2017-4670_p27_t4.csv,"None | 23 Gradl, P.R., Brandsmeier, W. Alberts, D., Walker, B., Schneider, J.A. Manufacturing Process Developments for Large Scale"
+6.2017-4670,27,5,2,1,Dataset\tables\6.2017-4670_p27_t5.csv,Characterization of Additively Manufactured Components for Rocket Propulsion. GRC-E-DAA-TN26762. International
+6.2017-4670,27,6,3,2,Dataset\tables\6.2017-4670_p27_t6.csv,"None | 27 Gradl, P.R., Valentine, P.E. “Carbon-Carbon Nozzle Extension Development in Support of In-Space and Upper-Stage"
+ECSS-E-HB-32-20_Part5A,3,1,1,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p3_t1.csv,"ECSS‐E‐HB‐32‐20 Part 5A
+20 March 2011 | First issue"
+ECSS-E-HB-32-20_Part5A,31,1,12,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p31_t1.csv,<NA> | Alloy | <NA> | <NA> | Wrought Alloys | <NA> | Alloy | <NA> | <NA> | Cast Alloys
+ECSS-E-HB-32-20_Part5A,31,2,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p31_t2.csv,"<NA> | Wrought alloys: the second digit, | <NA>"
+ECSS-E-HB-32-20_Part5A,31,3,3,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p31_t3.csv,<NA> | Cast alloys: modifications to the original alloy are | <NA>
+ECSS-E-HB-32-20_Part5A,31,4,2,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p31_t4.csv,<NA> | Condition (Temper) is indicated by a suffix letter separated by a hyphen. The basic temper can be followed by a | <NA>
+ECSS-E-HB-32-20_Part5A,31,5,4,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p31_t5.csv,<NA> | Basic temper designations | None | None | None | <NA>
+ECSS-E-HB-32-20_Part5A,33,1,26,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p33_t1.csv,"Inter-
+national | Alloy | UK | France | Germany | None | Italy | None | Sweden | Spain | Switzerland | CIS | EUROPE"
+ECSS-E-HB-32-20_Part5A,33,3,26,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p33_t3_camelot.csv,"Inter-
+national | Alloy | UK | France | Germany | <NA> | Italy | <NA> | Sweden | Spain | Switzerland | CIS | EUROPE"
+ECSS-E-HB-32-20_Part5A,34,1,19,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p34_t1.csv,5154A | Al Mg3.5(A) | N5 | A-G3 | 3.3535 | Al Mg3 | 3574 | 9005/8 | - | L-3392 | - | AMG3 | AW-5154A
+ECSS-E-HB-32-20_Part5A,34,4,19,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p34_t4_camelot.csv,5154A | Al Mg3.5(A) | N5 | A-G3 | 3.3535 | Al Mg3 | 3574 | 9005/8 | - | L-3392 | - | AMG3 | AW-5154A
+ECSS-E-HB-32-20_Part5A,35,1,34,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p35_t1.csv,"USA
+AA | SAE | ISO | UK
+BS/DTD | France | Germany | None | None | Italy | Sweden
+SIS | Switzerland | CIS | Europe
+CEN (2)"
+ECSS-E-HB-32-20_Part5A,35,5,34,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p35_t5_camelot.csv,"USA 
+AA | SAE | ISO | UK 
+BS/DTD | France | Germany | <NA> | <NA> | Italy | Sweden 
+SIS | Switzerland | CIS | Europe 
+CEN (2)"
+ECSS-E-HB-32-20_Part5A,40,1,19,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p40_t1.csv,Alloy Supplier | Composition (a) | None | None | None | None | None | None | Forms | Tempers | Target replacements
+ECSS-E-HB-32-20_Part5A,40,6,18,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p40_t6_camelot.csv,"Composition (a) 
+Alloy 
+Supplier 
+Forms 
+Tempers 
+Target replacements 
+Cu 
+Li 
+Mg 
+Zr 
+Ag 
+Zn 
+Mn | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,42,1,11,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p42_t1.csv,Properties | Alloy | None | None | None | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,42,7,11,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p42_t7_camelot.csv,Properties | Alloy | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,45,1,44,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p45_t1.csv,"Alloy and
+temper | Form | Direction (1)
+(2) | UTS (MPa) | YS (MPa) | Elong.
+(%)"
+ECSS-E-HB-32-20_Part5A,45,8,44,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p45_t8_camelot.csv,"Alloy and 
+temper | Form | Direction (1) 
+(2) | UTS (MPa) | YS (MPa) | Elong. 
+(%)"
+ECSS-E-HB-32-20_Part5A,46,1,6,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p46_t1.csv,"Alloy and
+temper | Form | Direction (1)
+(2) | UTS (MPa) | YS (MPa) | Elong.
+(%)"
+ECSS-E-HB-32-20_Part5A,46,9,6,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p46_t9_camelot.csv,"Alloy and 
+temper | Form | Direction (1) 
+(2) | UTS (MPa) | YS (MPa) | Elong. 
+(%)"
+ECSS-E-HB-32-20_Part5A,47,1,42,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p47_t1.csv,Alloy‐Temper | Form | Direction (1) | K Q MPa√m | KIc MPa√m | Kc MPa√m
+ECSS-E-HB-32-20_Part5A,47,10,42,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p47_t10_camelot.csv,Alloy‐Temper | Form | Direction (1) | K Q  MPa√m | KIc  MPa√m | Kc  MPa√m
+ECSS-E-HB-32-20_Part5A,51,1,15,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p51_t1.csv,"Alloy and
+Temper (2) | Direction (1) | K MPa√m | d(2a)/dN, (mm/kcycle) | None"
+ECSS-E-HB-32-20_Part5A,51,11,15,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p51_t11_camelot.csv,"Alloy and 
+Temper (2) | Direction (1) | K   MPa√m | d(2a)/dN, (mm/kcycle) | <NA>"
+ECSS-E-HB-32-20_Part5A,53,1,7,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p53_t1.csv,<NA> | 8090‐T8511 | None | 8090‐T82 | None
+ECSS-E-HB-32-20_Part5A,53,13,7,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p53_t13_camelot.csv,<NA> | 8090‐T8511 | <NA> | 8090‐T82 | <NA>
+ECSS-E-HB-32-20_Part5A,55,1,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p55_t1.csv,"ESA Metallurgy
+Report No. | Material type | Proposed
+classification(1) (2)"
+ECSS-E-HB-32-20_Part5A,55,14,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p55_t14_camelot.csv,"ESA Metallurgy 
+Report No. | Material type | Proposed 
+classification(1) (2)"
+ECSS-E-HB-32-20_Part5A,56,1,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t1.csv,"Sheet | Temper | Alloy Category | LT SCC threshold, [MPa]"
+ECSS-E-HB-32-20_Part5A,56,2,8,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t2.csv,"Alloy | Nominal yield
+stress [MPa] | SCC test
+stress [MPa] | Lifetime [Days] | None"
+ECSS-E-HB-32-20_Part5A,56,3,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t3.csv,"Alloy | Ageing Condition | S.T. Threshold Stress, [MPa]"
+ECSS-E-HB-32-20_Part5A,56,15,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t15_camelot.csv,"Sheet | Temper | Alloy Category 
+LT SCC threshold, [MPa]"
+ECSS-E-HB-32-20_Part5A,56,16,8,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t16_camelot.csv,"Alloy | Nominal yield 
+stress [MPa] | SCC test 
+stress [MPa] | Lifetime [Days] | <NA>"
+ECSS-E-HB-32-20_Part5A,56,17,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p56_t17_camelot.csv,"Alloy | Ageing Condition | S.T. Threshold Stress, [MPa]"
+ECSS-E-HB-32-20_Part5A,57,1,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p57_t1.csv,"Alloy | Form | Direction (1) | SCC resistance (a) | None | EXCO(2)
+rating (b)"
+ECSS-E-HB-32-20_Part5A,57,18,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p57_t18_camelot.csv,"Alloy | Form | Direction (1) | SCC resistance (a) | <NA> | EXCO(2) 
+rating (b)"
+ECSS-E-HB-32-20_Part5A,59,1,11,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p59_t1.csv,"Alloy +
+condition | t (mm) 3 | Orientati
+on | R | Test
+temp.3
+(C) | K3
+(MPam) | None | None | Specim
+en ID"
+ECSS-E-HB-32-20_Part5A,59,19,8,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p59_t19_camelot.csv,"Alloy + 
+condition | t (mm) 3 | Orientati
+on | R | Test 
+temp.3  
+(C) | K3  
+(MPam) | Specim
+en ID"
+ECSS-E-HB-32-20_Part5A,61,1,5,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p61_t1.csv,ET ‐ External Tank | Mass (kg) | Missions
+ECSS-E-HB-32-20_Part5A,61,20,5,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p61_t20_camelot.csv,ET ‐ External Tank | Mass (kg) | Missions
+ECSS-E-HB-32-20_Part5A,74,1,7,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p74_t1.csv,Alloy | Composition (wt%) | None | None | None | None | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,74,2,11,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p74_t2.csv,"Alloy | Temper | UTS
+(MPa)(1) | YS
+(MPa) (1) | Elongation
+(%)(1)"
+ECSS-E-HB-32-20_Part5A,74,22,6,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p74_t22_camelot.csv,"Composition (wt%) 
+Alloy 
+Zn 
+Mg 
+Cu 
+Co 
+Zr 
+Ni 
+Cr 
+Li 
+O 
+C | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,74,23,11,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p74_t23_camelot.csv,"Alloy | Temper | UTS 
+(MPa)(1) | YS 
+(MPa) (1) | Elongation 
+(%)(1)"
+ECSS-E-HB-32-20_Part5A,75,1,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p75_t1.csv,"Temperature (1)
+(°C) | TS
+(MPa) | YS
+(MPa) | E
+(GPa) | Elongation (%) | Fracture Toughness,
+K (MPa√m)
+1C"
+ECSS-E-HB-32-20_Part5A,75,24,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p75_t24_camelot.csv,"Temperature (1) 
+(°C) | TS 
+(MPa) | YS 
+(MPa) | E 
+(GPa) | Elongation (%) | Fracture Toughness, 
+K1C   (MPa√m)"
+ECSS-E-HB-32-20_Part5A,76,1,6,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t1.csv,"Temperature
+(°C) | YS
+(MPa) | UTS
+(MPa) | Elongation
+(%) | E
+(GPa)"
+ECSS-E-HB-32-20_Part5A,76,2,5,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t2.csv,"Temperature
+(°C) | UTS
+(MPa) | YS
+(MPa) | Elongation
+(%) | E
+(GPa)"
+ECSS-E-HB-32-20_Part5A,76,3,12,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t3.csv,"Alloy (1) | Composition | E
+(GPa) | 
+(kg/m3) | E/(2)
+(MNm/kg) | E1/3/(3)
+(N1/3m7/3/kg)"
+ECSS-E-HB-32-20_Part5A,76,25,6,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t25_camelot.csv,"Temperature 
+(°C) | YS 
+(MPa) | UTS 
+(MPa) | Elongation 
+(%) | E 
+(GPa)"
+ECSS-E-HB-32-20_Part5A,76,26,5,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t26_camelot.csv,"Temperature 
+(°C) | UTS 
+(MPa) | YS 
+(MPa) | Elongation 
+(%) | E 
+(GPa)"
+ECSS-E-HB-32-20_Part5A,76,27,12,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p76_t27_camelot.csv,"Alloy (1) | Composition | E 
+(GPa) |  
+(kg/m3) | E/(2) 
+(MNm/kg) | E1/3/(3) 
+(N1/3m7/3/kg)"
+ECSS-E-HB-32-20_Part5A,80,1,20,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p80_t1.csv,Supplier (location) | Reinforcements | Matrix alloys | Process
+ECSS-E-HB-32-20_Part5A,80,29,20,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p80_t29_camelot.csv,Supplier (location) | Reinforcements | Matrix alloys | Process
+ECSS-E-HB-32-20_Part5A,83,1,13,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p83_t1.csv,Appearance | Black Powder
+ECSS-E-HB-32-20_Part5A,83,30,13,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p83_t30_camelot.csv,Appearance | Black Powder
+ECSS-E-HB-32-20_Part5A,84,1,6,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p84_t1.csv,"Material (1) | Young’s modulus
+[GPa] | None | CTE
+[ppm/K] | None | Thermal
+Conductivity
+[W/mK] | Density
+[kg/m3]"
+ECSS-E-HB-32-20_Part5A,84,31,6,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p84_t31_camelot.csv,"Material (1) | Young’s modulus 
+[GPa] | <NA> | CTE 
+[ppm/K] | <NA> | Thermal 
+Conductivity  
+[W/mK] | Density 
+[kg/m3]"
+ECSS-E-HB-32-20_Part5A,87,1,17,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p87_t1.csv,Properties | AMC225xe * | AMC640xa * | None
+ECSS-E-HB-32-20_Part5A,87,32,17,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p87_t32_camelot.csv,Properties | AMC225xe * | AMC640xa * | <NA>
+ECSS-E-HB-32-20_Part5A,88,1,17,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p88_t1.csv,"Thermal Cycling | Temper | Temperature
+(°C) | UTS YS
+(MPa) (MPa)"
+ECSS-E-HB-32-20_Part5A,88,33,17,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p88_t33_camelot.csv,"Thermal Cycling | Temper | Temperature 
+(°C) | UTS 
+YS 
+(MPa) 
+(MPa)"
+ECSS-E-HB-32-20_Part5A,89,1,18,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p89_t1.csv,"Material | Temp.
+(°C) | UTS YS
+(MPa) (MPa) | E
+(GPa) | Fatigue strength, 107
+cycles, (MPa)"
+ECSS-E-HB-32-20_Part5A,89,34,18,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p89_t34_camelot.csv,"Material | Temp. 
+(°C) | UTS 
+YS 
+(MPa) 
+(MPa) | E 
+(GPa) | Fatigue strength, 107 
+cycles, (MPa)"
+ECSS-E-HB-32-20_Part5A,90,1,30,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p90_t1.csv,"Properties (1) | None | 2009/SiC
+/15.5p | 6092/SiC
+/17.5p | 6092/SiC
+/17.5p | 6092/SiC/
+25p"
+ECSS-E-HB-32-20_Part5A,90,35,30,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p90_t35_camelot.csv,"Properties (1) | <NA> | 2009/SiC
+/15.5p | 6092/SiC
+/17.5p | 6092/SiC
+/17.5p | 6092/SiC/
+25p"
+ECSS-E-HB-32-20_Part5A,91,1,14,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p91_t1.csv,"Matrix
+alloy | SiCp
+(vol.
+%) | SiCp
+d50
+Value
+(m) | Temper | Extrusion
+ratio | Directio
+n | YS
+(MPa) | UTS
+(MP
+a) | Elong-
+ation
+(%) | E
+(GPa
+)"
+ECSS-E-HB-32-20_Part5A,91,36,14,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p91_t36_camelot.csv,"Matrix 
+alloy | SiCp 
+(vol. 
+%) | SiCp 
+d50 
+Value 
+(m) | Temper | Extrusion 
+ratio | Directio
+n | YS 
+(MPa) | UTS 
+(MP
+a) | Elong-
+ation  
+(%) | E 
+(GPa
+)"
+ECSS-E-HB-32-20_Part5A,94,1,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p94_t1.csv,Properties | AlSiC‐9 | AlSiC‐10 | AlSiC‐12
+ECSS-E-HB-32-20_Part5A,94,39,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p94_t39_camelot.csv,Properties | AlSiC‐9 | AlSiC‐10 | AlSiC‐12
+ECSS-E-HB-32-20_Part5A,95,1,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p95_t1.csv,Properties | MCX‐693 | MCX‐686 | MCX‐696 | MCX‐724 | MCX‐947
+ECSS-E-HB-32-20_Part5A,95,2,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p95_t2.csv,"Properties | MCX‐
+1195 | MCX‐1405 | MCX‐1605"
+ECSS-E-HB-32-20_Part5A,95,40,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p95_t40_camelot.csv,Properties | MCX‐693 | MCX‐686 | MCX‐696 | MCX‐724 | MCX‐947
+ECSS-E-HB-32-20_Part5A,95,41,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p95_t41_camelot.csv,"Properties | MCX‐
+1195 | <NA> | MCX‐1405  MCX‐1605"
+ECSS-E-HB-32-20_Part5A,96,1,20,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p96_t1.csv,Properties | Material designation | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,96,42,20,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p96_t42_camelot.csv,Properties | Material designation | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,97,1,10,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p97_t1.csv,Properties | Material | None | None
+ECSS-E-HB-32-20_Part5A,97,43,10,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p97_t43_camelot.csv,Properties | Material | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,98,1,22,19,Dataset\tables\ECSS-E-HB-32-20_Part5A_p98_t1.csv,"Hexon
+SiB6
+(vol.%) | Ultimate
+tensile
+strength (2)
+(MPa) | None | None | Yield
+stress (2)
+(MPa) | None | None | Fatigue
+strength(2)
+(MPa) | None | None | Elastic
+modulus(3
+) (GPa) | None | None | The"
+ECSS-E-HB-32-20_Part5A,98,44,22,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p98_t44_camelot.csv,"Hexon 
+SiB6 
+(vol.%) | Ultimate 
+tensile 
+strength (2) 
+(MPa) | Yield 
+stress (2)  
+(MPa) | Fatigue 
+strength(2)  
+(MPa) | Elastic 
+modulus(3
+)  (GPa) | Thermal 
+conductivity(3) 
+(W/mK) | Thermal 
+ex"
+ECSS-E-HB-32-20_Part5A,99,1,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p99_t1.csv,"Properties | None | MetGraf
+4‐230 | MetGraf
+7‐200"
+ECSS-E-HB-32-20_Part5A,99,45,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p99_t45_camelot.csv,"Properties | <NA> | MetGraf 
+4‐230 | MetGraf 
+7‐200"
+ECSS-E-HB-32-20_Part5A,100,1,4,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p100_t1.csv,"<NA> | MetGraf
+7‐200 | MetGraf
+4‐230 | Kovar | Al/SiC | CuMo
+80‐20 | CuMo
+85‐15 | CuW
+90‐10 | CuW
+85‐15"
+ECSS-E-HB-32-20_Part5A,100,46,4,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p100_t46_camelot.csv,"<NA> | MetGraf 
+7‐200 | MetGraf
+4‐230 | Kovar | Al/SiC | CuMo
+80‐20 | CuMo 
+85‐15 | CuW 
+90‐10 | CuW 
+85‐15"
+ECSS-E-HB-32-20_Part5A,101,1,13,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p101_t1.csv,Properties | Osprey standard alloys | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,101,47,13,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p101_t47_camelot.csv,Properties | Osprey standard alloys | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,103,1,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p103_t1.csv,"Fibre
+type(1)/Name | Al 0
+2 3
+Carbon Carbon Carbon Al 0 :SiO
+2 3 2
+Nextel
+HT IM HM Altex
+610"
+ECSS-E-HB-32-20_Part5A,103,48,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p103_t48_camelot.csv,"Fibre 
+type(1)/Name | Al203 
+Carbon 
+Carbon 
+Carbon 
+Al203:SiO2 
+Nextel 
+Altex 
+HT 
+IM 
+HM 
+610"
+ECSS-E-HB-32-20_Part5A,104,1,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p104_t1.csv,Nextel 610 (1) | Properties
+ECSS-E-HB-32-20_Part5A,104,49,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p104_t49_camelot.csv,Nextel 610 (1) | Properties
+ECSS-E-HB-32-20_Part5A,108,1,14,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p108_t1.csv,"Fibre (1) | Vol
+% | Matrix | Process
+(2) | Density
+(kg/m3) | Direction
+(3) | UTS
+(MPa) | E
+(GPa) | CTE (ppm/K) | None"
+ECSS-E-HB-32-20_Part5A,108,50,14,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p108_t50_camelot.csv,"Fibre (1) | Vol
+% | Matrix | Process 
+(2) | Density 
+(kg/m3) | Direction 
+(3) | UTS 
+(MPa) | E 
+(GPa) | CTE (ppm/K) | <NA>"
+ECSS-E-HB-32-20_Part5A,109,1,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p109_t1.csv,Properties (3) | Matrix | None
+ECSS-E-HB-32-20_Part5A,109,51,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p109_t51_camelot.csv,Properties (3) | Matrix | <NA>
+ECSS-E-HB-32-20_Part5A,110,1,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p110_t1.csv,Material | None | None
+ECSS-E-HB-32-20_Part5A,110,2,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p110_t2.csv,Application: Push rods(1) ; 9.5mm diameter  226mm long | None | None
+ECSS-E-HB-32-20_Part5A,110,52,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p110_t52_camelot.csv,Material | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,110,53,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p110_t53_camelot.csv,Application: Push rods(1) ;  9.5mm diameter  226mm long | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,111,1,18,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p111_t1.csv,MetPreg™ alumina reinforced aluminium ‘prepreg’ tape | None
+ECSS-E-HB-32-20_Part5A,111,54,18,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p111_t54_camelot.csv,MetPreg™ alumina reinforced aluminium ‘prepreg’ tape | <NA>
+ECSS-E-HB-32-20_Part5A,127,1,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p127_t1.csv,"Alloying element | Range
+(approx. weight.%) | Effect on structure"
+ECSS-E-HB-32-20_Part5A,127,55,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p127_t55_camelot.csv,"Alloying element | Range 
+(approx. weight.%) | Effect on structure"
+ECSS-E-HB-32-20_Part5A,128,1,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p128_t1.csv,Property |  ‐ processed |  ‐  processed
+ECSS-E-HB-32-20_Part5A,128,2,8,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p128_t2.csv,"Alloy group or
+specification | Nominal
+composition
+(%) | Available product
+forms (Country) | General description | Typical aerospace
+applications"
+ECSS-E-HB-32-20_Part5A,128,56,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p128_t56_camelot.csv,Property |  ‐ processed |  ‐   processed
+ECSS-E-HB-32-20_Part5A,128,57,8,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p128_t57_camelot.csv,"Nominal 
+Alloy group or 
+Available product 
+Typical aerospace 
+General description 
+composition 
+specification 
+forms (Country) 
+applications 
+(%) | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,129,1,11,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p129_t1.csv,"Alloy group or
+specification | Nominal
+composition
+(%) | Available product
+forms (Country) | General description | Typical aerospace
+applications"
+ECSS-E-HB-32-20_Part5A,129,58,11,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p129_t58_camelot.csv,"Alloy group or 
+specification | Nominal 
+composition 
+(%) | Available product 
+forms (Country) | General description | Typical aerospace 
+applications"
+ECSS-E-HB-32-20_Part5A,131,1,10,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p131_t1.csv,"Alloy | Form | Temp.
+(C) | UTS
+(MPa) | 0.2%PS
+(MPa) | El
+(%) | R of A
+(%) | Comments"
+ECSS-E-HB-32-20_Part5A,131,59,10,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p131_t59_camelot.csv,"Alloy | Form | Temp. 
+(C) | UTS 
+(MPa) | 0.2%PS 
+(MPa) | El 
+(%) | R of A 
+(%) | Comments"
+ECSS-E-HB-32-20_Part5A,137,1,17,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p137_t1.csv,Property | Alloy | None | None | None | None
+ECSS-E-HB-32-20_Part5A,137,65,16,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p137_t65_camelot.csv,Property | Alloy | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,145,1,30,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p145_t1.csv,"Matrix Alloy
+[See: Notes] | Fibre Type
+† | Fibre Volume
+% | Ultimate Tensile Strength | None | Modulus (GPa) | Notes"
+ECSS-E-HB-32-20_Part5A,145,67,30,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p145_t67_camelot.csv,"Matrix Alloy 
+[See: Notes] | Fibre Type 
+† | Fibre Volume 
+% | Ultimate Tensile Strength | <NA> | Modulus (GPa) | Notes"
+ECSS-E-HB-32-20_Part5A,146,1,5,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p146_t1.csv,"Alloy | Filament
+(Vol.%) | UTS
+(MPa) | Modulus
+(GPa)"
+ECSS-E-HB-32-20_Part5A,146,68,5,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p146_t68_camelot.csv,"Alloy | Filament 
+(Vol.%) | UTS 
+(MPa) | Modulus 
+(GPa)"
+ECSS-E-HB-32-20_Part5A,147,1,15,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p147_t1.csv,"Matrix type
+[See: Notes] | Fibre
+type
+† | Fibre
+vol. % | Cycles to
+failure
+(x 104) | UTS
+(MPa)"
+ECSS-E-HB-32-20_Part5A,147,69,15,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p147_t69_camelot.csv,"Matrix type 
+[See: Notes] | Fibre 
+type  
+† | Fibre  
+vol. % | Cycles to 
+failure  
+(x 104) | UTS  
+(MPa)"
+ECSS-E-HB-32-20_Part5A,150,1,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p150_t1.csv,Conditions | Characteristics | Comments
+ECSS-E-HB-32-20_Part5A,150,71,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p150_t71_camelot.csv,Conditions | Characteristics | Comments
+ECSS-E-HB-32-20_Part5A,151,1,11,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p151_t1.csv,Conditions | Characteristic
+ECSS-E-HB-32-20_Part5A,151,72,11,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p151_t72_camelot.csv,Conditions | Characteristic
+ECSS-E-HB-32-20_Part5A,152,1,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p152_t1.csv,"Substrate | Coating
+composition | Application
+method | Comments"
+ECSS-E-HB-32-20_Part5A,152,73,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p152_t73_camelot.csv,"Substrate | Coating 
+composition | Application 
+method | Comments"
+ECSS-E-HB-32-20_Part5A,161,1,38,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p161_t1.csv,Application | Property requirements
+ECSS-E-HB-32-20_Part5A,161,74,38,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p161_t74_camelot.csv,Application | Property requirements
+ECSS-E-HB-32-20_Part5A,163,1,34,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p163_t1.csv,Alloy designation [Manufacturer] | Application | Notes
+ECSS-E-HB-32-20_Part5A,163,75,34,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p163_t75_camelot.csv,"Alloy designation [Manufacturer] 
+Application 
+Notes | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,164,1,21,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p164_t1.csv,"Alloy | Form | Temp.
+(°C) | TS
+(MPa) | YS
+(MPa) | El
+(%) | R of A
+(%) | E
+(GPa) | Notch
+TS
+(MPa) | Stress Rupture | None | DEWSIM
+(gcm-3) | Melting
+Range
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,164,76,21,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p164_t76_camelot.csv,"Alloy | Form | Temp. 
+(°C) | TS 
+(MPa) | YS 
+(MPa) | El 
+(%) | R of A 
+(%) | E 
+(GPa) | Notch 
+TS 
+(MPa) | Stress Rupture | <NA> | DEWSIM 
+(gcm-3) | Melting 
+Range 
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,165,1,23,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p165_t1.csv,"Alloy | Form | Temp.
+(°C) | TS
+(MPa) | YS
+(MPa) | El
+(%) | R of A
+(%) | E
+(GPa) | Notch
+TS
+(MPa) | Stress Rupture | None | DEWSIM
+(g/cm3) | Melting
+Range
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,165,77,23,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p165_t77_camelot.csv,"Alloy | Form | Temp. 
+(°C) | TS 
+(MPa) | YS 
+(MPa) | El 
+(%) | R of A 
+(%) | E 
+(GPa) | Notch 
+TS 
+(MPa) | Stress Rupture | <NA> | DEWSIM 
+(g/cm3) | Melting 
+Range 
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,166,1,17,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p166_t1.csv,"Alloy | Form | Temp.
+(°C) | TS
+(MPa) | YS
+(MPa) | El
+(%) | R of A
+(%) | E
+(GPa) | Notch
+TS
+(MPa) | Stress Rupture | None | DEWSIM
+(g/cm3) | Melting
+Range
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,166,78,17,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p166_t78_camelot.csv,"Alloy | Form | Temp. 
+(°C) | TS 
+(MPa) | YS 
+(MPa) | El 
+(%) | R of A 
+(%) | E 
+(GPa) | Notch 
+TS 
+(MPa) | Stress Rupture | <NA> | DEWSIM 
+(g/cm3) | Melting 
+Range 
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,167,1,11,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p167_t1.csv,"Alloy | Form | Temp.
+(°C) | TS
+(MPa) | YS
+(MPa) | El
+(%) | R of A
+(%) | E
+(GPa) | Notch
+TS
+(MPa) | Stress Rupture | None | DEWSIM
+(g/cm3) | Melting
+Range
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,167,79,11,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p167_t79_camelot.csv,"Alloy | Form | Temp. 
+(°C) | TS 
+(MPa) | YS 
+(MPa) | El 
+(%) | R of A 
+(%) | E 
+(GPa) | Notch 
+TS 
+(MPa) | Stress Rupture | <NA> | DEWSIM 
+(g/cm3) | Melting 
+Range 
+(°C) | Comments"
+ECSS-E-HB-32-20_Part5A,169,1,12,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p169_t1.csv,Service condition | Rocket engine  | Aircraft engine
+ECSS-E-HB-32-20_Part5A,169,80,12,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p169_t80_camelot.csv,Service condition | Rocket engine  | Aircraft engine
+ECSS-E-HB-32-20_Part5A,170,1,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p170_t1.csv,Type of material | Notes
+ECSS-E-HB-32-20_Part5A,170,81,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p170_t81_camelot.csv,Type of material | Notes
+ECSS-E-HB-32-20_Part5A,171,1,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p171_t1.csv,Alloy | Ranking †
+ECSS-E-HB-32-20_Part5A,171,82,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p171_t82_camelot.csv,Alloy | Ranking †
+ECSS-E-HB-32-20_Part5A,172,1,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p172_t1.csv,Composition | Type of reinforcement †
+ECSS-E-HB-32-20_Part5A,172,2,5,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p172_t2.csv,Alloy | Composition (Balance ‐ Nickel)
+ECSS-E-HB-32-20_Part5A,172,83,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p172_t83_camelot.csv,Composition | Type of reinforcement †
+ECSS-E-HB-32-20_Part5A,172,84,5,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p172_t84_camelot.csv,Alloy | Composition (Balance ‐ Nickel)
+ECSS-E-HB-32-20_Part5A,173,1,12,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p173_t1.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,173,85,12,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p173_t85_camelot.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,174,1,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p174_t1.csv,Process | Problem | Comments
+ECSS-E-HB-32-20_Part5A,174,2,11,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p174_t2.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,174,86,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p174_t86_camelot.csv,Process | Problem | Comments
+ECSS-E-HB-32-20_Part5A,174,87,11,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p174_t87_camelot.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,175,1,10,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p175_t1.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,175,88,10,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p175_t88_camelot.csv,Alloy | Composition
+ECSS-E-HB-32-20_Part5A,178,1,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p178_t1.csv,Type | Material | Comments
+ECSS-E-HB-32-20_Part5A,178,89,13,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p178_t89_camelot.csv,Type | Material | Comments
+ECSS-E-HB-32-20_Part5A,179,1,21,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p179_t1.csv,"Property | Units | Temp
+(°C) | Alloy classification | None | None | None | None | None | None | None"
+ECSS-E-HB-32-20_Part5A,179,90,21,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p179_t90_camelot.csv,"Property | Units | Temp 
+(°C) | Alloy classification | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,180,1,4,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p180_t1.csv,"Reinforcement | Recrystallisation temperature of W reduced by: Ni, Al & Mn.
+Reaction of W with matrix."
+ECSS-E-HB-32-20_Part5A,180,91,4,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p180_t91_camelot.csv,"Reinforcement | Recrystallisation temperature of W reduced by: Ni, Al & Mn. 
+Reaction of W with matrix."
+ECSS-E-HB-32-20_Part5A,181,1,6,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p181_t1.csv,"Filament | Matrix | Fibre vol
+(%) | Diffusion
+barrier
+coating | Fibre
+angle
+(°) | Test
+temp
+(°C) | 0.2% YS
+(MPa) | UTS
+(MPa) | E
+(GPa) | Elong.
+(%) | R of A
+(%)"
+ECSS-E-HB-32-20_Part5A,181,92,6,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p181_t92_camelot.csv,"Filament | Matrix | Fibre vol 
+(%) | Diffusion 
+barrier 
+coating | Fibre 
+angle 
+(°) | Test 
+temp 
+(°C) | 0.2% YS 
+(MPa) | UTS 
+(MPa) | E 
+(GPa) | Elong. 
+(%) | R of A 
+(%)"
+ECSS-E-HB-32-20_Part5A,182,1,7,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p182_t1.csv,"Filament | Matrix | Fibre vol
+(%) | Diffusion
+barrier coating | Fibre
+angle (°) | Test temp
+(°C) | 0.2% YS
+(MPa) | UTS
+(MPa) | E
+(GPa) | Elong.
+(%) | R of A
+(%)"
+ECSS-E-HB-32-20_Part5A,182,93,7,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p182_t93_camelot.csv,"Filament | Matrix | Fibre vol 
+(%) | Diffusion 
+barrier coating | Fibre 
+angle (°) | Test temp 
+(°C) | 0.2% YS 
+(MPa) | UTS 
+(MPa) | E 
+(GPa) | Elong. 
+(%) | R of A 
+(%)"
+ECSS-E-HB-32-20_Part5A,183,1,5,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p183_t1.csv,"Filament | Matrix | Fibre vol
+(%) | Diffusion
+barrier coating | Fibre angle
+(°) | Test temp
+(°C) | 0.2% YS
+(MPa) | UTS
+(MPa) | E
+(GPa) | Elong.
+(%) | R of A
+(%)"
+ECSS-E-HB-32-20_Part5A,183,94,5,11,Dataset\tables\ECSS-E-HB-32-20_Part5A_p183_t94_camelot.csv,"Filament | Matrix | Fibre vol 
+(%) | Diffusion 
+barrier coating | Fibre angle 
+(°) | Test temp 
+(°C) | 0.2% YS 
+(MPa) | UTS 
+(MPa) | E 
+(GPa) | Elong. 
+(%) | R of A 
+(%)"
+ECSS-E-HB-32-20_Part5A,184,1,4,12,Dataset\tables\ECSS-E-HB-32-20_Part5A_p184_t1.csv,"Filament | Matrix | None | Fibre vol
+(%) | Diffusion
+barrier coating | Fibre angle
+(°) | Test temp
+(°C) | 0.2% YS
+(MPa) | UTS
+(MPa) | E
+(GPa) | Elong.
+(%) | R of A
+(%)"
+ECSS-E-HB-32-20_Part5A,184,95,4,12,Dataset\tables\ECSS-E-HB-32-20_Part5A_p184_t95_camelot.csv,"Filament | Matrix | <NA> | Fibre vol 
+(%) | Diffusion 
+barrier coating | Fibre angle 
+(°) | Test temp 
+(°C) | 0.2% YS 
+(MPa) | UTS 
+(MPa) | E 
+(GPa) | Elong. 
+(%) | R of A 
+(%)"
+ECSS-E-HB-32-20_Part5A,185,1,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p185_t1.csv,"Maximum cyclic temperature
+(°C) | RT tensile strength
+(MPa) | Replicates"
+ECSS-E-HB-32-20_Part5A,185,96,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p185_t96_camelot.csv,"Maximum cyclic temperature 
+(°C) | RT tensile strength 
+(MPa) | Replicates"
+ECSS-E-HB-32-20_Part5A,186,1,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p186_t1.csv,Advantages | Disadvantages | Future development
+ECSS-E-HB-32-20_Part5A,186,97,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p186_t97_camelot.csv,Advantages | Disadvantages | Future development
+ECSS-E-HB-32-20_Part5A,187,1,16,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p187_t1.csv,Phenomenon | Characteristics
+ECSS-E-HB-32-20_Part5A,187,98,16,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p187_t98_camelot.csv,Phenomenon | Characteristics
+ECSS-E-HB-32-20_Part5A,188,1,14,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p188_t1.csv,Condition | Characteristics | Comments
+ECSS-E-HB-32-20_Part5A,188,99,14,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p188_t99_camelot.csv,Condition | Characteristics | Comments
+ECSS-E-HB-32-20_Part5A,189,1,20,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p189_t1.csv,"Alloy Spec. | Hydrogen
+Pressure
+(MPa) | Ratio H2:He
+Notched
+UTS | Ratio H2:He Unnotched
+R of A | Comments"
+ECSS-E-HB-32-20_Part5A,189,100,20,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p189_t100_camelot.csv,"Alloy Spec. | Hydrogen 
+Pressure 
+(MPa) | Ratio H2:He 
+Notched 
+UTS | Ratio H2:He Unnotched 
+R of A | Comments"
+ECSS-E-HB-32-20_Part5A,190,1,12,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p190_t1.csv,"Temp
+(°C) | Ratio H:He
+2
+Notched UTS | Ratio H:He
+2
+Unnotched
+UTS | Unnotched
+R of A | Comments "
+ECSS-E-HB-32-20_Part5A,190,2,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p190_t2.csv,"Crystal orientation | Ratio H :He
+2
+Notched UTS"
+ECSS-E-HB-32-20_Part5A,190,101,12,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p190_t101_camelot.csv,"Ratio H2:He 
+Ratio H2:He 
+Unnotched 
+Temp 
+Comments  
+Unnotched 
+R of A 
+(°C) 
+Notched UTS 
+UTS | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,190,102,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p190_t102_camelot.csv,"Crystal orientation | Ratio H2:He 
+Notched UTS"
+ECSS-E-HB-32-20_Part5A,191,1,12,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p191_t1.csv,"Alloy Composition
+or
+Specification | Ratio H:He
+2
+Notched UTS | Ratio H:He
+2
+Unnotched R of A | Comments"
+ECSS-E-HB-32-20_Part5A,191,103,12,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p191_t103_camelot.csv,"Alloy Composition 
+Ratio H2:He 
+Ratio H2:He 
+or 
+Comments 
+Notched UTS 
+Unnotched R of A 
+Specification | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,197,1,13,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p197_t1.csv,"Alloy | Condition | Test temperature, (°C) | Strain range, (%) | LCF life loss, (%)"
+ECSS-E-HB-32-20_Part5A,197,105,13,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p197_t105_camelot.csv,"Alloy | Condition | Test temperature, (°C) | Strain range, (%) | LCF life loss, (%)"
+ECSS-E-HB-32-20_Part5A,198,1,3,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p198_t1.csv,Conditions | Pressure (MPa) | Temperature
+ECSS-E-HB-32-20_Part5A,198,106,3,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p198_t106_camelot.csv,Conditions | Pressure (MPa) | Temperature
+ECSS-E-HB-32-20_Part5A,199,1,4,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p199_t1.csv,Conditions | None
+ECSS-E-HB-32-20_Part5A,202,1,10,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p202_t1.csv,Material | Ranking 
+ECSS-E-HB-32-20_Part5A,202,109,10,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p202_t109_camelot.csv,Material | Ranking 
+ECSS-E-HB-32-20_Part5A,205,1,10,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p205_t1.csv,Coating | Application | Benefits | Limitations | Comments
+ECSS-E-HB-32-20_Part5A,205,110,10,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p205_t110_camelot.csv,"Coating 
+Application 
+Benefits 
+Limitations 
+Comments | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,206,1,4,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p206_t1.csv,Coating | Application | Benefits | Limitations | Comments
+ECSS-E-HB-32-20_Part5A,206,111,4,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p206_t111_camelot.csv,Coating | Application | Benefits | Limitations | Comments
+ECSS-E-HB-32-20_Part5A,207,1,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p207_t1.csv,Coating type | Designation | Supplier
+ECSS-E-HB-32-20_Part5A,207,112,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p207_t112_camelot.csv,Coating type | Designation | Supplier
+ECSS-E-HB-32-20_Part5A,208,1,24,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p208_t1.csv,"Coating Composition
+(wt.%) | Designation | Company | Application
+Method"
+ECSS-E-HB-32-20_Part5A,208,113,24,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p208_t113_camelot.csv,"Coating Composition 
+(wt.%) | Designation | Company | Application 
+Method"
+ECSS-E-HB-32-20_Part5A,209,1,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p209_t1.csv,"Coating Composition (wt.%) | Substrate | Application
+Method | Comments"
+ECSS-E-HB-32-20_Part5A,209,114,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p209_t114_camelot.csv,"Coating Composition (wt.%) | Substrate | Application 
+Method | Comments"
+ECSS-E-HB-32-20_Part5A,210,1,2,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p210_t1.csv,<NA> | Bond coat | None
+ECSS-E-HB-32-20_Part5A,210,2,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p210_t2.csv,Ceramic layer | Bondcoat layer
+ECSS-E-HB-32-20_Part5A,210,115,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p210_t115_camelot.csv,Ceramic layer | Bondcoat layer
+ECSS-E-HB-32-20_Part5A,211,1,8,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p211_t1.csv,"Ceramic layer
+composition
+[Application
+method] | Bond coat
+composition
+[Application
+method] | Substrate
+alloy | Comments"
+ECSS-E-HB-32-20_Part5A,211,116,8,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p211_t116_camelot.csv,"Ceramic layer 
+composition 
+[Application 
+method] | Bond coat 
+composition 
+[Application 
+method] | Substrate 
+alloy | Comments"
+ECSS-E-HB-32-20_Part5A,212,1,20,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p212_t1.csv,"Coating
+property | Requirements | Location | None | None"
+ECSS-E-HB-32-20_Part5A,212,117,20,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p212_t117_camelot.csv,"Coating 
+property | Requirements | Location | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,213,1,14,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p213_t1.csv,Diffusion coatings | Overlay coatings (MCrAlY Types)
+ECSS-E-HB-32-20_Part5A,213,118,14,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p213_t118_camelot.csv,"Diffusion coatings 
+Overlay coatings (MCrAlY Types) | <NA>"
+ECSS-E-HB-32-20_Part5A,218,1,7,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p218_t1.csv,"Materials system | None | Thermal
+history (2) | Test
+temp.
+(°C) | Mechanical properties | None | None | Comments"
+ECSS-E-HB-32-20_Part5A,218,119,8,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p218_t119_camelot.csv,"Materials system | <NA> | Thermal 
+history (2) | Test 
+temp. 
+(°C) | Mechanical properties | <NA> | <NA> | Comments"
+ECSS-E-HB-32-20_Part5A,220,1,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p220_t1.csv,"Material system | None | Thermal history | Test
+temp.
+(°C) | Fatigue life, Nf
+(x103 cycles) | Comments"
+ECSS-E-HB-32-20_Part5A,220,121,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p220_t121_camelot.csv,"Material system | <NA> | Thermal history | Test 
+temp. 
+(°C) | Fatigue life, Nf 
+(x103 cycles) | Comments"
+ECSS-E-HB-32-20_Part5A,226,1,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p226_t1.csv,"Material system | None | Thermal history | Test temp.
+(°C) | Creep rupture
+life | Min creep rate,
+(h‐1)"
+ECSS-E-HB-32-20_Part5A,226,123,7,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p226_t123_camelot.csv,"Material system | <NA> | Thermal history | Test temp. 
+(°C) | Creep rupture 
+life | Min creep rate, 
+(h‐1)"
+ECSS-E-HB-32-20_Part5A,235,1,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p235_t1.csv,Type | Chemical compound | Melting point (°C) | Density (kg/m3)
+ECSS-E-HB-32-20_Part5A,235,124,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p235_t124_camelot.csv,Type | Chemical compound | Melting point (°C) | Density (kg/m3)
+ECSS-E-HB-32-20_Part5A,238,1,3,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p238_t1.csv,Compound | Advantages | Disadvantages | Notes
+ECSS-E-HB-32-20_Part5A,238,125,3,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p238_t125_camelot.csv,Compound | Advantages | Disadvantages | Notes
+ECSS-E-HB-32-20_Part5A,239,1,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p239_t1.csv,"Typical composition range
+(atomic%) | Effect of ʹdopingʹ or ʹmicro‐alloyingʹ elements | None"
+ECSS-E-HB-32-20_Part5A,239,2,12,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p239_t2.csv,"Composition | Material designation
+[Company]"
+ECSS-E-HB-32-20_Part5A,239,126,6,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p239_t126_camelot.csv,"Typical composition range 
+(atomic%) | Effect of ʹdopingʹ or ʹmicro‐alloyingʹ elements | <NA>"
+ECSS-E-HB-32-20_Part5A,239,127,12,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p239_t127_camelot.csv,"Composition | Material designation 
+[Company]"
+ECSS-E-HB-32-20_Part5A,241,1,11,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p241_t1.csv,"Temp
+(°C) | YS
+(MPa) | UTS
+(MPa) | Elong
+(%) | R of A
+(%) | Condition"
+ECSS-E-HB-32-20_Part5A,241,128,11,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p241_t128_camelot.csv,"Temp 
+YS 
+UTS 
+Elong 
+R of A 
+Condition 
+(°C) 
+(MPa) 
+(MPa) 
+(%) 
+(%) | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,242,1,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p242_t1.csv,"Alloy | Temperature
+(°C) | Modulus
+(GPa)"
+ECSS-E-HB-32-20_Part5A,242,129,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p242_t129_camelot.csv,"Alloy | Temperature 
+(°C) | Modulus 
+(GPa)"
+ECSS-E-HB-32-20_Part5A,243,1,13,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p243_t1.csv,Alloy | Condition | Fatigue data | None
+ECSS-E-HB-32-20_Part5A,243,130,13,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p243_t130_camelot.csv,Alloy | Condition | Fatigue data | <NA>
+ECSS-E-HB-32-20_Part5A,244,1,8,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p244_t1.csv,"Alloy | Temperature range
+(°C) | CTE
+(10‐6 / °C)"
+ECSS-E-HB-32-20_Part5A,244,131,8,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p244_t131_camelot.csv,"Alloy | Temperature range 
+(°C) | CTE 
+(10‐6 / °C)"
+ECSS-E-HB-32-20_Part5A,245,1,5,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p245_t1.csv,Compound | Advantages | Disadvantages | Notes
+ECSS-E-HB-32-20_Part5A,245,132,5,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p245_t132_camelot.csv,Compound | <NA> | Advantages  Disadvantages | Notes
+ECSS-E-HB-32-20_Part5A,246,1,16,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p246_t1.csv,Status | Nominal composition | Company/Organisation
+ECSS-E-HB-32-20_Part5A,246,2,1,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p246_t2.csv,<NA> | [2] | <NA>
+ECSS-E-HB-32-20_Part5A,246,133,16,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p246_t133_camelot.csv,Status | Nominal composition | Company/Organisation
+ECSS-E-HB-32-20_Part5A,248,1,26,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p248_t1.csv,"Alloy composition | Temp
+(°C) | YS
+(MPa) | UTS
+(MPa) | Modulus
+(GPa) | Elong
+(%) | R of A
+(%) | Condition | Notes
+[Reference]"
+ECSS-E-HB-32-20_Part5A,248,134,26,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p248_t134_camelot.csv,"Temp 
+YS 
+UTS 
+Modulus 
+Elong 
+R of A 
+Notes 
+Condition 
+Alloy composition 
+[Reference] 
+(°C) 
+(MPa) 
+(MPa) 
+(GPa) 
+(%) 
+(%) | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,249,1,29,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p249_t1.csv,"Alloy composition | Temp
+(°C) | YS
+(MPa) | UTS
+(MPa) | Modulus
+(GPa) | Elong
+(%) | R of A
+(%) | Condition | Notes
+[Reference]"
+ECSS-E-HB-32-20_Part5A,249,135,29,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p249_t135_camelot.csv,"Alloy composition | Temp 
+(°C) | YS 
+(MPa) | UTS 
+(MPa) | Modulus 
+(GPa) | Elong 
+(%) | R of A 
+(%) | Condition | Notes 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,250,1,29,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p250_t1.csv,"Alloy composition | Temp
+(°C) | None | YS
+(MPa) | UTS
+(MPa) | Modulus
+(GPa) | Elong
+(%) | R of A
+(%) | Condition | Notes
+[Reference]"
+ECSS-E-HB-32-20_Part5A,250,136,29,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p250_t136_camelot.csv,"Alloy composition | Temp 
+(°C) | YS 
+(MPa) | UTS 
+(MPa) | Modulus 
+(GPa) | Elong 
+(%) | R of A 
+(%) | Condition | Notes 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,251,1,11,10,Dataset\tables\ECSS-E-HB-32-20_Part5A_p251_t1.csv,"Alloy composition | Temp
+(°C) | None | YS
+(MPa) | UTS
+(MPa) | Modulus
+(GPa) | Elong
+(%) | R of A
+(%) | Condition | Notes
+[Reference]"
+ECSS-E-HB-32-20_Part5A,251,137,11,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p251_t137_camelot.csv,"Alloy composition | Temp 
+(°C) | YS 
+(MPa) | UTS 
+(MPa) | Modulus 
+(GPa) | Elong 
+(%) | R of A 
+(%) | Condition | Notes 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,255,1,3,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p255_t1.csv,"Alloy | Condition | Stress
+(MPa) | Plastic deformation (%) | None | None"
+ECSS-E-HB-32-20_Part5A,255,2,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p255_t2.csv,"Alloy | Condition | Max. stress (MPa)
+(0.2% creep/10hrs) | None"
+ECSS-E-HB-32-20_Part5A,255,138,3,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p255_t138_camelot.csv,"Alloy | Condition | Stress    
+(MPa) | Plastic deformation (%) | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,255,139,4,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p255_t139_camelot.csv,"Alloy | Condition | Max. stress (MPa) 
+(0.2% creep/10hrs) | <NA>"
+ECSS-E-HB-32-20_Part5A,256,1,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p256_t1.csv,"Temp.
+[°C] | Ti48A12Cr (IIVI)
+Near Gamma | Ti48Al2Cr2Nb (PM)
+Primary Annealed Near Gamma | None"
+ECSS-E-HB-32-20_Part5A,256,2,3,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p256_t2.csv,Ti48A12Cr (IIVI) Near Gamma | None | None
+ECSS-E-HB-32-20_Part5A,256,140,15,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p256_t140_camelot.csv,"Temp. 
+[°C] | <NA> | Ti48A12Cr (IIVI) 
+Near Gamma | Ti48Al2Cr2Nb (PM) 
+Primary Annealed 
+Near Gamma | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,257,1,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p257_t1.csv,"Temp.
+[°C] | Ti48A12Cr (IM)
+Near Gamma | Ti48Al2Cr2Nb (PM)
+Primary Annealed Near Gamma | None"
+ECSS-E-HB-32-20_Part5A,257,2,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p257_t2.csv,<NA> | Ti48A12Cr (IM) Near Gamma
+ECSS-E-HB-32-20_Part5A,257,141,15,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p257_t141_camelot.csv,"Temp. 
+[°C] | <NA> | Ti48A12Cr (IM) 
+Near Gamma | Ti48Al2Cr2Nb (PM) 
+Primary Annealed 
+Near Gamma | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,258,1,14,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p258_t1.csv,"Temp.
+[°C] | Ti48Al2Cr (IM)
+Near Gamma | Ti48Al2Cr2Nb (PM)
+Primary Annealed Near Gamma | None"
+ECSS-E-HB-32-20_Part5A,258,2,2,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p258_t2.csv,"<NA> | Ti48Al2Cr (IM) Near Gamma
+Ti48Al2Cr2Nb (PM) Primary Annealed | <NA>"
+ECSS-E-HB-32-20_Part5A,258,142,14,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p258_t142_camelot.csv,"Temp. 
+[°C] | <NA> | Ti48Al2Cr (IM) 
+Near Gamma | Ti48Al2Cr2Nb (PM) 
+Primary Annealed 
+Near Gamma | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,260,1,14,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p260_t1.csv,"Temp.
+[°C] | Ti48A12Cr (IM)
+Near Gamma | Ti48Al2Cr2Nb (PM)
+Primary Annealed Near Gamma | None"
+ECSS-E-HB-32-20_Part5A,260,2,2,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p260_t2.csv,Ti48A12Cr (IM) Near Gamma
+ECSS-E-HB-32-20_Part5A,260,3,2,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p260_t3.csv,Ti48A12Cr (IM) Near Gamma
+ECSS-E-HB-32-20_Part5A,260,143,14,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p260_t143_camelot.csv,"Temp. 
+[°C] | <NA> | Ti48A12Cr (IM) 
+Near Gamma | Ti48Al2Cr2Nb (PM) 
+Primary Annealed 
+Near Gamma | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,261,1,5,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p261_t1.csv,Advantage | Disadvantage
+ECSS-E-HB-32-20_Part5A,261,2,6,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p261_t2.csv,Composition | Company | Notes | None
+ECSS-E-HB-32-20_Part5A,261,144,5,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p261_t144_camelot.csv,Advantage | Disadvantage
+ECSS-E-HB-32-20_Part5A,261,145,6,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p261_t145_camelot.csv,Composition | Company | Notes | <NA>
+ECSS-E-HB-32-20_Part5A,264,1,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p264_t1.csv,Manufacture | Consolidation | Notes
+ECSS-E-HB-32-20_Part5A,264,146,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p264_t146_camelot.csv,"Manufacture 
+Consolidation 
+Notes | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,267,1,11,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p267_t1.csv,Group | Compound | Advantages | Disadvantages †
+ECSS-E-HB-32-20_Part5A,267,147,11,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p267_t147_camelot.csv,Group | Compound | Advantages | Disadvantages †
+ECSS-E-HB-32-20_Part5A,269,1,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p269_t1.csv,Matrix | None | Reinforcements
+ECSS-E-HB-32-20_Part5A,269,3,2,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p269_t3.csv,"Ti AlNb
+2"
+ECSS-E-HB-32-20_Part5A,269,4,2,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p269_t4.csv,SiC [SCS‐6]
+ECSS-E-HB-32-20_Part5A,269,148,7,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p269_t148_camelot.csv,Matrix | <NA> | Reinforcements
+ECSS-E-HB-32-20_Part5A,270,1,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p270_t1.csv,"Mechanical | High stiffness.
+High temperature."
+ECSS-E-HB-32-20_Part5A,270,149,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p270_t149_camelot.csv,"Mechanical | High stiffness. 
+High temperature."
+ECSS-E-HB-32-20_Part5A,275,1,1,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p275_t1.csv,"CFRP
+Ti-based Intermetallic
+Composite
+Alpha-Beta
+Titanium | High Te
+Ti-based I
+Com
+Near-Alpha
+Alloys | mperature
+ntermetallic
+posite
+Titanium
+Alum
+inides
+Ni-based Alloys"
+ECSS-E-HB-32-20_Part5A,275,151,1,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p275_t151_camelot.csv,"pecific Strength
+CFRP
+T
+i-based Intermetallic
+Comp osite
+S
+A
+lpha-Beta
+T
+itanium Alloys | H
+igh Temperature
+T
+i-based Intermetallic
+Composite
+T
+Near-Alpha
+itanium Aluminides
+Ni-based Alloys"
+ECSS-E-HB-32-20_Part5A,281,1,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p281_t1.csv,Metal | Attributes | Disadvantages
+ECSS-E-HB-32-20_Part5A,281,2,10,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p281_t2.csv,"Metal | Density
+(kg m‐3) | Melting Point
+(C) | CTE
+(10‐6C‐1) | Thermal Conductivity
+†
+(W m‐1C‐1)"
+ECSS-E-HB-32-20_Part5A,281,152,9,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p281_t152_camelot.csv,Metal | Attributes | Disadvantages
+ECSS-E-HB-32-20_Part5A,281,153,10,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p281_t153_camelot.csv,"Metal | Density 
+(kg m‐3) | Melting Point 
+(C) | CTE 
+(10‐6C‐1) | Thermal Conductivity 
+† 
+(W m‐1C‐1)"
+ECSS-E-HB-32-20_Part5A,282,1,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p282_t1.csv,Composition | Alloy
+ECSS-E-HB-32-20_Part5A,282,154,9,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p282_t154_camelot.csv,Composition | Alloy
+ECSS-E-HB-32-20_Part5A,283,1,2,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p283_t1.csv,Attributes | Limitations
+ECSS-E-HB-32-20_Part5A,283,155,2,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p283_t155_camelot.csv,Attributes | Limitations
+ECSS-E-HB-32-20_Part5A,285,1,18,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p285_t1.csv,Grade | Quality | Production
+ECSS-E-HB-32-20_Part5A,285,156,18,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p285_t156_camelot.csv,Grade | Quality | Production
+ECSS-E-HB-32-20_Part5A,287,1,9,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p287_t1.csv,Grade | Composition | None | None | Tensile Properties | None | None | Note
+ECSS-E-HB-32-20_Part5A,287,157,9,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p287_t157_camelot.csv,Grade | Composition | <NA> | <NA> | Tensile Properties | <NA> | <NA> | Note
+ECSS-E-HB-32-20_Part5A,288,1,20,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p288_t1.csv,"Temp
+(C) | YS
+(MPa) | TS
+(MPa) | D
+(%) | Creep Strength (MPa) | None | None"
+ECSS-E-HB-32-20_Part5A,288,158,20,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p288_t158_camelot.csv,"Temp 
+(C) | YS 
+(MPa) | TS 
+(MPa) | D 
+(%) | Creep Strength (MPa) | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,291,1,17,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p291_t1.csv,"Temp
+(C) | Property | None | None | None | None | None"
+ECSS-E-HB-32-20_Part5A,291,159,17,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p291_t159_camelot.csv,"Temp 
+(C) | Property | <NA> | <NA> | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,299,1,10,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p299_t1.csv,Reinforcement | Matrix | Source [Ref.] | Comments
+ECSS-E-HB-32-20_Part5A,299,160,10,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p299_t160_camelot.csv,Reinforcement | Matrix | Source [Ref.] | Comments
+ECSS-E-HB-32-20_Part5A,300,1,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p300_t1.csv,Reinforcement | Matrix | Source [Ref.] | Comments
+ECSS-E-HB-32-20_Part5A,300,161,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p300_t161_camelot.csv,Reinforcement | Matrix | Source [Ref.] | Comments
+ECSS-E-HB-32-20_Part5A,301,1,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p301_t1.csv,Primary systems | None
+ECSS-E-HB-32-20_Part5A,301,2,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p301_t2.csv,Secondary developments | None
+ECSS-E-HB-32-20_Part5A,301,162,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p301_t162_camelot.csv,Primary systems | <NA>
+ECSS-E-HB-32-20_Part5A,301,163,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p301_t163_camelot.csv,Secondary developments | <NA>
+ECSS-E-HB-32-20_Part5A,302,1,11,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p302_t1.csv,"Fibre
+[Source] | Matrix
+[Process] | Fibre Vol.%
+[Type] | Mechanical Properties
+[Reference]"
+ECSS-E-HB-32-20_Part5A,302,164,11,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p302_t164_camelot.csv,"Fibre 
+[Source] | Matrix 
+[Process] | Fibre Vol.% 
+[Type] | Mechanical Properties 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,305,1,15,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p305_t1.csv,Property | SiC Matrix processing method | None | None | None | None
+ECSS-E-HB-32-20_Part5A,305,166,15,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p305_t166_camelot.csv,Property | SiC Matrix processing method | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,307,1,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p307_t1.csv,"preparing a pre-ceramic slurry
+F1 consisting of a solvent polymer and a
+ceramic powder | inspection of incoming raw materials for
+Q1
+pre- ceramic slurry"
+ECSS-E-HB-32-20_Part5A,307,167,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p307_t167_camelot.csv,"preparing a pre-ceramic slurry 
+F1 
+consisting of a solvent polymer and a 
+ceramic powder | inspection of incoming raw materials for 
+Q1 
+pre- ceramic slurry"
+ECSS-E-HB-32-20_Part5A,308,1,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p308_t1.csv,"pyrolysis of the re-infiltrated structure,
+F9 typically 4-6 times, according to density
+requirements | inspection of re-infiltrated CMC parts
+Q9 after last pyrolysis, test of witness
+coupons"
+ECSS-E-HB-32-20_Part5A,308,168,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p308_t168_camelot.csv,"pyrolysis of the re-infiltrated structure, 
+F9 
+typically 4-6 times, according to density 
+requirements | inspection of re-infiltrated CMC parts 
+Q9 
+after last pyrolysis, test of witness 
+coupons"
+ECSS-E-HB-32-20_Part5A,309,1,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t1.csv,"E = E = 47 GPa
+11 22 | X = Y = 157 MPa
+T T"
+ECSS-E-HB-32-20_Part5A,309,2,5,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t2.csv,Temperature‐dependent CTE of DASA‐C/SiC: | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,309,3,1,15,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t3.csv,None | None | None | None | None | None | None | None | <NA> | <NA> | spec | ific he | at cap | acity | <NA>
+ECSS-E-HB-32-20_Part5A,309,169,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t169_camelot.csv,E11 = E22 = 47 GPa | XT = YT = 157 MPa
+ECSS-E-HB-32-20_Part5A,309,170,5,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t170_camelot.csv,Temperature‐dependent CTE of DASA‐C/SiC:
+ECSS-E-HB-32-20_Part5A,309,171,1,16,Dataset\tables\ECSS-E-HB-32-20_Part5A_p309_t171_camelot.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | specific heat capacity | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,310,1,1,16,Dataset\tables\ECSS-E-HB-32-20_Part5A_p310_t1.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | th
+th | ermal c
+ermal c | onduc
+onduc | tivity in
+tivity pe | -plane [
+rpendi | W/(m K
+cular to | )]
+fiber [ | W/(m K | )] | <NA>"
+ECSS-E-HB-32-20_Part5A,310,172,2,14,Dataset\tables\ECSS-E-HB-32-20_Part5A_p310_t172_camelot.csv,<NA> | <NA> | <NA> | <NA> | <NA> | thermal conductivity in-plane [W/(m K)] | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,311,1,1,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p311_t1.csv,<NA> | <NA> | <NA> | emi | ttance [-] | <NA>
+ECSS-E-HB-32-20_Part5A,311,2,1,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p311_t2.csv,emi | ttance [-]
+ECSS-E-HB-32-20_Part5A,311,173,1,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p311_t173_camelot.csv,<NA> | emittance [-] | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,312,1,4,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p312_t1.csv,2 CVD Erosion Protection Layers
+ECSS-E-HB-32-20_Part5A,312,174,4,1,Dataset\tables\ECSS-E-HB-32-20_Part5A_p312_t174_camelot.csv,2 CVD Erosion Protection Layers
+ECSS-E-HB-32-20_Part5A,313,1,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p313_t1.csv,"OPS
+Reference | Architecture | Total
+layers"
+ECSS-E-HB-32-20_Part5A,313,175,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p313_t175_camelot.csv,"OPS 
+Reference | Architecture | Total 
+layers"
+ECSS-E-HB-32-20_Part5A,314,1,5,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p314_t1.csv,"Material grade | E = E
+x y
+(MPa) | G
+xy
+(MPa) | xy | ρ
+(g/cm3) | 
+(1/K) | S = S
+x,t y,t | S = S
+x,c y,c | S
+xy"
+ECSS-E-HB-32-20_Part5A,314,176,5,9,Dataset\tables\ECSS-E-HB-32-20_Part5A_p314_t176_camelot.csv,"Material grade | Ex = Ey 
+(MPa) | Gxy 
+(MPa) | xy | ρ 
+(g/cm3) |  
+(1/K) | Sx,t = Sy,t | Sx,c= Sy,c | Sxy"
+ECSS-E-HB-32-20_Part5A,315,4,1,12,Dataset\tables\ECSS-E-HB-32-20_Part5A_p315_t4.csv,<NA> | I 498-1 | <NA> | I 498-2 | <NA> | I-498-3 | <NA> | ph609 | <NA> | Ph 597 | <NA> | Ph 596
+ECSS-E-HB-32-20_Part5A,315,177,1,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p315_t177_camelot.csv,0 | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,315,178,1,15,Dataset\tables\ECSS-E-HB-32-20_Part5A_p315_t178_camelot.csv,0 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,315,180,1,13,Dataset\tables\ECSS-E-HB-32-20_Part5A_p315_t180_camelot.csv,0 | I  498-1 | <NA> | I 498-2 | <NA> | I-498-3 | <NA> | ph609 | <NA> | Ph 597 | <NA> | Ph 596 | <NA>
+ECSS-E-HB-32-20_Part5A,320,1,7,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p320_t1.csv,Property | Temperature (°C) | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,320,181,7,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p320_t181_camelot.csv,Property | Temperature (°C) | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,321,1,11,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p321_t1.csv,"Whisker
+type | Trade name
+[Source] | Properties | None | None | None"
+ECSS-E-HB-32-20_Part5A,321,182,11,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p321_t182_camelot.csv,"Whisker 
+type | Trade name 
+[Source] | Properties | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,323,1,14,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p323_t1.csv,"Whisker
+Reinforcement | Matrix | Source
+[Reference] | Comments"
+ECSS-E-HB-32-20_Part5A,323,183,14,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p323_t183_camelot.csv,"Whisker 
+Reinforcement | Matrix | Source 
+[Reference] | Comments"
+ECSS-E-HB-32-20_Part5A,338,1,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p338_t1.csv,"Matrix
+Type | Major
+Constituents | Minor
+Constituents | Max. Use
+Temp †
+(°C)"
+ECSS-E-HB-32-20_Part5A,338,184,15,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p338_t184_camelot.csv,"Max. Use 
+Matrix 
+Major 
+Minor 
+Temp †  
+Type 
+Constituents 
+Constituents 
+(°C) | <NA> | <NA> | <NA>"
+ECSS-E-HB-32-20_Part5A,341,1,20,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p341_t1.csv,Carbon Fibre | Fibre (Vol%) | Properties | None | None | None
+ECSS-E-HB-32-20_Part5A,341,185,20,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p341_t185_camelot.csv,Carbon Fibre | Fibre (Vol%) | Properties | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,342,1,41,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p342_t1.csv,Unidirectional Tensile Data | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,342,186,41,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p342_t186_camelot.csv,Unidirectional Tensile Data | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,343,1,11,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p343_t1.csv,"Hole Dia.
+(mm) | d/b | Fibre
+Vol.% | Actual
+UTS
+(MPa) | Normalised
+Actual UTS †
+(MPa) | PL
+(MPa) | Ultimate
+Extensometer
+Strain (%)"
+ECSS-E-HB-32-20_Part5A,343,187,11,7,Dataset\tables\ECSS-E-HB-32-20_Part5A_p343_t187_camelot.csv,"Hole Dia. 
+(mm) | d/b | Fibre 
+Vol.% | Actual 
+UTS 
+(MPa) | Normalised 
+Actual UTS † 
+(MPa) | PL 
+(MPa) | Ultimate 
+Extensometer 
+Strain (%)"
+ECSS-E-HB-32-20_Part5A,345,1,13,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p345_t1.csv,Property | Matrix | None | None | None | None
+ECSS-E-HB-32-20_Part5A,345,188,13,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p345_t188_camelot.csv,Property | Matrix | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,365,1,2,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p365_t1.csv,y | None
+ECSS-E-HB-32-20_Part5A,365,194,2,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p365_t194_camelot.csv,<NA> | 3-D polar preform | <NA>
+ECSS-E-HB-32-20_Part5A,367,1,7,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p367_t1.csv,Properties at RT | C‐C Composite Type | None | None
+ECSS-E-HB-32-20_Part5A,367,196,7,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p367_t196_camelot.csv,Properties at RT | C‐C Composite Type | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,369,198,1,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p369_t198_camelot.csv,"<NA> | Tensile behaviour at 45 which 
+corresponds to a rotation around 
+z-direction. | <NA>"
+ECSS-E-HB-32-20_Part5A,369,199,1,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p369_t199_camelot.csv,"<NA> | <NA> | Directions: x, y and z"
+ECSS-E-HB-32-20_Part5A,372,1,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p372_t1.csv,"Requirement | Spaceplane TPS
+Nose cone | Gas turbine engine
+Exhaust petals"
+ECSS-E-HB-32-20_Part5A,372,200,4,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p372_t200_camelot.csv,"Requirement | Spaceplane TPS 
+Nose cone | Gas turbine engine 
+Exhaust petals"
+ECSS-E-HB-32-20_Part5A,375,1,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p375_t1.csv,Property | Typical value
+ECSS-E-HB-32-20_Part5A,375,201,6,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p375_t201_camelot.csv,Property | Typical value
+ECSS-E-HB-32-20_Part5A,387,1,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p387_t1.csv,"Material
+grouping | Developing
+technology | End user | Material/product
+supplier"
+ECSS-E-HB-32-20_Part5A,387,204,9,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p387_t204_camelot.csv,"Material 
+grouping | Developing 
+technology | End user | Material/product 
+supplier"
+ECSS-E-HB-32-20_Part5A,389,1,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p389_t1.csv,Precursor material | € per kg
+ECSS-E-HB-32-20_Part5A,389,205,8,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p389_t205_camelot.csv,"Precursor material 
+€ per kg | <NA>"
+ECSS-E-HB-32-20_Part5A,390,1,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p390_t1.csv,"Materials | Relative cost
+of finished
+product † | Complexity
+scale ‡ | Comments"
+ECSS-E-HB-32-20_Part5A,390,206,16,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p390_t206_camelot.csv,"Materials | Relative cost 
+of finished 
+product † | Complexity 
+scale ‡ | Comments"
+ECSS-E-HB-32-20_Part5A,405,1,20,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p405_t1.csv,Parameter | Material Group | None | None
+ECSS-E-HB-32-20_Part5A,405,207,20,4,Dataset\tables\ECSS-E-HB-32-20_Part5A_p405_t207_camelot.csv,Parameter | Material Group | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,411,1,23,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p411_t1.csv,Material | Properties | None | None | None | None | None | Comments
+ECSS-E-HB-32-20_Part5A,411,208,23,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p411_t208_camelot.csv,Material | Properties | <NA> | <NA> | <NA> | <NA> | <NA> | Comments
+ECSS-E-HB-32-20_Part5A,412,1,9,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p412_t1.csv,Base material or interlayer (Pure) | None | None | None | None | None | None | None
+ECSS-E-HB-32-20_Part5A,412,209,9,8,Dataset\tables\ECSS-E-HB-32-20_Part5A_p412_t209_camelot.csv,Base material or interlayer (Pure) | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+ECSS-E-HB-32-20_Part5A,420,1,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p420_t1.csv,Metallic | Ceramic
+ECSS-E-HB-32-20_Part5A,420,210,3,2,Dataset\tables\ECSS-E-HB-32-20_Part5A_p420_t210_camelot.csv,Metallic | Ceramic
+ECSS-E-HB-32-20_Part5A,423,1,11,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p423_t1.csv,"Jointing/
+consolidation
+technique | Advantages | Disadvantages"
+ECSS-E-HB-32-20_Part5A,423,211,11,3,Dataset\tables\ECSS-E-HB-32-20_Part5A_p423_t211_camelot.csv,"Jointing/ 
+consolidation 
+technique | Advantages | Disadvantages"
+ECSS-E-HB-32-20_Part5A,425,1,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p425_t1.csv,"Material A | Material B | Interlayer
+material | Consolidation
+technique | Process
+conditions | Comments
+[Reference]"
+ECSS-E-HB-32-20_Part5A,425,212,10,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p425_t212_camelot.csv,"Material A | Material B | Interlayer 
+material | Consolidation 
+technique | Process 
+conditions | Comments 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,426,1,9,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p426_t1.csv,"Material A | Material B | Interlayer
+material | Consolidation
+technique | Process
+conditions | Comments
+[Reference]"
+ECSS-E-HB-32-20_Part5A,426,213,9,6,Dataset\tables\ECSS-E-HB-32-20_Part5A_p426_t213_camelot.csv,"Material A | Material B | Interlayer 
+material | Consolidation 
+technique | Process 
+conditions | Comments 
+[Reference]"
+ECSS-E-HB-32-20_Part5A,427,1,19,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p427_t1.csv,"Material
+A | Material
+B | Interlayer(s) | Technique | Bond strength, at RT.
+[Reference]"
+ECSS-E-HB-32-20_Part5A,427,214,19,5,Dataset\tables\ECSS-E-HB-32-20_Part5A_p427_t214_camelot.csv,"Material 
+A | Material 
+B | Interlayer(s) | Technique | Bond strength, at RT. 
+[Reference]"
+NASA_TM_20230006075-2,22,1,19,4,Dataset\tables\NASA_TM_20230006075-2_p22_t1.csv,Element | Nominal | Minimum | Maximum
+NASA_TM_20230006075-2,22,2,19,4,Dataset\tables\NASA_TM_20230006075-2_p22_t2_camelot.csv,"Element 
+Nominal 
+Minimum 
+Maximum | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,27,1,2,4,Dataset\tables\NASA_TM_20230006075-2_p27_t1.csv,<NA> | None | 0.0015 | A
+NASA_TM_20230006075-2,27,2,1,4,Dataset\tables\NASA_TM_20230006075-2_p27_t2.csv,<NA> | <NA> | 0.0010 | A
+NASA_TM_20230006075-2,27,3,1,4,Dataset\tables\NASA_TM_20230006075-2_p27_t3.csv,<NA> | <NA> | 0.0010 | A
+NASA_TM_20230006075-2,27,4,2,4,Dataset\tables\NASA_TM_20230006075-2_p27_t4.csv,<NA> | None | 0.0015 | A
+NASA_TM_20230006075-2,27,5,2,4,Dataset\tables\NASA_TM_20230006075-2_p27_t5.csv,<NA> | None | 0.0015 | A
+NASA_TM_20230006075-2,28,1,3,10,Dataset\tables\NASA_TM_20230006075-2_p28_t1.csv,Alloy Powder | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al
+NASA_TM_20230006075-2,28,4,3,10,Dataset\tables\NASA_TM_20230006075-2_p28_t4_camelot.csv,Alloy Powder | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al
+NASA_TM_20230006075-2,29,5,3,7,Dataset\tables\NASA_TM_20230006075-2_p29_t5_camelot.csv,<NA> | Liquidus | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,30,6,4,7,Dataset\tables\NASA_TM_20230006075-2_p30_t6_camelot.csv,"<NA> | Solidification Temperature Range (STR) 
+(2521 °F – 2370 °F = 151 °F) 
+Heating 
+Heating 
+Liquidus (2521 °F) 
+Cooling | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,31,7,5,7,Dataset\tables\NASA_TM_20230006075-2_p31_t7_camelot.csv,<NA> | Solidification Temperature Range (STR) | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,32,1,4,5,Dataset\tables\NASA_TM_20230006075-2_p32_t1.csv,"Alloy | Heating/Cooling
+Rate | On Heating-
+Liqsuidus | Eutectic
+Solidification | STR °F = (Solidification
+Temperature Range)"
+NASA_TM_20230006075-2,32,8,4,1,Dataset\tables\NASA_TM_20230006075-2_p32_t8_camelot.csv,"Heating/Cooling 
+On Heating- 
+Eutectic 
+STR °F = (Solidification 
+Alloy 
+Rate 
+Liqsuidus 
+Solidification 
+Temperature Range)"
+NASA_TM_20230006075-2,32,9,2,5,Dataset\tables\NASA_TM_20230006075-2_p32_t9_camelot.csv,"<NA> | Larger Peak 
+Higher Mass% 
+(2370 °F) 
+Eutectic - Terminal 
+Liquid Solidification | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,32,10,2,5,Dataset\tables\NASA_TM_20230006075-2_p32_t10_camelot.csv,"<NA> | Smaller Peak 
+Lower Mass% 
+(2358 °F) 
+Eutectic - Terminal 
+Liquid Solidification | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,42,1,9,9,Dataset\tables\NASA_TM_20230006075-2_p42_t1.csv,Element | None | Md (eV) | Element | None | Md (eV) | Element | None | Md (eV)
+NASA_TM_20230006075-2,42,11,9,9,Dataset\tables\NASA_TM_20230006075-2_p42_t11_camelot.csv,Element | <NA> | Md (eV) | Element | <NA> | Md (eV) | Element | <NA> | Md (eV)
+NASA_TM_20230006075-2,44,1,6,12,Dataset\tables\NASA_TM_20230006075-2_p44_t1.csv,Alloy | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al | Mn | Md
+NASA_TM_20230006075-2,44,2,4,11,Dataset\tables\NASA_TM_20230006075-2_p44_t2.csv,"0.928
+0.922 | None | None | None | None | None | None | None | None | None | None"
+NASA_TM_20230006075-2,44,12,6,12,Dataset\tables\NASA_TM_20230006075-2_p44_t12_camelot.csv,Alloy | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al | Mn | Md
+NASA_TM_20230006075-2,44,13,4,6,Dataset\tables\NASA_TM_20230006075-2_p44_t13_camelot.csv,"<NA> | 0.928 
+0.922 | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,45,1,4,10,Dataset\tables\NASA_TM_20230006075-2_p45_t1.csv,"<NA> | Stress Relief (°F/h) | None | None | Homogenization
+(°F/h) | None | None | Solution Anneal
+(°F/h) | None | None"
+NASA_TM_20230006075-2,45,14,4,10,Dataset\tables\NASA_TM_20230006075-2_p45_t14_camelot.csv,"<NA> | Stress Relief (°F/h) | <NA> | <NA> | Homogenization 
+(°F/h) | <NA> | <NA> | Solution Anneal 
+(°F/h) | <NA> | <NA>"
+NASA_TM_20230006075-2,48,15,1,7,Dataset\tables\NASA_TM_20230006075-2_p48_t15_camelot.csv,"<NA> | Distance Between Highest and Lowest Ti Concentration 
+L = 40 µm 
+L = 50 µm 
+L = 25 µm 
+L = 30 µm 
+L = 15 µm 
+L = 20 µm | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,49,16,1,2,Dataset\tables\NASA_TM_20230006075-2_p49_t16_camelot.csv,<NA> | Ti Wt%
+NASA_TM_20230006075-2,49,17,1,30,Dataset\tables\NASA_TM_20230006075-2_p49_t17_camelot.csv,<NA> | Ti Wt% | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <N
+NASA_TM_20230006075-2,51,18,1,7,Dataset\tables\NASA_TM_20230006075-2_p51_t18_camelot.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | Ti Wt%
+NASA_TM_20230006075-2,51,19,1,7,Dataset\tables\NASA_TM_20230006075-2_p51_t19_camelot.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | Ti Wt%
+NASA_TM_20230006075-2,51,20,1,3,Dataset\tables\NASA_TM_20230006075-2_p51_t20_camelot.csv,<NA> | <NA> | Ti Wt%
+NASA_TM_20230006075-2,55,1,17,7,Dataset\tables\NASA_TM_20230006075-2_p55_t1.csv,"Laser Power &
+Sample
+Configuration | Aging Treatment | Aging
+Treatment | Yield Stress
+(ksi) | Tensile Stress
+(ksi) | Fracture
+Elongation
+(%) | Strain
+Hardening
+Exponent
+(n)"
+NASA_TM_20230006075-2,55,21,17,7,Dataset\tables\NASA_TM_20230006075-2_p55_t21_camelot.csv,"Laser Power & 
+Sample 
+Configuration | Aging Treatment | Aging 
+Treatment | Yield Stress 
+(ksi) | Tensile Stress 
+(ksi) | Fracture 
+Elongation 
+(%) | Strain 
+Hardening 
+Exponent 
+(n)"
+NASA_TM_20230006075-2,56,22,3,11,Dataset\tables\NASA_TM_20230006075-2_p56_t22_camelot.csv,"<NA> | 1325 °F/16 h, Lowest 
+Ductility & n | <NA> | Necking | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,59,1,19,8,Dataset\tables\NASA_TM_20230006075-2_p59_t1.csv,"Laser Power &
+Sample
+Configuration | Aging
+Treatment | Tensile Test
+Temperature
+(°F) | Yield Stress
+(ksi) | Tensile
+Stress
+(ksi) | Fracture
+Elongation
+(%) | UTS/YS
+Ratio | Strain
+Hardening
+Exponent
+(n"
+NASA_TM_20230006075-2,59,24,19,8,Dataset\tables\NASA_TM_20230006075-2_p59_t24_camelot.csv,"Laser Power & 
+Sample 
+Configuration | Aging 
+Treatment | Tensile Test 
+Temperature 
+(°F) | Yield Stress 
+(ksi) | Tensile 
+Stress 
+(ksi) | Fracture 
+Elongation 
+(%) | UTS/YS 
+Ratio | Strain 
+Hardening"
+NASA_TM_20230006075-2,61,25,1,5,Dataset\tables\NASA_TM_20230006075-2_p61_t25_camelot.csv,"<NA> | <NA> | <NA> | <NA> | LN2 2-step (45) 
+LN2 1-step (7)"
+NASA_TM_20230006075-2,61,26,1,6,Dataset\tables\NASA_TM_20230006075-2_p61_t26_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | RT 1-step (77) 
+RT 2-step (48)"
+NASA_TM_20230006075-2,61,27,1,3,Dataset\tables\NASA_TM_20230006075-2_p61_t27_camelot.csv,<NA> | <NA> | 1200 F 2-step (53)
+NASA_TM_20230006075-2,61,28,1,5,Dataset\tables\NASA_TM_20230006075-2_p61_t28_camelot.csv,"<NA> | <NA> | 1200 F 1-step (20) 
+1200 F 2-step (53) | <NA> | <NA>"
+NASA_TM_20230006075-2,62,29,4,3,Dataset\tables\NASA_TM_20230006075-2_p62_t29_camelot.csv,"Test T (°F) | 2-step Aging – 1275 °F/16h + 1150 °F/16h 
+Lower Magnification Images 
+Higher Resolution Images | <NA>"
+NASA_TM_20230006075-2,64,30,2,6,Dataset\tables\NASA_TM_20230006075-2_p64_t30_camelot.csv,"<NA> | <NA> | <NA> | Wrought NASA HR1-UTS 
+Wrought NASA HR1-YS 
+DED NASA HR1-UTS-1 step 
+DED NASA HR1-YS-1 step 
+DED NASA HR1-UTS-2 step 
+DED NASA HR1-YS-2 step | <NA> | <NA>"
+NASA_TM_20230006075-2,64,31,3,5,Dataset\tables\NASA_TM_20230006075-2_p64_t31_camelot.csv,"<NA> | <NA> | Wrought NASA HR1-%EL 
+DED NASA HR1-%EL-1 step | <NA> | <NA>"
+NASA_TM_20230006075-2,65,1,13,8,Dataset\tables\NASA_TM_20230006075-2_p65_t1.csv,"Material | Environment | Strain
+Range | Aging
+Treatment | Specimen
+ID | Inelastic Strain
+Range at N
+h
+(%) | Cycles to Crack
+Initiation
+(N)
+i | Cycles to
+Failure
+(N )
+f"
+NASA_TM_20230006075-2,65,32,13,8,Dataset\tables\NASA_TM_20230006075-2_p65_t32_camelot.csv,"Material | Environment | Strain 
+Range | Aging 
+Treatment | Specimen 
+ID | Inelastic Strain 
+Range at Nh 
+(%) | Cycles to Crack 
+Initiation 
+(Ni) | Cycles to 
+Failure 
+(N ) 
+f"
+NASA_TM_20230006075-2,66,33,3,23,Dataset\tables\NASA_TM_20230006075-2_p66_t33_camelot.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | LCF Loop 1 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,66,34,2,13,Dataset\tables\NASA_TM_20230006075-2_p66_t34_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | LCF Loop 1 
+LCF Loop 30 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,67,35,2,10,Dataset\tables\NASA_TM_20230006075-2_p67_t35_camelot.csv,<NA> | <NA> | <NA> | <NA> | LCF Loop 1 | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,67,36,2,23,Dataset\tables\NASA_TM_20230006075-2_p67_t36_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | LCF Loop 1 
+LCF Loop 20 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,68,37,4,7,Dataset\tables\NASA_TM_20230006075-2_p68_t37_camelot.csv,<NA> | Ni Cycle: 47904 (1-step age) | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,68,38,3,11,Dataset\tables\NASA_TM_20230006075-2_p68_t38_camelot.csv,<NA> | <NA> | <NA> | Ni Cycle: 813 (1-step age) | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,70,1,13,10,Dataset\tables\NASA_TM_20230006075-2_p70_t1.csv,"Material | Environment | Strain Range | Aging
+Treatment | Specimen
+ID | Δσ
+max
+(ksi) | Δσ
+half
+(ksi) | Δσ
+first
+(ksi) | HR | SR"
+NASA_TM_20230006075-2,70,39,13,10,Dataset\tables\NASA_TM_20230006075-2_p70_t39_camelot.csv,"Material | Environment | Strain Range | Aging 
+Treatment | Specimen 
+ID | Δσmax 
+(ksi) | Δσhalf 
+(ksi) | Δσfirst 
+(ksi) | HR | SR"
+NASA_TM_20230006075-2,74,40,1,7,Dataset\tables\NASA_TM_20230006075-2_p74_t40_camelot.csv,"<NA> | <NA> | Wrought HR-1 GHe Nf 
+DED HR-1 Air 1-step Nf 
+DED HR-1 Air 2-step Nf 
+       Trend line (DED HR-1 Air 1-step) 
+       Trend line (DED HR-1 Air 2-step) | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,76,1,7,9,Dataset\tables\NASA_TM_20230006075-2_p76_t1.csv,"Material | Aging
+Treatment | Strain Rate
+(in/in/min) | Test
+Environment | Yield
+Stress
+(ksi) | Ultimate
+Tensile Stress
+(ksi) | Ductility
+(%EL) | Strain
+Hardening
+Exponent
+(n) | Testing
+Duration
+(minut"
+NASA_TM_20230006075-2,76,41,5,9,Dataset\tables\NASA_TM_20230006075-2_p76_t41_camelot.csv,"Material | Aging 
+Treatment | Strain Rate 
+(in/in/min) | Test 
+Environment | Yield 
+Stress 
+(ksi) | Ultimate 
+Tensile Stress 
+(ksi) | Ductility 
+(%EL) | Strain 
+Hardening 
+Exponent 
+(n) | Testing 
+Dur"
+NASA_TM_20230006075-2,77,1,4,6,Dataset\tables\NASA_TM_20230006075-2_p77_t1.csv,"Material | Aging
+Treatment | Strain Rat
+(in/in/min) | YS Ratio
+(GH /GHe)
+2 | UTS Ratio
+(GH /GHe)
+2 | Ductility Ratio
+(GH /GHe)
+2"
+NASA_TM_20230006075-2,77,42,4,6,Dataset\tables\NASA_TM_20230006075-2_p77_t42_camelot.csv,"Material | Aging 
+Treatment | Strain Rat 
+(in/in/min) | YS Ratio 
+(GH2/GHe) | UTS Ratio 
+(GH2/GHe) | Ductility Ratio 
+(GH2/GHe)"
+NASA_TM_20230006075-2,78,43,2,6,Dataset\tables\NASA_TM_20230006075-2_p78_t43_camelot.csv,<NA> | <NA> | <NA> | <NA> | 5 ksi GHe 1-step age | <NA>
+NASA_TM_20230006075-2,78,44,2,6,Dataset\tables\NASA_TM_20230006075-2_p78_t44_camelot.csv,<NA> | <NA> | <NA> | 5 ksi GHe 2-step age | <NA> | <NA>
+NASA_TM_20230006075-2,86,1,7,8,Dataset\tables\NASA_TM_20230006075-2_p86_t1.csv,"Material | Environment | Strain
+Range | Aging
+Treatment | Specimen
+ID | Inelastic Strain
+at N
+h
+(%) | Cycles to Crack
+Initiation
+(N)
+i | Cycles to Failure
+(N)
+f"
+NASA_TM_20230006075-2,86,45,7,8,Dataset\tables\NASA_TM_20230006075-2_p86_t45_camelot.csv,"Material | Environment | Strain 
+Range | Aging 
+Treatment | Specimen 
+ID | Inelastic Strain 
+at Nh 
+(%) | Cycles to Crack 
+Initiation 
+(Ni) | Cycles to Failure 
+(Nf)"
+NASA_TM_20230006075-2,87,1,7,10,Dataset\tables\NASA_TM_20230006075-2_p87_t1.csv,"Material | Environment | Strain
+Range | Aging
+Treatment | Specimen
+ID | Δσ
+max
+(ksi) | Δσ
+half
+(ksi) | Δσ
+first
+(ksi) | HR | SR"
+NASA_TM_20230006075-2,87,46,7,10,Dataset\tables\NASA_TM_20230006075-2_p87_t46_camelot.csv,"Material | Environment | Strain 
+Range | Aging 
+Treatment | Specimen 
+ID | Δσmax 
+(ksi) | Δσhalf 
+(ksi) | Δσfirst 
+(ksi) | HR | SR"
+NASA_TM_20230006075-2,88,47,2,25,Dataset\tables\NASA_TM_20230006075-2_p88_t47_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | LCF Loop 1 
+      
+LCF Loop 15 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,88,48,1,7,Dataset\tables\NASA_TM_20230006075-2_p88_t48_camelot.csv,"<NA> | <NA> | <NA> | <NA> | LCF Loop 1 
+   
+LCF Loop 15 
+LCF Loop Half Life | <NA> | <NA>"
+NASA_TM_20230006075-2,89,49,3,10,Dataset\tables\NASA_TM_20230006075-2_p89_t49_camelot.csv,<NA> | Ni Cycle: 760 (1-step age) | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,92,50,2,4,Dataset\tables\NASA_TM_20230006075-2_p92_t50_camelot.csv,"<NA> | <NA> | DED HR-1 Air 1-step 
+DED HR-1 Air 2-step 
+DED HR-1  GH2-1-step | <NA>"
+NASA_TM_20230006075-2,93,51,1,4,Dataset\tables\NASA_TM_20230006075-2_p93_t51_camelot.csv,"<NA> | <NA> | Wrought HR-1 GH2 1-step Nf 
+DED HR-1 GH2 1-step Nf 
+DED HR-1 GH2 2-step Nf 
+Trend line (W HR-1 GH2) | <NA>"
+NASA_TM_20230006075-2,94,1,7,9,Dataset\tables\NASA_TM_20230006075-2_p94_t1.csv,"Material | Aging
+Treatment | Strain Rate
+(in/in//min) | Test
+Environment | YS
+(ksi) | UTS
+(ksi) | Ductility
+(%) | UTS/YS
+Ratio | Strain Hardening
+Exponent
+(n)"
+NASA_TM_20230006075-2,94,52,5,9,Dataset\tables\NASA_TM_20230006075-2_p94_t52_camelot.csv,"Material | Aging 
+Treatment | Strain Rate 
+(in/in//min) | Test 
+Environment | YS 
+(ksi) | UTS 
+(ksi) | Ductility 
+(%) | UTS/YS 
+Ratio | Strain Hardening 
+Exponent 
+(n)"
+NASA_TM_20230006075-2,95,1,4,11,Dataset\tables\NASA_TM_20230006075-2_p95_t1.csv,Alloy | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al | Aging cycle
+NASA_TM_20230006075-2,95,53,4,11,Dataset\tables\NASA_TM_20230006075-2_p95_t53_camelot.csv,Alloy | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al | Aging cycle
+NASA_TM_20230006075-2,96,1,14,4,Dataset\tables\NASA_TM_20230006075-2_p96_t1.csv,LP-DED NASA HR–1 (initial formulation) – Density: 8.025 g/cm3 | None | None | None
+NASA_TM_20230006075-2,96,54,14,4,Dataset\tables\NASA_TM_20230006075-2_p96_t54_camelot.csv,LP-DED NASA HR–1 (initial formulation) – Density: 8.025 g/cm3 | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,97,1,16,4,Dataset\tables\NASA_TM_20230006075-2_p97_t1.csv,Wrought NASA HR–1 – Density: 8.07 g/cm3 | None | None | None
+NASA_TM_20230006075-2,97,2,13,4,Dataset\tables\NASA_TM_20230006075-2_p97_t2.csv,LP-DED NASA HR–1 (final formulation) – Density: 8.09 g/cm3 | None | None | None
+NASA_TM_20230006075-2,97,55,16,4,Dataset\tables\NASA_TM_20230006075-2_p97_t55_camelot.csv,Wrought NASA HR–1 – Density: 8.07 g/cm3 | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,97,56,13,4,Dataset\tables\NASA_TM_20230006075-2_p97_t56_camelot.csv,LP-DED NASA HR–1 (final formulation) – Density: 8.09 g/cm3 | <NA> | <NA> | <NA>
+NASA_TM_20230006075-2,98,57,2,8,Dataset\tables\NASA_TM_20230006075-2_p98_t57_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | Wrought NASA HR-1 
+DED NASA HR-1 (Final) | <NA> | <NA>"
+NASA_TM_20230006075-2,99,58,2,8,Dataset\tables\NASA_TM_20230006075-2_p99_t58_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | Wrought NASA HR-1 
+DED NASA HR-1 (Final) | <NA> | <NA>"
+NASA_TM_20230006075-2,100,59,2,10,Dataset\tables\NASA_TM_20230006075-2_p100_t59_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | Wrought NASA HR-1 
+DED NASA HR-1 (Final) 
+DED NASA HR-1 (Initial) | <NA> | <NA> | <NA>"
+NASA_TM_20230006075-2,101,60,1,8,Dataset\tables\NASA_TM_20230006075-2_p101_t60_camelot.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | Wrought NASA HR-1 | DED NASA HR-1 (Final) 
+DED NASA HR-1 (Initial)"
+NASA_TM_20230006075-2,105,1,2,10,Dataset\tables\NASA_TM_20230006075-2_p105_t1.csv,Alloy | Fe | Ni | Cr | Mo | V | W | Co | Ti | Al
+Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys,2,1,2,3,Dataset\tables\Copper-based alloys for structural high-heat-flux applications  a review of development  properties  and performance of Cu-rich Cu Cr Nb alloys_p2_t1.csv,None | ABSTRACT | None
+20190033311,6,1,7,15,Dataset\tables\20190033311_p6_t1.csv,<NA> | Material | <NA> | <NA> | Source | <NA> | <NA> | Tensile | <NA> | <NA> | Yield | <NA> | <NA> | Elong | <NA>
+20190033311,7,1,3,17,Dataset\tables\20190033311_p7_t1.csv,<NA> | <NA> | <NA> | <NA> | <NA> | GRC | op- | 42 - | MSF | C H | IP | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+20190033311,7,2,2,10,Dataset\tables\20190033311_p7_t2.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | SL | M GRCop | -84 | <NA>
+20190033311,7,3,3,9,Dataset\tables\20190033311_p7_t3.csv,<NA> | <NA> | <NA> | <NA> | <NA> | SL | None | <NA> | p-84
+20190033311,8,1,1,10,Dataset\tables\20190033311_p8_t1.csv,"<NA> | <NA> | SLM GRC
+SLM GRC | op-84
+op-42 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>"
+20190033311,8,2,2,10,Dataset\tables\20190033311_p8_t2.csv,<NA> | <NA> | <NA> | <NA> | <NA> | MS | FC GR | Cop4 | 2 | <NA>
+20190033311,8,3,2,10,Dataset\tables\20190033311_p8_t3.csv,<NA> | <NA> | SLM GRC | op-84 | <NA> | <NA> | <NA> | <NA> | <NA> | <NA>
+20190033311,12,2,20,2,Dataset\tables\20190033311_p12_t2.csv,None | The SLM development work supports NASA projects
+20190033311,12,3,4,2,Dataset\tables\20190033311_p12_t3.csv,None | NASA is continuing to advance the SLM GRCop-42
+20190033311,13,1,3,1,Dataset\tables\20190033311_p13_t1.csv,"Ellis, D.L., GRCop-84: A High-Temperature Copper"
+20190033311,13,2,8,2,Dataset\tables\20190033311_p13_t2.csv,"[2] H. Groh III, D. Ellis, W. Loewenthal, Comparison of | None"
+20190033311,14,1,3,2,Dataset\tables\20190033311_p14_t1.csv,"[4] Ogbuji, L. and Humphrey, D.L., 2003. Comparison | None"
+20190033311,14,2,6,2,Dataset\tables\20190033311_p14_t2.csv,None | as Fabricated by Selective Laser Melting. 2017 Joint
+20190033311,14,3,6,2,Dataset\tables\20190033311_p14_t3.csv,"[5] Thomas-Ogbuji, L., Humphrey, D.L. and Setlock, | None"
+20190033311,14,4,4,2,Dataset\tables\20190033311_p14_t4.csv,"[18] Gradl, P.R., 2016. Rapid Fabrication Techniques for | None"
+20190033311,14,5,4,2,Dataset\tables\20190033311_p14_t5.csv,"[6] L.U. Thomas-Ogbuji, and D.L. Humphrey: Oxidation | None"
+20190033311,14,6,4,2,Dataset\tables\20190033311_p14_t6.csv,"[19] Gradl, P., Mireles, O. and Andrews, N., 2018. Intro | None"
+20190033311,14,7,5,2,Dataset\tables\20190033311_p14_t7.csv,"[8] Cooper, K. G., Lydon, J. L., Corre, M. D., & Jones, | None"
+20190033311,14,8,4,2,Dataset\tables\20190033311_p14_t8.csv,"[20] Gradl, P., Brandsmeier, W., Calvert, M., Greene, S., | None"
+20190033311,14,9,7,2,Dataset\tables\20190033311_p14_t9.csv,"[9] Gradl, P., Protz, C., Cooper, K., Garcia, C., Ellis, D., | None"
+20190033311,14,10,7,2,Dataset\tables\20190033311_p14_t10.csv,"[21] Gradl, P.R., Protz, C.S., Zagorski, K., Doshi, V. and | None"
+20190033311,14,11,7,2,Dataset\tables\20190033311_p14_t11.csv,"[10] Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, | None"
+20190033311,14,12,8,2,Dataset\tables\20190033311_p14_t12.csv,"[22] Protz, C., Bowman, R., Cooper, K., Fikes, J., | None"
+20190033311,14,13,8,2,Dataset\tables\20190033311_p14_t13.csv,"[11] Gradl, P., Greene, S., Protz, C., Bullard, B., Buzzell, | None"
+20190033311,14,14,7,2,Dataset\tables\20190033311_p14_t14.csv,"[23] Garcia, C.P., Gradl, P.R., Protz, C.S., Wood, J., and | None"
+20190033311,14,15,4,2,Dataset\tables\20190033311_p14_t15.csv,"[12] Gradl, P., Mireles, O. and Andrews, N., Introduction | None"
+20190033311,14,16,4,2,Dataset\tables\20190033311_p14_t16.csv,"[24] Gradl, P.R., Greene, S. E. “Channel Wall Nozzle | None"
+20190033311,14,17,4,2,Dataset\tables\20190033311_p14_t17.csv,"[13] Pells, G. P., and M. Shiga. ""The optical properties of | None"
+20190033311,14,18,4,2,Dataset\tables\20190033311_p14_t18.csv,"[25] Gradl, P.R., Greene, S. E. “Bimetallic Channel Wall | None"
+20190033311,14,19,3,2,Dataset\tables\20190033311_p14_t19.csv,"[14] M. F. Ashby: Oxide Dispersion Strengthening, Proc. | None"
+20190033311,14,20,6,2,Dataset\tables\20190033311_p14_t20.csv,"[26] Gradl, P., Protz, C., Wammen, T. “Additive | None"
+20190033311,14,21,3,2,Dataset\tables\20190033311_p14_t21.csv,"[15] Minnecci, R., Rawn, C., Jones, Z., Bunn, J. and | None"
+6.2019-4228,1,1,2,1,Dataset\tables\6.2019-4228_p1_t1.csv,"Paul R. Gradl1, Chris Protz2, Ken Cooper3, Chance Garcia4"
+6.2019-4228,1,2,18,2,Dataset\tables\6.2019-4228_p1_t2.csv,"None | GRCop-42 is a high conductivity, high-strength dispersion strengthened copper-alloy for use in high heat"
+6.2019-4228,1,4,6,1,Dataset\tables\6.2019-4228_p1_t4.csv,"1 Senior Combustion Devices Engineer, Component Technology Branch, Senior Member, AIAA"
+6.2019-4228,2,2,3,2,Dataset\tables\6.2019-4228_p2_t2.csv,None | Cu-8 at.% Cr-4 at.% Nb) is the most
+6.2019-4228,2,3,11,4,Dataset\tables\6.2019-4228_p2_t3.csv,"None | Starting in 2014, the LCUSP program established the necessary AM build parameters, characterized AM | None | None"
+6.2019-4228,3,1,1,2,Dataset\tables\6.2019-4228_p3_t1.csv,"Although several GRCop-alloy variants exist, GRCop-42 | (Cu-4 at.% Cr-2 at.% Nb) was selected for several"
+6.2019-4228,3,2,4,1,Dataset\tables\6.2019-4228_p3_t2.csv,"Improvement in conductivity over GRCop-84,"
+6.2019-4228,3,3,4,2,Dataset\tables\6.2019-4228_p3_t3.csv,None | The AM process parameters for GRCop-42 were developed on the same MSFC Concept Laser M2 used for the
+6.2019-4228,3,4,7,2,Dataset\tables\6.2019-4228_p3_t4.csv,None | Background and Overview of Extruded GRCop-42
+6.2019-4228,3,5,5,2,Dataset\tables\6.2019-4228_p3_t5.csv,"None | Additional development work was conducted under subsequent programs through 2005. Most notably, the Second"
+6.2019-4228,3,6,5,2,Dataset\tables\6.2019-4228_p3_t6.csv,None | GRCop-42 was also examined but not as extensively. GRCop-42 trades lower mechanical properties such as
+6.2019-4228,3,7,4,2,Dataset\tables\6.2019-4228_p3_t7.csv,None | GRCop alloys are powder metallurgy alloys that can be consolidated by a variety of means including additive
+6.2019-4228,3,8,7,2,Dataset\tables\6.2019-4228_p3_t8.csv,"None | In general, the two most important properties for selecting an alloy for a combustion chamber liner are thermal"
+6.2019-4228,3,9,5,2,Dataset\tables\6.2019-4228_p3_t9.csv,None | Figure 1 shows the thermal conductivity of extruded GRCop-42 and GRCop-84. During the Second Generation
+6.2019-4228,4,1,5,3,Dataset\tables\6.2019-4228_p4_t1.csv,increase about 10 W/mK at room temperature and raise the thermal conductivity to about 87% IACS. Even the higher | None | None
+6.2019-4228,4,2,11,4,Dataset\tables\6.2019-4228_p4_t2.csv,"None | Wrought GRCop-42 and GRCop-84 were low cycle fatigue tested at room temperature (23 °C), 400 °C and 600 | None | None"
+6.2019-4228,4,3,4,2,Dataset\tables\6.2019-4228_p4_t3.csv,"None | The plastic strain was also measured during the tests. As can be seen in Figure 3, wrought GRCop-42 has a similar"
+6.2019-4228,5,1,1,1,Dataset\tables\6.2019-4228_p5_t1.csv,"0.1
+0.08
+0.06
+0.04 GRCop-84, 600 °C
+0.03
+ai n m) 0.02
+Str
+m
+c m/ 0 . 0 1
+sti 0 . 0 0 8
+Pl a ( m 0 . 0 0 6 G RT R C - 6 o 0 p 0 -4 ° 2 C ,
+0.004
+0.003
+0.002
+GRCop-84,
+RT - 400 °C
+0.001
+102 103 104 105
+"
+6.2019-4228,5,2,9,2,Dataset\tables\6.2019-4228_p5_t2.csv,"None | The largest difference observed in LCF testing was in the stresses observed during the testing. As was mentioned,"
+6.2019-4228,5,3,5,2,Dataset\tables\6.2019-4228_p5_t3.csv,"None | Since the strains are thermally induced, the thermal expansion of GRCop alloys is very important. Figure 5"
+6.2019-4228,6,1,1,1,Dataset\tables\6.2019-4228_p6_t1.csv,"2.5
+GRCop-42
+2.0
+1.5
+e GRCop-84
+g
+n
+a
+c h %) 1.0
+ar (
+e
+n
+Li
+0.5
+0.0
+0 200 400 600 800 1000
+Temperature
+(°C)"
+6.2019-4228,6,2,4,2,Dataset\tables\6.2019-4228_p6_t2.csv,"None | This difference in thermal expansions implies that, at a given hot wall temperature, the GRCop-42 will have a"
+6.2019-4228,6,3,6,2,Dataset\tables\6.2019-4228_p6_t3.csv,"None | In a regeneratively cooled engine, high-pressure fuel is passed through cooling channels to cool the liner. A"
+6.2019-4228,6,4,6,2,Dataset\tables\6.2019-4228_p6_t4.csv,None | Figure 6 through Figure 9 compare the tensile mechanical properties of wrought GRCop-42 and GRCop-84. At
+6.2019-4228,6,5,4,2,Dataset\tables\6.2019-4228_p6_t5.csv,"None | Above 600 °C, wrought GRCop-42 and GRCop-84 have essentially the same strength. This is caused by the"
+6.2019-4228,7,1,1,1,Dataset\tables\6.2019-4228_p7_t1.csv,"300
+GRCop-84
+250
+h
+gt
+n
+e 200
+Str
+GRCop-42
+d
+ela)
+Yi P 150
+M
+et (
+s
+Off
+100
+%
+2
+0.
+50
+0
+-200 0 200 400 600 800 1000
+Temperature
+(°C)"
+6.2019-4228,7,2,1,1,Dataset\tables\6.2019-4228_p7_t2.csv,"700
+650 GRCop-84
+600
+550
+gt h 500
+n
+e 450
+Str
+4 0 0
+sil e a)
+e n M P 3 5 0 GRCop-42
+T( 300
+e
+at 250
+m
+Ulti 200
+150
+100
+50
+0
+-400 -200 0 200 400 600 800 1000
+Temperature
+(°C)"
+6.2019-4228,7,3,3,2,Dataset\tables\6.2019-4228_p7_t3.csv,"None | The ductility of GRCop-42 is generally superior to that of GRCop-84. With only half the Cr Nb content of GRCop-
+2"
+6.2019-4228,8,1,3,3,Dataset\tables\6.2019-4228_p8_t1.csv,"None | 32
+30 GRCop-42
+28
+26
+n
+ati o 24
+%)
+g
+n(
+o 22
+El
+20
+18
+GRCop-84
+16
+14
+-400 -200 0 200 400 600 800 1000
+Temperature
+(°C) | None"
+6.2019-4228,8,2,3,2,Dataset\tables\6.2019-4228_p8_t2.csv,"None | For a reusable engine or an engine that will see repeated firings that accumulate long times at temperature, creep"
+6.2019-4228,8,3,7,2,Dataset\tables\6.2019-4228_p8_t3.csv,None | Figure 10 compares the creep rates for wrought GRCop-42 and GRCop-84. The results for the GRCop-84 are for
+6.2019-4228,9,1,3,3,Dataset\tables\6.2019-4228_p9_t1.csv,based upon the alloy. This should not result in major design changes when substituting one alloy for the other and | None | None
+6.2019-4228,9,2,2,3,Dataset\tables\6.2019-4228_p9_t2.csv,"statistically significant difference | s were noted, but again the results do not indicate any | major differences."
+6.2019-4228,9,3,4,2,Dataset\tables\6.2019-4228_p9_t3.csv,None | The lack of major differences in the creep properties likely reflects the pure Cu matrix dominating the creep of the
+6.2019-4228,9,4,5,2,Dataset\tables\6.2019-4228_p9_t4.csv,"None | The lower limit of the volume percent of Cr Nb has not been established, but results like these indicate that a
+2"
+6.2019-4228,9,5,9,2,Dataset\tables\6.2019-4228_p9_t5.csv,None | Development of GRcop-42 using SLM
+6.2019-4228,10,3,8,2,Dataset\tables\6.2019-4228_p10_t3.csv,None | The SLM process uses a layer-by-layer approach in which the desired component features are created by melting
+6.2019-4228,10,4,6,2,Dataset\tables\6.2019-4228_p10_t4.csv,"None | After a layer is completed, the build plate is lowered slightly, a new layer of powder is spread, and the laser sinters"
+6.2019-4228,11,1,9,2,Dataset\tables\6.2019-4228_p11_t1.csv,None | Some challenges that were overcome in the original AM GRCop-84 development were carried over to the AM
+6.2019-4228,11,2,7,2,Dataset\tables\6.2019-4228_p11_t2.csv,"None | While the GRCop-84 development had been successful on a 30 micron step print strategy, it proved to be time-"
+6.2019-4228,11,3,3,2,Dataset\tables\6.2019-4228_p11_t3.csv,"None | While the process parameters were being fully developed, the powder supply chain was also being evolved. The"
+6.2019-4228,12,1,2,1,Dataset\tables\6.2019-4228_p12_t1.csv,clogging the atomization nozzle. Several vendors were established under the GRCop-84 development and various
+6.2019-4228,12,3,6,2,Dataset\tables\6.2019-4228_p12_t3.csv,"None | During initial development of the GRCop-42 material, powders from several vendors was evaluated using the"
+6.2019-4228,12,4,4,2,Dataset\tables\6.2019-4228_p12_t4.csv,None | It was observed that SLM tensile values were lower than desired in the samples that did not include the fine
+6.2019-4228,12,5,3,2,Dataset\tables\6.2019-4228_p12_t5.csv,None | The average tensile strength and elongation values from lots tested are shown below in Table 2 with various vendor
+6.2019-4228,12,6,6,2,Dataset\tables\6.2019-4228_p12_t6.csv,None | A separate study was determined inner and outer contouring parameters to reduced surface roughness for better
+6.2019-4228,13,1,5,2,Dataset\tables\6.2019-4228_p13_t1.csv,None | One of the primary motivations for developing the GRCop-42 was the increased thermal conductivity compared
+6.2019-4228,13,2,1,10,Dataset\tables\6.2019-4228_p13_t2.csv,"<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | MSFC G
+MSFC G | RCop42
+RCop84 | <NA> | <NA>"
+6.2019-4228,13,3,5,2,Dataset\tables\6.2019-4228_p13_t3.csv,None | Builds of SLM GRCop-42 were setup to document how mechanical properties were affected by a variety of power
+6.2019-4228,14,1,10,2,Dataset\tables\6.2019-4228_p14_t1.csv,"None | Further mechanical characterization took place of the SLM GRCop-42, built using optimized parameters and"
+6.2019-4228,14,2,7,14,Dataset\tables\6.2019-4228_p14_t2.csv,<NA> | Material | <NA> | <NA> | Source | <NA> | Tensile | <NA> | <NA> | Yield | <NA> | <NA> | Elongation | <NA>
+6.2019-4228,14,3,6,2,Dataset\tables\6.2019-4228_p14_t3.csv,None | Additional mechanical test samples are continually being produced to add to the data shown above. These samples
+6.2019-4228,15,1,5,2,Dataset\tables\6.2019-4228_p15_t1.csv,comparison to SLM GRCop-84 is also shown. The SLM tensile data follows similar trends to the extruded material | None
+6.2019-4228,16,1,5,2,Dataset\tables\6.2019-4228_p16_t1.csv,"None | The GRCop-42 process parameter development yielded the initial density, mechanical, thermophysical, and"
+6.2019-4228,16,2,3,2,Dataset\tables\6.2019-4228_p16_t2.csv,None | The powder supply chain was made more readily available with more vendors capable of meeting the powder
+6.2019-4228,16,3,5,2,Dataset\tables\6.2019-4228_p16_t3.csv,"None | As part of the material process development and characterization, samples were created to demonstrate the ability"
+6.2019-4228,16,4,1,1,Dataset\tables\6.2019-4228_p16_t4.csv,Figure 19. Example of sample feature geometry in GRCop-42 on MSFC Concept M2.
+6.2019-4228,16,5,6,2,Dataset\tables\6.2019-4228_p16_t5.csv,None | An immediate goal of the GRCop-42 development was to complete hardware fabrication and hot-fire testing of
+6.2019-4228,16,6,8,2,Dataset\tables\6.2019-4228_p16_t6.csv,"None | NASA MSFC’s Test Stand (TS) 115 is ideal for testing quick turnaround subscale test articles, such as"
+6.2019-4228,16,7,5,2,Dataset\tables\6.2019-4228_p16_t7.csv,"None | The test stand offers extensive instrumentation to allow monitoring of test hardware, including high and low speed"
+6.2019-4228,16,8,5,2,Dataset\tables\6.2019-4228_p16_t8.csv,"None | Two hot-fire test series, PI100 and PJ038, were completed using the SLM GRCop-42 liners to evaluate"
+6.2019-4228,16,9,3,2,Dataset\tables\6.2019-4228_p16_t9.csv,None | Follow-on testing under PJ038 performed cyclic testing to achieve high duty cycles (high number of start/shutdown
+6.2019-4228,17,2,5,2,Dataset\tables\6.2019-4228_p17_t2.csv,None | The thrust chamber assembly used a PBF additively manufactured coaxial injector and the SLM GRCop-42
+6.2019-4228,17,3,6,2,Dataset\tables\6.2019-4228_p17_t3.csv,"None | The liner’s coolant channels were printed directly into the structure using SLM, so no channel closeout was"
+6.2019-4228,18,1,7,2,Dataset\tables\6.2019-4228_p18_t1.csv,"None | A total of 188 tests were completed on the two GRCop-42 liners accumulated a combined 8,030 seconds of test"
+6.2019-4228,19,1,7,2,Dataset\tables\6.2019-4228_p19_t1.csv,None | Each liner was maintained in the same configuration and inspected after each test or set of cycles. The only time
+6.2019-4228,19,3,5,2,Dataset\tables\6.2019-4228_p19_t3.csv,"None | Analyzing the hotfire data from both test programs, the measured pressure differences were less than ±5% from"
+6.2019-4228,20,1,3,11,Dataset\tables\6.2019-4228_p20_t1.csv,<NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | None | <NA> | 1
+6.2019-4228,20,2,1,2,Dataset\tables\6.2019-4228_p20_t2.csv,"∆𝑃 × 𝜌
+𝑅 = | (1)"
+6.2019-4228,20,3,2,10,Dataset\tables\6.2019-4228_p20_t3.csv,<NA> | <NA> | <NA> | <NA> | Line | r #1 | <NA> | <NA> | <NA> | <NA>
+6.2019-4228,20,4,4,2,Dataset\tables\6.2019-4228_p20_t4.csv,None | The heat load effects due to varying chamber conditions was further examined during test. Keeping coolant flow
+6.2019-4228,20,5,2,2,Dataset\tables\6.2019-4228_p20_t5.csv,None | Another factor that affected heat load was the ignition method used. Using the TEA-TEB ignition system showed
+6.2019-4228,21,1,5,1,Dataset\tables\6.2019-4228_p21_t1.csv,both Liner #1 and #2 and shown in Figure 27. It is believed that the ash products from TEA-TEB combustion were
+6.2019-4228,21,2,2,6,Dataset\tables\6.2019-4228_p21_t2.csv,"<NA> | <NA> | <NA> | Liner 1 -
+Liner 1 - | Spark ignition
+TEA/TEB Ignition | <NA>"
+6.2019-4228,21,3,4,2,Dataset\tables\6.2019-4228_p21_t3.csv,None | The heat load values were used to anchor analytical models to determine hot wall temperatures for the liners. The
+6.2019-4228,22,1,4,2,Dataset\tables\6.2019-4228_p22_t1.csv,"None | As discussed previously, TEA-TEB ash residue was visible on the chamber liners as seen in the right image in"
+6.2019-4228,22,3,3,2,Dataset\tables\6.2019-4228_p22_t3.csv,None | The chamber liners performed well under varied conditions. The data gathered also showed the resilience of the
+6.2019-4228,23,2,6,2,Dataset\tables\6.2019-4228_p23_t2.csv,None | NASA is continuing to advance the PBF GRCop-42 development in the GE Concept Laser M2- and EOS M290-
+6.2019-4228,23,3,7,2,Dataset\tables\6.2019-4228_p23_t3.csv,None | The SLM development work in the current and larger platform support NASA projects including Engine Advanced
+6.2019-4228,23,4,5,2,Dataset\tables\6.2019-4228_p23_t4.csv,None | Investments are being made by NASA in the material characterization and property database to further enable the
+6.2019-4228,23,5,3,2,Dataset\tables\6.2019-4228_p23_t5.csv,None | NASA has completed initial development using additive manufacturing (AM) powder bed fusion (PBF) for
+6.2019-4228,24,2,5,2,Dataset\tables\6.2019-4228_p24_t2.csv,"None | The SLM GRCop-42 process parameter development yielded the initial density, mechanical properties, thermal"
+6.2019-4228,24,3,9,2,Dataset\tables\6.2019-4228_p24_t3.csv,None | Two SLM GRCop-42 chambers were hot-fire tested at MSFC Test Stand 115 to demonstrate long durations and
+6.2019-4228,24,4,5,2,Dataset\tables\6.2019-4228_p24_t4.csv,"None | Sustained peak wall temperatures were demonstrated up to 1,340 °F on the SLM GRCop-42 liners. The chamber"
+6.2019-4228,24,5,7,2,Dataset\tables\6.2019-4228_p24_t5.csv,None | NASA is continuing to advance the technology for AM GRCop-42 combustion chambers. Several vendors are
+6.2019-4228,24,6,13,2,Dataset\tables\6.2019-4228_p24_t6.csv,None | The authors would like to thank the large team involved in the material development and hot-fire testing of the
+6.2019-4228,25,1,3,2,Dataset\tables\6.2019-4228_p25_t1.csv,"None | 7 Thomas-Ogbuji, L., Humphrey, D.L. and Setlock, J.A., 2003. Oxidation-Reduction Resistance of Advanced"
+6.2019-4228,25,2,3,2,Dataset\tables\6.2019-4228_p25_t2.csv,"None | 9 Protz, C., Bowman, R., Cooper, K., Fikes, J., Taminger, K., & Wright, B. (2014). Additive Manufacturing of"
+6.2019-4228,25,3,3,2,Dataset\tables\6.2019-4228_p25_t3.csv,"None | 10 Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, B. and Locci, I., 2017. Development and Hot-fire Testing"
+6.2019-4228,25,4,3,2,Dataset\tables\6.2019-4228_p25_t4.csv,"None | 11 Li, W.Y., Guo, X.P., Verdy, C., Dembinski, L., Liao, H.L. and Coddet, C., 2006. Improvement of microstructure"
+6.2019-4228,25,5,2,1,Dataset\tables\6.2019-4228_p25_t5.csv,"16 Ellis, D.L., 2005. Conductivity of GRCop-42 alloy enhanced. NASA Research & Technology, p.16."
+6.2019-4228,25,6,3,2,Dataset\tables\6.2019-4228_p25_t6.csv,"None | 20 Cooper, K. G., Lydon, J. L., Corre, M. D., & Jones, Z. C. (2018). Three-Dimensional Printing GRCop-42 (pp."
+6.2019-4228,25,7,4,2,Dataset\tables\6.2019-4228_p25_t7.csv,"None | 24 Gradl, P., Greene, S., Protz, C., Bullard, B., Buzzell, J., Garcia, C., Wood, J., Osborne, R., Hulka, J. Cooper, K."
+6.2019-4228,25,8,3,2,Dataset\tables\6.2019-4228_p25_t8.csv,"None | 25 Gradl, P., Protz, Wammen, T. “Bimetallic Channel Wall Nozzle Development and Hot-fire Testing using"
+6.2019-4228,25,9,1,2,Dataset\tables\6.2019-4228_p25_t9.csv,PJ038”. NASA Marshall Space Flight Center. August 20192. | 5
+6.2019-4228,26,1,4,2,Dataset\tables\6.2019-4228_p26_t1.csv,"None | 29 Gradl, P., Protz, C., Wammen, T. “Additive Manufacturing Development and Hot-fire Testing of Liquid Rocket"
+6.2019-4228,26,2,3,2,Dataset\tables\6.2019-4228_p26_t2.csv,"None | 30 Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, B., and Locci., I. ""Development and Hot-fire Testing of"
+6.2019-4228,26,3,3,2,Dataset\tables\6.2019-4228_p26_t3.csv,"None | 31 Garcia, C.P., Gradl, P.R., Protz, C.S., Wood, J., and Greene, S. E. Characterizing Performance of Additively"
+6.2019-4228,26,4,3,2,Dataset\tables\6.2019-4228_p26_t4.csv,"None | 33 Gradl, P.R., and Valentine, P.G. ""Carbon-Carbon Nozzle Extension Development in Support of In-space and"
+6.2019-4228,26,5,3,2,Dataset\tables\6.2019-4228_p26_t5.csv,"None | 34 Gradl, P.R., Greene, S.E., Brandsmeier, W., Johnston, M.I. “Hot-Fire Testing and Large-Scale Deposition"

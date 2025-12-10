@@ -1,0 +1,554 @@
+GRCop-42 Development and Hot-fire Testing Using Additive Manufacturing Powder Bed Fusion for Channel- Cooled Combustion Chambers Paul R. Gradl1, Chris Protz2, Ken Cooper3, Chance Garcia4 e, AL 35812 David Ellis5, Laura Evans6 GRCop-42 is a high conductivity, high-strength dispersion strengthened copper-alloy for use in high heat flux applications such as liquid rocket engine combustion devices.
+This alloy is part of the family of alloys.
+GRCop alloys were developed for harsh environments specific to regeneratively-cooled combustion chambers and nozzles with good oxidation resistance.
+Significant development was completed on the GRCop-84 and GRCop-42 alloys in the extruded wrought form demonstrating feasibility for combustion chambers.
+ditive manufacturing, specifically Powder Bed Fusion (PBF) or Selective Laser Melting (SLM), of GRCop-42 to establish parameters, characterize the material, and complete testing of components with complex internal features.
+This evolution of the GRCop-42 was based on the successful predecessor development work using GRCop-84 with the motivation of establishing a new copper-alloy option for use in SLM.
+A few advantages have been shown with the GRCop-42 that include higher conductivity and faster build speeds over the GRCop-84, and a simplified powder supply chain.
+Initial property development has shown that it is possible to produce high density builds with strengths equivalent to wrought GRCop-42 and a conductivity greater than GRCop-84.
+The GRCop-42 has completed process development and initial properties have been established.
+Several demonstrator combustion chambers have also been fabricated with the SLM GRCop-42 that include integral channels and closeouts.
+Additional test units have been fabricated and are completing substantial hot-fire testing to demonstrate performance of the material, process, and design.
+Nomenclature AM = Additive Manufacturing or Additively Manufactured GH2 = Gaseous hydrogen GRC = Glenn Research Center GRCop-42 = sostatic Pressing K-lb = thousand pound-force (thrust) f MSFC = George C. Marshall Space Flight Center LCF = Low Cycle Fatigue LCUSP = Low Cost Upper Stage Propulsion LOX = Liquid Oxygen _______________________________ 1 Senior Combustion Devices Engineer, Component Technology Branch, Senior Member, AIAA 2 Team Lead, Component Technology Branch 3 Retired ve Manufacturing, currently NAMPros.biz 4 Combustion Devices Engineer, Component Technology Branch 5 Materials Research Engineer, Advanced Metallics Branch 6 Materials Research Engineer, Advanced Metallics Branch American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD AIAA Propulsion and Energy Forum 10.2514/6.2019-4228 19-22 August 2019, Indianapolis, IN AIAA Propulsion and Energy 2019 Forum This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+PBF = Powder Bed Fusion (or Selective Laser Melting) Pc = Chamber Pressure (psig) ppm = Parts per million psig = Pounds Per Square Inch, gage pressure RT = Room temperature SLM = Selective Laser Melting TEA/TEB = Triethylaluminium / Triethylborane TCA = Thrust Chamber Assembly I.
+Introduction Additive manufacturing (AM) is an emerging technology that offers significant potential to reduce lead times and cost of fabrication for complex components such as liquid rocket engine combustion chambers.
+Additive manufacturing using powder bed fusion (PBF), specifically selective laser melting (SLM), has been developed for copper-alloys including GRCop-84, GRCop-42, C-18150, and C-18200 under ocus of these developments is for high heat flux applications such as combustion chambers with complex internal coolant passages that would otherwise require difficult and expensive manufacturing operations, if they were even possible to produce.
+pecifically SLM, fabrication of copper-alloys for liquid rocket engine components.
+While high strength alloys, such as nickel-based superalloys, are readily available, they are not the optimized solution for high performance engine systems without performance impacts through fuel film cooling or reduction in life.
+Combustion chamber liners fabricated using a copper-alloy are necessary for high performance engines due to the need for high conductivity to dissipate heat and decrease the wall temperatures to acceptable levels.
+They also possess the high strength at the operating temperature to meet the required structural margins.
+AM provides a method for rapid fabrication of the chamber liner and closeout of the coolant channels that would otherwise require several traditional; processing steps and bonding methods for a complete chamber assembly.
+AM has also been shown to meet the minimum thermophysical and structural material properties2.
+AM is becoming more common, and the list of available materials is expanding rapidly.
+Together, they now provide designers the opportunity to truly optimize based on the necessary material and not be limited by just subtractive machining techniques.
+It was the goal of ls for extreme environments, such as rocket engines, by providing the development and dissemination of data on the r-alloys was developed as a high heat flux, high strength alternative to other common industry aerospace copper-alloys such as NARloy-Z and C-181503,4,5,6.
+GRCop is a preferred material for use in combustion chambers due to: 1) Oxidation and blanching resistance with thermal and oxidation-reduction cycling7 2) High use temperatures to above approximately 1400 ºF, depending upon strength and creep requirements, for sustained durations, 3) Material strength at high use temperatures, 4) Established powder supply chain, 5) Mature AM process that meets property minimums 8.
+GRCop-84 (Cu-8 at.% Cr-4 at.% Nb) is the most common alloy having completed substantial process and property development using SLM under the Low Cost Upper Stage Propulsion (LCUSP) program.
+Starting in 2014, the LCUSP program established the necessary AM build parameters, characterized AM microstructures and mechanical properties, and printed chambers using PBF.
+The chambers successfully completed a series of hot-fire tests9.
+GRCop-84 was baselined for LCUSP since at the program’s inception it was the most mature of the GRCop alloys with respect to available properties and processing techniques including joining.
+The GRCop-84 SLM development under LCUSP was conducted at the Concept Laser M2 machine, materials characterization and testing at on beam freeform fabrication at Langley Research Center (LaRC).
+The LCUSP program was successful in demonstrating the entire GRCop-84 supply chain, fabrication using SLM, and successful hot-fire testing10.
+Since the LCUSP program’s completion, several commercial PBF service vendors have established GRCop-84 printing capabilities for components and made them available for industry use.
+to investigate further performance improvements.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Although several GRCop-alloy variants exist, GRCop-42 (Cu-4 at.% Cr-2 at.% Nb) was selected for several reasons: 1) Improvement in conductivity over GRCop-84, 2) Available limited database for wrought GRCop-4211 3) Limited reduction in strength compared to GRCop-84, 4) Simplified powder atomization over GRCop-84 based upon powder supplier comments, The AM process parameters for GRCop-42 were developed on the same MSFC Concept Laser M2 used for the LCSUP program, and n. In parallel, commercial service vendors were established to establish processing parameters and provide GRCop-42 components fabricated on EOS M290 and EOS M400 machines.
+The GRCop-42 development included the fundamental SLM process parameter development, full characterization and mechanical testing of the AM material, evolving the powder atomization and print service supply chains, and component application development including hot-fire testing of combustion chamber liners.
+These parallel efforts were completed and continue to be worked to allow full development of this material for use in government and commercial space applications.
+This paper provides an overview of the extruded GRCop-42 properties and discussed the full development of the SLM GRCop-42 material.
+Results from hot-fire testing of two GRCop-42 SLM liners will be discussed.
+The testing demonstrated high duty cycles in a subscale 2K-lb thrust class f Liquid Oxygen/Gaseous Hydrogen (LOX/GH2) thrust chamber assembly accumulating over 168 starts and >7,400 seconds on a single GRCop-42 SLM liner.
+II.
+GRCop-42 Background and SLM Process Development A.
+Background and Overview of Extruded GRCop-42 Work on Cu-Cr-Nb alloys began under the Graduate Fellowship Programs in 1987.
+A series of alloys with 2-10 at.% Cr and 1-5% Nb with a Cr to Nb atomic ratio of 2:1 were examined by producing and testing chill block melt spun ribbons12.
+Based upon the observed strengths and conductivities, two alloys were selected for further development – Cu-8 at.% Cr-4 at.% Nb (GRCop-84) and Cu-4 at.% Cr-2 at.% Nb (GRCop-42).
+The alloys were scaled up using inert atmosphere powder atomization to produce useful quantities of material that could be processed using conventional powder metallurgy techniques.
+Additional development work was conducted under subsequent programs through 2005.
+Most notably, the Second Generation Reusable Launch Vehicle Program sponsored the GRCop-84 mechanical property database development for the RS-83 and RS-84 engines.
+The goal of the program was to achieve 100 missions before an engine overhaul and a 500-mission life.
+While the engines were never built and tested, the mechanical properties indicated that the goals could be met by a GRCop-84 liner.
+GRCop-42 was also examined but not as extensively.
+GRCop-42 trades lower mechanical properties such as strength for significantly higher thermal conductivity.
+GRCop-42 achieves 85% of the International Annealed Copper Standard (IACS) versus 75% IACS for GRCop-84 at room temperature.
+The alloy was of prime interest for reusable expander cycle rocket engines such as the proposed RL-60.
+While the database for GRCop-42 is less extensive than the one for GRCop-84, sufficient information does exist for directly comparing the two alloys in the extruded form.
+GRCop alloys are powder metallurgy alloys that can be consolidated by a variety of means including additive manufacturing.
+The GRCop-42 and GRCop-84 materials referenced in this section were consolidated by hot extrusion, also referred to as wrought.
+To provide the closest comparison of the properties, only these data sets will be presented here with the exception of the creep data.
+In general, the two most important properties for selecting an alloy for a combustion chamber liner are thermal conductivity and low cycle fatigue (LCF) resistance.
+While other material attributes are certainly important, these dominate.
+High thermal conductivity is needed to minimize both the hot wall temperature and thermal gradient through the liner wall.
+LCF occurs during repeated hot firings of the engine during qualification and flight.
+Depending upon the engine type and mission, anywhere from tens to hundreds of cycles may be accumulated over the life of an engine.
+Typically, thermal expansion of the constrained liner causes a deformation of 1% or more.
+This can result in a rapid degradation of the liner and ultimately failure.
+Figure 1 shows the thermal conductivity of extruded GRCop-42 and GRCop-84.
+During the Second Generation RLV program, it was discovered that the 200-250 ppm Fe contamination from the Cr melt stock had a dramatic effect upon the thermal conductivity of GRCop-8413.
+Data from both the low (<50 ppm) and high Fe versions are shown to demonstrate the effect.
+The GRCop-42 tested did not benefit from this change and had approximately 100-125 ppm Fe.
+To a first approximation, the thermal conductivity of the newer, lower Fe additive manufacturing powders should American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | 9102 ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD increase about 10 W/mK at room temperature and raise the thermal conductivity to about 87% IACS.
+Even the higher Fe GRCop-42 enjoys a significant advantage over GRCop-84 at all temperatures.
+It also is above 90% IACS at temperatures exceeding 400 °C (752 °F).
+This conductivity is less than low-alloy copper alloys such as Cu-1 Cr and AMZIRC (Cu-0.1 Zr), but still high enough to be very attractive, given the other good properties of the GRCop alloys3.
+Cu y vit 380 cti u 360 GRCop-42 dK) o nm CW/ Low Fe m al ( 320 GRCop-84 r h e 300 T 280 GRCop-84 0 200 400 600 800 1000 Temperature (°C) Figure 1.
+Thermal Conductivity Of Wrought GRCop Alloys and Pure Cu Wrought GRCop-42 and GRCop-84 were low cycle fatigue tested at room temperature (23 °C), 400 °C and 600 °C (73 °F, 752 °F and 1112 °F) using a fully reversed (R = -1) triangular waveform and strain control to achieve the desired strain range14,15.
+It was found that wrought GRCop-42 did not have a statistically significant temperature dependence for the LCF lives, so all the data were pooled together.
+Wrought GRCop-84 showed a slight dependency of LCF life on temperature with the 600 °C data being statistically significantly different from the RT and 400 °C data.
+The RT and 400 °C data, which were statistically equivalent, were pooled.
+The results of the analyses are presented in Figure 2.
+GRCop-42 exhibits a statistically slight lower LCF life at higher strain ranges while the two alloys were statistically equivalent at 0.7% total strain, the lowest strain range tested.
+Below a 0.7% total strain range, the alloys normally did not fail.
+From a practical engineering standpoint, the two alloys are very similar and nearly equivalent performance should be possible for most applications.
+GRCop-84, 600 °C e g n 2 R a m) n m Str ai m m/ al ( 1 GRCop-42, GRCop-84, ot 0.9 RT - 600 °C RT - 400 °C T 0.8 0.7 0.6 0.5 102 103 104 105 Life (cycles) Figure 2.
+LCF Lives of Wrought GRCop-42 and Wrought GRCop-84.
+The plastic strain was also measured during the tests.
+As can be seen in Figure 3, wrought GRCop-42 has a similar amount of plastic deformation as wrought GRCop-84.
+A comparatively large scatter was observed for both alloys, and it is unclear if this is a truly significant difference.
+The results do indicate that permanent plastic deformation due to LCF in a liner made of GRCop-42 will be similar to one made from GRCop-84.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 0.1 0.08 0.06 0.04 GRCop-84, 600 °C 0.03 Str ai n m m) 0.02 Pl a sti c ( m m/ 0 0 .
+.
+.
+0 0 1 8 G RT R C - 6 o 0 p 0 -4 ° 2 C , 0.004 0.003 0.002 GRCop-84, RT - 400 °C 0.001 102 103 104 105 Life (cycles) Figure 3.
+LCF Plastic Strains of Wrought GRCop-42 and Wrought GRCop-84.
+The largest difference observed in LCF testing was in the stresses observed during the testing.
+As was mentioned, the tests were run in strain control.
+The actuator applied a load until the desired strain was achieved.
+The difference in stresses at the minimum and maximum strains was calculated.
+Figure 4 shows the total stress range for each strain at the three test temperatures.
+In all cases, GRCop-42 had a lower stress range than GRCop-84, and the difference increased with temperature.
+This was consistent with expectations as the GRCop-84 has a higher yield strength and requires a higher stress to deform it to these strains.
+This indicates that the load bearing capability of GRCop-42 in an LCF environment will not be as high as GRCop-84.
+This will need to be addressed in some designs, but since the LCF is thermally driven for a liner, it is expected that thermal expansion and temperature change will be the key determinants for the LCF performance.
+(cycles) Figure 4.
+LCF Stress Ranges of Wrought GRCop-42 and Wrought GRCop-84.
+Since the strains are thermally induced, the thermal expansion of GRCop alloys is very important.
+Figure 5 compares the results for wrought GRCop-42 and GRCop-84.
+The Cr Nb in the nearly pure Cu matrix had a lower thermal expansion and served to restrain the thermal growth of the alloys.
+Since GRCop-42 has about half the Cr Nb content of GRCop-84, it was less restrained by the precipitates and had a higher thermal expansion.
+While not presented here, the thermal expansions of low-alloy Cu-based alloys are even higher than GRCop-42.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 2.5 GRCop-42 2.0 1.5 e GRCop-84 g n a ar c h ( %) 1.0 e n Li 0.5 0.0 0 200 400 600 800 1000 Temperature (°C) Figure 5.
+Thermal Expansion of Wrought GRCop-42 and Wrought GRCop-84.
+This difference in thermal expansions implies that, at a given hot wall temperature, the GRCop-42 will have a higher LCF strain and hence lower life.
+This is counterbalanced by the higher thermal conductivity that will, for the same operating conditions, result in a lower hot wall temperature.
+There needs to be an iterative analysis to select optimal operating conditions and which alloy is best for a given application.
+In a regeneratively cooled engine, high-pressure fuel is passed through cooling channels to cool the liner.
+A chamber hotwall is designed relatively thin to minimize the thermal gradient and minimize hotwall peak temperatures.
+With operating pressures up to 6 ksi (41 MPa), large stresses can be generated in these thin walls.
+The higher the strength of the material, the thinner that the hot wall can be made without failing.
+While current designs generally use sufficiently thick walls that the difference in material strengths is not a driving issue, features possible with additive manufacturing may result in thinner walls and possibly a strength-limited design.
+Figure 6 through Figure 9 compare the tensile mechanical properties of wrought GRCop-42 and GRCop-84.
+At lower temperatures, mainly below 600 °C (1112 °F), GRCop-84 is clearly stronger than GRCop-42.
+This is one of the major properties that must be decreased for the higher thermal conductivity offered by GRCop-42.
+For a given operating pressure, the minimum wall thickness of a liner must be increased to lower the stresses to acceptable levels.
+How that affects thermal gradients, hot wall temperatures, thermally induced strains and other design considerations must be examined and likely requires iterations to determine optimal designs in strength limited applications.
+Above 600 °C, wrought GRCop-42 and GRCop-84 have essentially the same strength.
+This is caused by the extremely weak pure Cu matrix dominating the strength of the alloys.
+The strength remains generally superior to competitive alloys in this temperature range, and exposure of the GRCop alloys to these temperatures has minimal impact on the properties.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD GRCop-84 h gt n e 200 Str GRCop-42 d ela) et Yi ( M P 150 s Off % 2 0.
+0 -200 0 200 400 600 800 1000 Temperature (°C) Figure 6.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 0.2% Offset Yield Strength.
+650 GRCop-84 550 gt h 500 n e 450 Str e n sil e M P a) 3 4 5 0 0 0 GRCop-42 T( 300 e at 250 m Ulti 200 100 0 -400 -200 0 200 400 600 800 1000 Temperature (°C) Figure 7.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 Ultimate Tensile Strength.
+The ductility of GRCop-42 is generally superior to that of GRCop-84.
+With only half the Cr Nb content of GRCop- 84, this was expected.
+Both alloys have sufficient ductility for most applications including liners, and will deform large amounts without failure.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 30 GRCop-42 26 n g ati o %) o n( El 18 GRCop-84 14 -400 -200 0 200 400 600 800 1000 Temperature (°C) Figure 8.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 Tensile Elongation.
+80 a GRCop-42 e Ar n n I %) o cti( u 40 d e R GRCop-84 -400 -200 0 200 400 600 800 1000 Temperature (°C) Figure 9.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 Reduction in Area.
+For a reusable engine or an engine that will see repeated firings that accumulate long times at temperature, creep can become an issue.
+The pressure differential between the chamber and cooling passages plus the thermally-induced stresses will serve to creep the liner, and these stresses may well exceed the yield point.
+Figure 10 compares the creep rates for wrought GRCop-42 and GRCop-84.
+The results for the GRCop-84 are for warm rolled plate rather than as-extruded material because the data set was comparable to the as-extruded material but had less variability caused by a testing issue discovered post-test.
+The analysis with the as-extruded material resulted in the same conclusion but with less power in the statistical analysis.
+The conclusion was that the creep rates of the two alloys were very similar but did have some statistically significant differences.
+When such a statistical difference was noted, it was very small and likely reflected the power of the analysis to discern small statistical differences rather than a practical difference.
+In example, the rate or life might change 0.1 to 0.3 orders of magnitude American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD based upon the alloy.
+This should not result in major design changes when substituting one alloy for the other and can be included in the confidence interval or design limits if deemed important for designing the liner.
+10-4 800 °C 650 °C 500 °C 10-5 e at 10-6 Cr e e p R ( 1/ s) 10-7 10-8 GRCop-42 GRCop-84 10-9 8 10 20 30 40 50 607080 100 200 Stress (MPa) Figure 10.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 Creep Rates.
+The lives of the alloys are shown in Figure 11.
+As with the creep rates, the lives are similar.
+Some small, statistically significant differences were noted, but again the results do not indicate any major differences.
+800 °C 650 °C 500 °C Lif e 102 p h) e( e Cr 101 GRCop-42 GRCop-84 10-1 8 10 20 30 40 50 607080 100 200 Stress (MPa) Figure 11.
+Comparison of Wrought GRCop-42 and Wrought GRCop-84 Creep Lives.
+The lack of major differences in the creep properties likely reflects the pure Cu matrix dominating the creep of the alloys.
+Precipitates on the grain boundaries prevented grain boundary slip and grain growth and may have reduced grain boundary diffusion.
+It appears that even GRCop-42, with 7 vol.% Cr Nb, has a sufficient amount of precipitates to give good creep properties.
+The lower limit of the volume percent of Cr Nb has not been established, but results like these indicate that a further reduction in Cr and Nb to increase the thermal conductivity may be possible, if the other properties are sufficient.
+This is also reflected in the LCF results where the differences in lives were relatively small.
+While this will be explored more in the future, for now it appears that substituting GRCop-42 for GRCop-84 to gain greater thermal conductivity is a good option for certain engine applications.
+B.
+Development of GRcop-42 using SLM Based on the development work with extruded GRCop-42, it was determined it could meet several requirements for future combustion chambers.
+These requirements included high thermal conductivity, excellent creep resistance, long low-cycle fatigue life, and good strength at elevated temperatures.
+The prior work with AM GRCop-84 indicated that GRCop-42 was likely suited for development using additive manufacturing16.
+Using the SLM process on the MSFC Concept laser M2, the development demonstrated near-fully-dense GRCop-42 components that may equal to or exceed their traditionally manufactured predecessors.
+The GRCop-42 SLM process development built upon the prior development work of the GRCop-84 SLM material development although processing parameters changed to match the different composition.
+The fundamental design and SLM work flow strategy remained the same through.
+A American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | 9102 ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD comparison of the GRCop-42 with the GRCop-84 powder chemistry is provided in Table 1.
+This was derived from the wrought alloy, which starts as a powder, and further optimized for SLM fabrication.
+Table 1.
+Powder chemistry comparison of GRCop-42 with GRCop-84.
+Element GRCop-42 Wt % GRCop-84 Wt % Cr 3.1 – 3.4 6.2 – 6.8 Nb 2.7 – 3.0 5.4 – 6.0 Fe Target <50 ppm Target <50 ppm O Target <400 ppm Target <400 ppm Al <50 ppm <50 ppm Si <50 ppm <50 ppm Cu Balance Balance Cr:Nb Ratio 1.12 – 1.15 1.12 – 1.15 There are several characteristics that were considered and worked in parallel for the development of the GRCop- 42 material for component applications:  Establishing and controlling the powder supply chain  Scalability and transfer of the PBF process to various machines and size scales  Improving the work flow and processing time of GRCop-42 compared to GRCop-84  Characterizing the material and establishing a database for designers  Understanding property and microstructural sensitivities to powder supply, print parameters, and design features  Demonstrating component hardware in a relevant environment and testing at aggressive conditions  Dissemination of data to industry partners and commercial print service vendors The SLM process uses a layer-by-layer approach in which the desired component features are created by melting the powder using a laser.
+SLM is being used for the fabrication of the GRCop materials described in this paper.
+The process starts with a 3D-CAD model that is sliced into thin 2D layers that are used to define the laser toolpath for sintering the part.
+A thin layer, typically 50 microns or thinner, of metal powder is spread across the build area, and a finely focused laser rasters to melt the area that defines the part cross-section at that particular layer17,18.
+A series of in-fill (internal) and contouring (inner and outer edges of part) scans are completed in a defined strategy that generally minimizes incorporation of ejecta from the bed, hear build up and deformation of the parts and allows for 100% coverage of the 2D sliced layer.
+After a layer is completed, the build plate is lowered slightly, a new layer of powder is spread, and the laser sinters the new build layer.
+Sufficient power is used to penetrate into a couple of the previous build layers, allowing proper bonding between layers.
+The process is repeated thousands of times until the part is fully fabricated or printed.
+This allows for complex internal features to be fabricated, such as coolant channels.
+The entire build is completed in an inert environment that limits oxidation of the parts during fabrication.
+The SLM process and an example of a SLM copper-alloy liner fabrication are shown in Figure 12 and Figure 13, respectively.
+The scale for PBF, however, is limited and does not provide an economical solution for large scale components.
+As an example, the MSFC Concept Laser M2 used for AM GRCop-84 development provided a build volume of 250 mm x 250 mm x 300 mm (9.8” x 9.8” x 11”).
+ping the GRCop-42 on similar machines with larger build volumes such as the EOS M400.
+The EOS M400 has a build volume of 400 mm x 400mm x 400mm (15.6” x 15.6” x 15.6”).
+The scale of SLM machines is continually increasing, but the largest currently available machine is the M400 as of this publication.
+Even if the build volume increases, there remains a fundamental problem in using a powder bed.
+The entire volume, not just the part, must be filled with powder.
+For an M400, assuming a packing density of 1.0, approximately 499kg (1,100 lbs.)
+is required to fill the entire build volume.
+This does not take into account additional material required for filling the feed piston and powder scraped off the build into the overflow hopper.
+This can greatly increase the minimum about of powder required for a build.
+While pricing is subject to change, the cost of the powder alone easily can be tens of thousands of dollars.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Some challenges that were overcome in the original AM GRCop-84 development were carried over to the AM GRCop-42 development.
+One of these challenges was the adherence to the build plate.
+The build plate is required to initiate the process so the material has something to initially support it.
+A good bond is also reuired to both hold the part from chifting and prevent failure due to the part lifting off the build plate.
+A nickel-based bond layer was used.
+This can be in the form of an Alloy 625 or 718 build plate or a stainless steel build plate with a superalloy layer corresponding in shape to the first layer of the print printed on top.
+The Concept M2 system had proven itself “copper friendly” making GRCop-84 parts.
+It featured an inert atmosphere glovebox and build chamber for handling the powder and parts, and the 400 W laser could readily achieve the high-energy density needed to fully melt the GRCop- 42.
+Figure 12.
+Overview of Selective Laser Melting (SLM) Fabrication Process.
+[Ref.
+19] Figure 13.
+SLM Combustion Chamber Fabrication showing the Contouring (inside and outside edges) Pass (Left) and In-fill Pass (Right).
+While the GRCop-84 development had been successful on a 30 micron step print strategy, it proved to be time- consuming to build larger components at that rate—essentially a 10.8” (274320 microns or 9,144 layers) tall part could take as long as 28 days to fabricate using PBF.
+The intent with the GRCop-42 development was that it could be pushed to operate at faster print speeds and scaled to larger platform PBF machines (i.e.
+EOS M400) to allow production for larger scale components.
+The higher conductivity of the GRCop-42 was theorized to allow for lower core energy density (CED), thus achieving stable weld pools at thicker layers.
+This effort started with 50% thicker layers (45 microns).
+This strategy appeared to be successful and thicker layers were baselined for the GRCop-42.
+While the process parameters were being fully developed, the powder supply chain was also being evolved.
+The lower Cr and Nb content actually made the GRCop-42 easier for powder vendors to process to specification than the GRCop-84.
+Lowering Cr and Nb content lowered the melt temperature requirements and reduced the probability of American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD clogging the atomization nozzle.
+Several vendors were established under the GRCop-84 development and various lessons were learned about the atomization process that were applied for the GRCop-42 production powder lots.
+Some of these lessons included: 1) GRCop powder must be atomized using argon gas atomization.
+Atomization in nitrogen is not an acceptable alternative at the nitrogen will react with the alloy to form nitrides.
+2) The powder must be handled in an inert gas or vacuum environment at all times to avoid oxygen contamination.
+Argon backfilled containers are needed for shipping and storage.
+Glass can be used, but aluminum is preferred.
+Plastic is not acceptable.
+3) The melt charge needs to consist of high purity elemental charges or master melts.
+For an elemental charge, the charge could consist of OFHC copper Grade No.
+101 (ASTM B 170 Grade 1, 99.99% min.
+Cu), 99.8% minimum purity chromium and 99.5% minimum purity niobium or equivalent purity materials.
+It is important to control the Fr and O contents of the melt stock as well.
+Fe is common contaminant of Cr that can greatly reduce the conductivity of the GRCop alloys, and O can be dissolved in Nb in very significant quantities.
+4) The powder should be spherical particles without satellites.
+It can be sieved to -325 mesh (<45 um).
+The fines, which contain the finest Cr Nb particles, should be retained during sieving.
+5) The powder from more than one production lot may be mixed to obtain the total amount of powder required, although each lot must meet desired chemistry.
+It is not acceptable to mix a high O production lot that contains chromia and niobia particles with a low oxygen lot to get a blended composition that meets the specification.
+During initial development of the GRCop-42 material, powders from several vendors was evaluated using the baseline GRCop-42 process parameters on the MSFC Concept Laser M220.
+Parameters were developed to optimize both the infill to achieve desired mechanical and thermophysical properties.
+The contouring parameters were optimized to achieve desired surface finish (roughness).
+The core infill parameters yielded densities greater than 99.2% and favorable mechanical properties with high ultimate and elongation values.
+A minimum density of 99.2% was achieved with powder lots prior to a Hot Isostatic Pressing (HIPing) operation.
+It was observed that SLM tensile values were lower than desired in the samples that did not include the fine particles.
+The elongation was one of the driving properties since this is important in the thermal cycling of a combustion chamber.
+The baseline for all production powder lots is to include the fine particles and limit the maximum diameter of the powder to 45 µm.
+The average tensile strength and elongation values from lots tested are shown below in Table 2 with various vendor powder lots and mesh sizes.
+A minimum of 30% elongation was the target for process development and strength met the requirements for designers.
+Only one powder lot met that criterion, but three others were above 20% elongation.
+Table 2.
+Summary of AM GRCop-42 Mechanical Properties for Various Vendors and Powder Sizes.
+Powder Size Tensile Yield Elongation Source (mesh) (ksi) (ksi) (%) Vendor 1 -325 mesh without fines 38.4 22.2 8.7 Vendor 1 -270 mesh without fines 34.0 19.9 7.2 Vendor 1 -325 mesh with fines 52.1 25.1 32.5 Vendor 2 -325 mesh without fines 49.6 27.0 21.3 Vendor 2 -325 mesh with fines 60.7 31.6 28.4 Vendor 3 -325 mesh without fines 51.5 26.4 25.4 A separate study was determined inner and outer contouring parameters to reduced surface roughness for better flow with a lower pressure drop in the cooling channels.
+An increase in surface roughness was observed as the laser power and speed were increased (Figure 14).
+Based on the data obtained, the parameters for the specimen with the lowest roughness were utilized as the new baseline parameters yielding the smallest surface roughness of <350 μin.
+Printing order of the inner and outer contours was then modified to determine effect of printing sequence.
+These parameters transferred well between the Concept Laser M2 to the larger platform EOS M400.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Figure 14.
+Process development for surface roughness reduction.
+One of the primary motivations for developing the GRCop-42 was the increased thermal conductivity compared to GRCop-84 due to the increased Cu content.
+Initial development samples tested using the Laser Flash Method21 demonstrated a 5-8% increase in conductivity over the temperature range tested as seen in Figure 15.
+The improved conductivity allows for lowering the hot wall temperature to improve life, additional wall temperature margin or the ability to operate at slightly higher performance. )
+C º * m250 ( / W (200 y t iv it 150 c u d n100 o MSFC GRCop42 C la m 50 MSFC GRCop84 r e h T 0 0 100 200 300 400 500 600 700 800 Temperature (˚C) Figure 15.
+Thermal conductivity of SLM GRCop-42 and SLM GRCop-84 using Laser Flash Method.
+Builds of SLM GRCop-42 were setup to document how mechanical properties were affected by a variety of power and scan speed build parameters.
+On a single build plate, 25 test specimens were built using a power and scan speeds from “low and slow” to “high and fast”.
+The range was limited to conditions shown in prior experiments to offer acceptable density and pore size values.
+As shown in Figure 16, the UTS, yield, and elongation values were very consistent and fell within an acceptable range for liner applications.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Figure 16.
+Process development to develop optimal mechanical properties (shown in ksi and %).
+Further mechanical characterization took place of the SLM GRCop-42, built using optimized parameters and source powder, to compare with extruded and SLM GRCop-84 as well as extruded GRCop-42.
+This summary data can be seen in Table 3.
+The SLM samples all went through Hot Isostatic Pressing (HIP).
+Round tensile specimens were tested at MSFC in air at room temperature (70 ºF) to the ASTM E8 test standard22.
+Samples had a nominal gage diameter of 0.25” and a nominal reduced section length of 1.0”.
+The specimens were tested in displacement control at an initial rate of 0.02 in/min.
+This rate was maintained up to 2% strain, then increased to a displacement rate of 0.05 in/min until failure occurred.
+Ultimate tensile strength, yield strength, and fracture elongation values were determined from the resulting stress-strain curve according to procedures outlined in the ASTM E8 standard.
+The elongation of the SLM GRCop-42 showed similar trends to the extruded GRCop-42.
+It also, as expected, showed higher elongation than the SLM GRCop-84.
+Table 3.
+Summary of SLM GRCop-42 and GRCop-84 mechanical properties.
+Material Source Tensile Yield Elongation (ksi) (ksi) (%) GRCop-84 Extruded 53.4 28.5 27 GRCop-84 SLM, Concept M2 56.6 30.2 30 GRCop-42 Extruded 51.3 29 30 GRCop-42 SLM, Concept M2 52 25.1 32.2 GRCop-42 SLM, EOS M400 51.5 25 33.6 Additional mechanical test samples are continually being produced to add to the data shown above.
+These samples are fabricated as independent builds and as witness specimens to component builds.
+One of the concerns during development was transferring parameters to different machines and scales would not be possible.
+Similar parameters were used when transferring to other systems or scaling, although some adjustments were made on different machines based on the laser systems.
+Overall, the properties are very similar though.
+The average tensile curves at RT (70°F) for the SLM GRCop-42 built on the MSFC Concept M2 and a vendor’s EOS M400 are shown in Figure 17.
+A American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD comparison to SLM GRCop-84 is also shown.
+The SLM tensile data follows similar trends to the extruded material shown previously.
+The SLM GRCop-42 samples demonstrated higher elongation compared to the extruded material.
+The SLM material in the as-built (non-HIP) condition exhibits high residual stresses and higher strength, but the elongation is significantly reduced23.
+An example of tensile data of SLM GRCop-42 showing very little scatter and consistent properties can be seen in Figure 18.
+90 80 70 ) is 60 400) a P k M ( s s 50 ( s e s r 300e t S40 r t S 30 GRCop-42 - MSFC HIP 200 GRCop-42 - M400 Vendor HIP GRCop-84 - MSFC HIP GRCop-84 - MSFC No HIP GRCop-42 - M400 Vendor No HIP 0 0 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 Strain (%) Figure 17.
+Typical Room Temperature SLM GRCop-42 Stress-Strain Curves With Comparison To SLM GRCop-84 Figure 18.
+Repeatability of HIPed SLM GRCop-42 Stress Strain Curves.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD The GRCop-42 process parameter development yielded the initial density, mechanical, thermophysical, and surface finishes desired.
+The GRCop-42 process parameters also resulted in an improved processing time compared to the GRCop-84 resulting in approximately 20% reduction in build time.
+MSFC and GRC demonstrated that GRCop- 42 is a readily printable alloy that can be additively manufactured into fully dense components with consistent properties at higher throughput rates than its predecessor, GRCop-84.
+The powder supply chain was made more readily available with more vendors capable of meeting the powder specifications with GRCop-42 compared to GRCop-84.
+The ability to meet the GRCop-42 chemistry and vendor competition also allowed for reduced powder pricing making it more economically attractive.
+As part of the material process development and characterization, samples were created to demonstrate the ability to create identical geometry to that shown in GRCop-84 with internal features.
+This included maximum and minium build features, angles and internal geometry.
+These samples (example shown in Figure 19) showed similar build limitations one would expect with typical SLM rules of design.
+Following the material process development, development components were fabricated for lab and hot-fire testing, which will be discussed in the next section.
+Figure 19.
+Example of sample feature geometry in GRCop-42 on MSFC Concept M2.
+III.
+Hardware Development and Testing An immediate goal of the GRCop-42 development was to complete hardware fabrication and hot-fire testing of subscale combustion chambers to understand performance in a relevant environment.
+A standard slip-jacket chamber was baselined for the test program.
+A SLM GRCop-84 liner was previously tested in an identical configuration using various propellants and provided a good baseline for the GRCop-42 liner24.
+The goal of this GRCop-42 liner testing was to accumulate multiple duty cycles (high number of starts and seconds) to demonstrate the feasibility of the GRCop-42 material in a high heat flux environment.
+This testing was conducted at tand (TS) 115 is ideal for testing quick turnaround subscale test articles, such as regeneratively-cooled channel wall nozzles and combustion chambers.
+The test rig has been successfully demonstrated through a variety of test campaigns and offers mainstage durations up to 210+ seconds and internal combustion temperatures up to 6000 °F.
+It has been successfully used for evaluation of a variety of channel-cooled and radiatively- cooled nozzles and chambers since 2015, as well as for a variety of heritage tests dating back to the 1960’s.
+The thruster used on this test rig uses a simple coaxial injector supplied with liquid oxygen/gaseous hydrogen (LOX/GH2) to create high temperature environments.
+Various propellant combinations can be used depending upon the desired combustion environment.
+The test stand offers extensive instrumentation to allow monitoring of test hardware, including high and low speed data channels, standard and high speed imaging, infrared (IR) thermographic imaging, and still frame cameras.
+MSFC TS115 can complete quick turnaround testing and often completes multiple tests in a single day, while still collecting all of the necessary data.
+A suite of instrumentation was included for test programs PI100 and PJ038, including thermocouples, pressure transducers, and IR thermography, was used to help characterize the hardware.
+Two hot-fire test series, PI100 and PJ038, were completed using the SLM GRCop-42 liners to evaluate performance25.
+The testing was conducted on a LOX/GH2 thrust chamber assembly previously demonstrated with an SLM GRCop-84 liner26,27,28.
+The PI100 program was designed to provide initial performance characterization of the liner and various channel wall nozzles in single-cycle tests29.
+Direct spark ignition was used during the PI100 test series and provided single cycle tests with up to 180 seconds of mainstage duration.
+Follow-on testing under PJ038 performed cyclic testing to achieve high duty cycles (high number of start/shutdown tests) to understand performance and durability of the hardware.
+The PJ038 testing that followed completed a series of cyclic tests with up to 7 full hot-fire and purge cycles per test at 30 seconds per test cycle using TEA/TEB for American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD ignition.
+The latter test series allowed for repeated fully-reversal strains and cycling for fatigue conditions to challenge the hardware under these conditions.
+The thrust chamber assembly used a PBF additively manufactured coaxial injector and the SLM GRCop-42 combustion chamber liner30.
+The injector was previously tested and characterized under several similar test programs31,32.
+The chamber configuration was also previously demonstrated with a slip-jacket liner.
+The slip-jacket liner design shown in Figure 20 allows for quick change-over of the various liners33.
+The chambers were water cooled for both test series.
+AM GRCop-42 Liner Figure 20.
+Slip-jacket channel-cooled chamber configuration used for cycle testing (shown without nozzle).
+The liner’s coolant channels were printed directly into the structure using SLM, so no channel closeout was necessary.
+The one-piece liner was assembled into the slip-jacket.
+The liners were printed on the MSFC Concept Laser M2 and completed post-processing operations including powder removal and HIPing.
+Figure 21 shows one of the as-printed SLM GRCop-42 liners still on the build plate.
+The liners were printed with an identical CAD file and parameters, but in two separate builds.
+These liners were built using build parameters that were established earlier based upon the mechanical test data.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Figure 21.
+Additively Manufactured SLM of GRCop-42 Liners.
+A total of 188 tests were completed on the two GRCop-42 liners accumulated a combined 8,030 seconds of test time.
+The conditions included chamber pressures (Pc) up to 1,224 psig and mixture ratios (MR) up to 8.01.
+The high mixture ratio testing was completed at the end of the series to fully demonstrate hardware durability on the chambers.
+An image of a hot-fire test during mainstage is shown in Figure 22.
+Table 4 summarizes the number and type of tests on each unit.
+A total of 17 starts and 2,720 seconds were accumulated on Liner #1 under the PI100 test series and an additional 151 cycles were accumulated under the PJ038 test series for a total of 168 starts and 7,400 seconds under both programs.
+Liner #2 had 20 total starts and a total of 630 seconds of hotfire time34.
+Table 4.
+Summary of hot-fire testing on SLM GRCop-42 Liners.
+Unit Peak Pc Peak MR Total Accumulated (psig) Starts Time (sec) Liner 1 1,224 6.99 168 7,400 Liner 2 1,091 8.01 20 630 Figure 22.
+Mainstage test of SLM GRCop42 Liner #1 during PJ038 cycle testing.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Each liner was maintained in the same configuration and inspected after each test or set of cycles.
+The only time a chamber was removed was to replace the O-ring seals as needed.
+Data from a long duration hotfire is shown in Figure 23.
+Performance remained stable during the mainstage testing.
+There were no observations of any pressure or thermal variations within a test, and the measured parameters were very repeatable from test to test.
+Both liners successfully completed the test series with no issues.
+Cyclic testing data conducted on both liners is displayed in Figure 24.
+The test shown completed 7 cycles in a single test.
+The injector used for cyclic testing of both liners provided stable operation from cycle to cycle with no large amplitude combustion modes observed.
+Nozzle Outlet Pressure (psig) Chamber Pressure (psig) Nozzle Outlet Temperature (°F) Nozzle Inlet Temperature (°F) Figure 23.
+Long Duration mainstage test of GRCop-42 Liner #1 (Avg MR=6.19 and Avg Pc=1,131 psig).
+Nozzle Outlet Pressure (psig) Chamber Pressure (psig) Nozzle Outlet Temperature (°F) Nozzle Inlet Temperature (°F) Figure 24.
+Hot-fire cycle testing of GRCop-42 Liner #2 (Avg.
+MR=7.96 and Avg.
+Pc=1,021 psig).
+Analyzing the hotfire data from both test programs, the measured pressure differences were less than ±5% from the nominal chamber pressure of 1,100 psig.
+The flow rate varied by less than ±2% from the nominal 6.8 lbm/sec.
+Liner #2 did show a higher pressure drop compared to Liner #1, but it was only 10 to 25 psi.
+For all practical purposes, both chamber liners fall within the previously range and are considered similar.
+The consistent nature of the data is shown in Figure 25 and Figure 26.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 700 8.0 ) is 7.8 p ( r 650 7.6 e b m 7.4 ) c a e s h / C 600 7.2 m s b s o r 7.0 l( e c A t a p 550 6.8 R o w r D 6.6 o e Liner 1 lF r u 500 6.4 s Liner 2 s e r Flow Rate 6.2 P 450 6.0 0 20 40 60 80 100 120 140 160 180 200 Test Cycle Figure 25.
+Liner #1 & #2 pressure drop and flow rate for all tests conducted.
+The resistance, R, of the nozzle was calculated based on equation (1).
+∆𝑃 × 𝜌 𝑅 = (1) 𝑚̇2 The resistance allows a direct comparison of hardware performance in the channels independent of the fluid.
+The chamber resistance for both liners remain similarly close in nature.
+850 R , 800 e c n a 750 t s is e 700 R r e 650 b m a h Liner #1 C Liner #2 0 25 50 75 100 125 150 175 200 Test Cycle Figure 26.
+Liner #1 & #2 chamber resistance for all tests conducted.
+The heat load effects due to varying chamber conditions was further examined during test.
+Keeping coolant flow conditions similar allows for a better comparison of the different chamber conditions affecting heat load.
+Various chamber configurations and test conditions ranging from 1,110 to 1,225 psia and MR of 4.96 to 8.01, as previously mentioned, are included in Figure 25 and Figure 26.
+Another factor that affected heat load was the ignition method used.
+Using the TEA-TEB ignition system showed a decreasing heat load measurement with each additional test.
+The reduction in the measured heat load occurred on American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD both Liner #1 and #2 and shown in Figure 27.
+It is believed that the ash products from TEA-TEB combustion were the source of the reduction in measured heat load.
+Chamber conditions were adjusted to provide a higher heat flux environment, and the heat load measured showed repeatable data on Liner #1 following the initial TEA ash build up on the liner after 17 tests.
+The test conditions used on Liner #1 during the spark ignition phase resulted in some of the highest heat loads recorded. )
+s / U T B ( d a o L t a e H la t o T Liner 1 - Spark ignition Liner 1 - TEA/TEB Ignition Liner 2 - TEA/TEB ignition 0 50 100 150 200 Test Cycle Figure 27.
+Liner #1 & #2 Heat Load for all tests conducted.
+Liner configuration and test condition changes included along with ignition method type.
+The heat load values were used to anchor analytical models to determine hot wall temperatures for the liners.
+The anchored analytical wall temperatures indicated that temperatures up to 1,340 °F were achieved for several consecutive tests.
+The GRCop-42 material did not show any signs of blanching, including oxidation or cracking, as shown in the left image in Figure 28.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD Figure 28.
+Liner #1 following 168 starts and 7,400 seconds: (Left) View of throat looking forward showing TEA-TEB ash buildup and (Right) ID of chamber barrel looking aft.
+As discussed previously, TEA-TEB ash residue was visible on the chamber liners as seen in the right image in Figure 28, which shows Liner #1.
+The TEA-TEB ash was seen to mostly agglomerate upstream of the liner throat.
+Limited residue was observed aft of the throat.
+Figure 29 shows posttest observations of the TEA-TEB ash upstream of the throat.
+Minimal to no ash was seen downstream of the throat.
+Figure 29.
+Liner #2 post-test - 20 starts and 630 sec including MR=8.01 (Left) Aft end of chamber looking at throat and (Right) Forward end of chamber showing TEA ash build up downstream of injector face.
+The chamber liners performed well under varied conditions.
+The data gathered also showed the resilience of the material at elevated wall temperatures.
+The hot-fire testing demonstrated aggressive conditions with high Pc, MR and heat loads.
+The chambers were run aggressively to promote the environment for potential blanching, but none was American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | 9102 ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD observed in the liners.
+Liner #1 and #2 did not show any blanching.
+The liner surface remained smooth and showed good oxidation resistance.
+IV.
+Future Development Work 42 development in the GE Concept Laser M2- and EOS M290- scale SLM machines.
+In addition, ng larger build platform such as the EOS M400.
+Increased build volume allows for full scale combustion chambers to be printed in a single piece for upper-stage and boost class engine applications.
+Aside from the internal roviding GRCop-42 as a commercial printing service.
+Some of these initial properties from these vendors were shown in this paper.
+The SLM development work in the current and larger platform support facturing for MSFC Liquid Engines Office (LEO), the Rapid Analysis and Manufacturing Propulsion Technology (RAMPT) project, Lunar Lander applications, Nuclear Thermal Propulsion, and TMD) Announcement for Collaborative Opportunity (ACO) program with commercial space partners.
+Several of these projects are making use of the current scale and evaluating the larger scale.
+hot-fire testing of the increased scale (EOS M400) GRCop-42 chambers in early 2020.
+An example of the chambers being fabricated on the M400 are shown in Figure 30.
+Investments are being made by operty database to further enable the technology readiness and process maturity.
+Test samples from the existing scale build platforms (M2 and M290) and the EOS M400 will complete a series of mechanical and thermophysical property testing to develop a design databased for the SLM GRCop-42.
+This data is being tested continuously and will be made available to industry partners and general industry.
+Figure 30.
+Example of large-scale SLM GRCop-42 chambers fabricated.
+(Left) 30k-lbf class chamber with max dia.
+~15" and (Right) Lander-class chambers with max height ~14".
+V. Conclusions additive manufacturing (AM) powder bed fusion (PBF) for material development and hardware fabrication of GRCop-42.
+Selective Laser Melted (SLM) GRCop-42 offers advantages for use in combustion chambers including: 1) Ability to print using SLM, 2) Improved conductivity over SLM GRCop-84, American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 3) Increased ductility, which was traded with a slight reduction in strength, compared to SLM GRCop-84, 4) Simplified powder atomization in comparison to GRCop-84, 5) Resilience to oxidation during aggressive test environments and high sustained wall temperatures 6) Resistance to blanching during cyclic hot-fire testing with high Pc and MR.
+The SLM GRCop-42 process parameter development yielded the initial density, mechanical properties, thermal conductivity, and surface finishes desired.
+The SLM GRCop-42 process parameters also resulted in a 20% reduction in processing time compared to the SLM GRCop-84 parameters.
+MSFC and GRC demonstrated that GRCop-42 is a readily printable alloy that can be additively manufactured into fully dense components with consistent properties at higher throughput rates than its predecessor, GRCop-84.
+Two SLM GRCop-42 chambers were hot-fire tested at MSFC Test Stand 115 to demonstrate long durations and high duty cycle of the material at >2K-lb thrust.
+These chamber liners were fabricated on the MSFC Concept Laser f M2 and tested in a similar configuration to prior SLM GRCop-84 chamber liners.
+A total of 188 tests were completed on the two GRCop-42 liners and accumulated a combined 8,030 seconds of test time.
+The conditions included chamber pressures (Pc) up to 1,224 psig and mixture ratios (MR) up to 8.01.
+The first SLM GRCop-42 liner completed a total of 168 tests and accumulated 7,400 seconds.
+No signs of blanching or degradation were observed, and the liner remained in excellent condition.
+The second liner had a total of 20 starts and 630 sec hot-fire time with a MR up to 8.01.t 7 cycles per hot-fire test to accumulate significant starts and time on hardware.
+Sustained peak wall temperatures were demonstrated up to 1,340 °F on the SLM GRCop-42 liners.
+The chamber liners performed well under varied test conditions.
+The data gathered also showed the resilience of the material at these elevated wall temperatures with consistent performance throughout the test series.
+The hot-fire testing demonstrated aggressive conditions with high Pc, MC and subsequent heat loads.
+The chambers were run aggressively to promote the environment for potential blanching, but none was observed in the liners.
+for AM GRCop-42 combustion chambers.
+Several vendors are being established to provide GRCop-42 as a commercial printing service and rt of development testing under the RAMPT program.
+f GRCop-42 material in a EOS M400 and achieved properties consistent with the Concept Laser M2 material.
+Several large-scale chambers have been fabricated and will be tested in the future.
+Mechanical and thermophysical property testing of the SLM GRCop-42 is being completed to develop a design database and disseminate data to industry partners and general industry.
+Acknowledgements The authors would like to thank the large team involved in the material development and hot-fire testing of the Additively manufactured SLM GRCop-42.
+Thank you to Tal Wammen and the test team at Test Stand 115 for performing outstanding test support as usual.
+Several individuals were involved in the design, development and testing and provided critical support including James Buzzell, Dale Jackson, and Marissa Garcia providing hardware and test support, William Carpenter providing outstanding materials support, Adam Willis for design, Will Bransdmeier, Ian Johnston, and Hannah Cherry for analysis.
+Big thanks to Will Tilson and his mechanical test team for the significant number of specimens.
+Thank you to our critical industry partners involved in this development including Additive Manufacturing and Engineering (AME), Powder Alloy Corporation (PAC), ATI, and Carpenter.
+Thank you to the EM42 team including Megan Le Corre, Jim Lydon, Zach Jones.
+The GRC team including David Scannapieco , Bob Carter, Brad Lerch (retired), Ivan Locci for continued material support of GRCop-42.
+We wish to acknowledge the project offices that continue to push needs for nozzle technology and offer leadership, including Steve Wofford, John Fikes, Mike Shadoan, and Keegan Jackson.
+Also, thank you to the many other engineers at MSFC, commercial space companies, and industry that engage in technical discussions and that have contributed to these various techniques.
+References 1 Gradl, P., Mireles, O. and Andrews, N., 2018.
+Intro to Additive Manufacturing for Propulsion Systems.
+AIAA Propulsion and Energy Forum, (AIAA 2018-4625).
+July 9-12, 2018 2 Gradl, P.R., 2016.
+Rapid Fabrication Techniques for Liquid Rocket Channel Wall Nozzles.
+In 52nd AIAA/SAE/ASEE Joint Propulsion Conference (p. 4771).
+3 Ellis, D.L., GRCop-84: A High-Temperature Copper Alloy for High-Heat-Flux Applications, of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 4 H. Groh III, D. Ellis, W. Loewenthal, Comparison of GRCop-84 to other Cu alloys with high thermal conductivities.
+J. Mater.Eng.
+Perform.17, 594 (2008) 5 Ellis, D.L.
+and G.M.
+Michal, "Precipitation Strengthened High Strength, High Conductivity Cu-Cr-Nb Alloys Produced by Chill Block Melt Spinning," ept.
+1989).
+6 Ogbuji, L. and Humphrey, D.L., 2003.
+Comparison of the oxidation rates of some new copper alloys.
+Oxidation of metals, 60(3-4), pp.271-291.
+7 Thomas-Ogbuji, L., Humphrey, D.L.
+and Setlock, J.A., 2003.
+Oxidation-Reduction Resistance of Advanced Copper Alloys.
+on Corrosion Science in the 21st Century; July 06, 2003 - July 11.
+Manchester; United Kingdom 8 L.U.
+Thomas-Ogbuji, and D.L.
+Humphrey: Oxidation Behavior of GRCop-84 (Cu-8Cr-4Nb) at Intermediate and High Temperatures.
+Bowman, R., Cooper, K., Fikes, J., Taminger, K., & Wright, B.
+(2014).
+Additive Manufacturing of Low Cost Upper Stage Propulsion Components.
+JANNAF Additive Manufacturing for Propulsion Applications Technical Interchange Meeting (TIM); 3-5 Sept. 2014; Huntsville, AL.
+10 Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, B. and Locci, I., 2017.
+Development and Hot-fire Testing of Additively Manufactured Copper Combustion Chambers for Liquid Rocket Engine Applications.
+In 53rd AIAA/SAE/ASEE Joint Propulsion Conference (p. 4670).
+11 Li, W.Y., Guo, X.P., Verdy, C., Dembinski, L., Liao, H.L.
+and Coddet, C., 2006.
+Improvement of microstructure and property of cold-sprayed Cu–4 at.% Cr–2 at.% Nb alloy by heat treatment.
+Scripta materialia, 55(4), pp.327-330.
+12 Ellis, D.L., Michal, G.M.
+Precipitation strengthened high strength, high conductivity Cu-Cr-Nb alloys produced by chill block melt spinning.
+Final Report Ph.D. Thesis, Case Western Reserve.
+Cleveland, OH.
+(1989).
+13 Ellis, D.L., Keller, D.J.
+and Nathal, M. Thermophysical properties of GRCop-84.
+earch.jsp?R=20000064095.
+(2000).
+14 Lerch, B., Ellis, D., Locci, I., Draper, S. and Sudbrack, C., 2018.
+Fatigue Characteristics of Additively Manufactured Aerospace Materials.
+TMS Machine Learning for Materials Science 2018; 25-26 Sep. 2018; Pittsburgh, PA. GRC-E-DAA-TN53084 15 Lerch, B., Ellis, D.L.
+Comparison of the Fatigue Behavior of Copper Alloys.
+Materials Science and Technology 2005 Conference and Exhibition; September 25-28, 2005; Pittsburg, PA. 20060005216.
+(2006).
+16 Ellis, D.L., 2005.
+Conductivity of GRCop-42 alloy enhanced.
+S., Meiners, W. and Diatlov, A., Selective Laser Melting.
+Laser Technik Journal, 9(2), pp.33-38.
+(2012).
+18 Sames, W.J., List, F.A., Pannala, S., Dehoff, R.R.
+and Babu, S.S., “The metallurgy and processing science of metal additive manufacturing,” International Materials Reviews, 61(5), pp.315-360.
+(2016).
+19 VDI-Guideline 3404 (2009) Additive Fabrication-Rapid Technologies (Rapid Prototyping) – Fundamentals, Terms and Definitions, Quality Parameter, Supply Agreements.
+(2014).
+20 Cooper, K. G., Lydon, J. L., Corre, M. D., & Jones, Z. C. (2018).
+Three-Dimensional Printing GRCop-42 (pp.
+1-9) (Unites States, lle, AL.
+Retrieved June 24, 2019, from https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190001243.pdf.
+21 Thermophysical Properties Research Laboratory, Inc. (TPRL).
+Retried June 24, 2019 from http://www.tprl.com/Laser_Flash.html 22 ASTM, E8–99.
+"Standard test methods for tension testing of metallic materials."
+Annual book of ASTM standards.
+ASTM (2001).
+23 Minnecci, R., Rawn, C., Jones, Z., Bunn, J. and Tramel, T., 2018.
+Residual Stress Mapping of As-Built and Hot Isostatic Pressure Treated GRCop-84 as Fabricated by Selective Laser Melting.
+2017 Joint Nanoscience and Neutron Scattering User Meeting; 31 Jul.
+- 4 Aug. 2017; Oak Ridge, TN; United States 24 Gradl, P., Greene, S., Protz, C., Bullard, B., Buzzell, J., Garcia, C., Wood, J., Osborne, R., Hulka, J. Cooper, K. Additive Manufacturing of Liquid Rocket Engine Combustion Devices: A Summary of Process Developments and Hot-Fire Testing Results.
+54th AIAA/SAE/ASEE Joint Propulsion Conference, AIAA Propulsion and Energy Forum, (AIAA 2018-4625).
+July 9-12, 2018.
+Cincinnati, OH.
+25 Gradl, P., Protz, Wammen, T. “Bimetallic Channel Wall Nozzle Development and Hot-fire Testing using Additively Manufactured Laser Wire Direct Closeout Technology”.
+Paper presented at 55nd AIAA/SAE/ASEE Joint Propulsion Conference, August 19-22.
+Indianapolis, IN.
+(2019).
+26 Gradl, P.R., Greene, S. E. “Bimetallic Channel Wall Nozzle Testing: Test Summary Report for Test Program PI100”.
+19.
+27 Gradl, P.R., Greene, S. E. “Cycle Testing of Channel Wall Nozzles: Test Summary Report for Test Program PJ038”.
+192.
+5 American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD 28 Gradl, P.R., Greene, S. E. “Channel Wall Nozzle Testing: Test Summary Report for Test Program PH034”.
+y 2018.
+29 Gradl, P., Protz, C., Wammen, T. “Additive Manufacturing Development and Hot-fire Testing of Liquid Rocket Channel Wall Nozzles using Blown Powder Directed Energy Deposition Inconel 625 and JBK-75 Alloys”.
+55th AIAA/SAE/ASEE Joint Propulsion Conference, AIAA Propulsion and Energy Forum.
+August 19-22.
+Indianapolis, IN.
+(2019).
+30 Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, B., and Locci., I.
+"Development and Hot-fire Testing of Additively Manufactured Copper Combustion Chambers for Liquid Rocket Engine Applications", 53rd AIAA/SAE/ASEE Joint Propulsion Conference, AIAA Propulsion and Energy Forum, (AIAA 2017-4670) 31 Garcia, C.P., Gradl, P.R., Protz, C.S., Wood, J., and Greene, S. E. Characterizing Performance of Additively Manufacturing Regenerative Cooled Combustion Chambers through Hot Fire Testing, Paper presented at 65th JANNAF Propulsion Meeting/10th Liquid Propulsion Subcommittee, May 21-24, 2018.
+Long Beach, CA.
+32 Gradl, P.R., Greene, S. E. “Channel Wall Nozzle Testing: Test Summary Report for Test Program PH034”.
+y 2018.
+33 Gradl, P.R., and Valentine, P.G.
+"Carbon-Carbon Nozzle Extension Development in Support of In-space and Upper-Stage Liquid Rocket Engines", 53rd AIAA/SAE/ASEE Joint Propulsion Conference, AIAA Propulsion and Energy Forum, July 10-12, 2017.
+Atlanta, GA. (AIAA 2017-5064) 34 Gradl, P.R., Greene, S.E., Brandsmeier, W., Johnston, M.I.
+“Hot-Fire Testing and Large-Scale Deposition Manufacturing Development Supporting Liquid Rocket Engine Channel Wall Nozzle Fabrication”.
+Paper presented at 65th JANNAF Propulsion Meeting/10th Liquid Propulsion Subcommittee, May 21-24, 2018.
+Long Beach, CA.
+American Institute of Aeronautics and Astronautics 8224-9102.6/4152.01 :IOD | gro.aaia.cra//:ptth | ,1 rebmetpeS no WOGSALG FO YTISREVINU yb dedaolnwoD

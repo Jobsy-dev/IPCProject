@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8
+Material,"Aging
+Treatment","Strain Rate
+(in/in/min)","Test
+Environment","Yield
+Stress
+(ksi)","Ultimate
+Tensile Stress
+(ksi)","Ductility
+(%EL)","Strain
+Hardening
+Exponent
+(n)","Testing
+Duration
+(minute)"
+"LP–DED NASA
+HR–1",1–step,0.05,5 ksi GHe,102.08,170.17,34.50,0.234,6 – 7
+,1–step,0.0001,"5 ksi GH
+2",98.82,161.81,28.75,0.237,450 – 550
+"LP–DED NASA
+HR–1",2–step,0.05,5 ksi GHe,86.99,162.26,41.73,0.279,7 – 8
+,2–step,0.0001,"5 ksi GH
+2",87.55,151.35,33.10,0.278,550 – 650
+"Wrought NASA
+HR–1",1–step,0.05,5 ksi GHe,136.93,183.07,23.57,–,4 – 5
+,1–step,0.005,"5 ksi GH
+2",128.83,175.37,23.40,–,20 – 25

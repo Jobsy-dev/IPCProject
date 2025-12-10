@@ -1,0 +1,33 @@
+0,1
+Nextel 610 (1),Properties
+"Composition, -alumina, Al2O3 (%)",>99
+"Filament: 
+Filament tensile strength, 25mm gauge (MPa) 
+Filament tensile modulus of elasticity (GPa)","3100 
+379"
+"Roving: 
+Sizing (%)(1) 
+Sized denier(2) 
+Filament diameter (m) 
+Filament count 
+Filament density (kg/m3) 
+Surface area (m2/gm) 
+Roving tensile breaking load, 150mm gauge (N)","2.0 
+3000 
+12 
+750 
+3.90 
+<1 
+89"
+"Creep rate (69MPa) at temperature: 
+1000°C 
+1100°C 
+1200°C","2.0  10-9/s 
+1.8  10-7/s 
+1.7  10-5/s"
+Coefficient of thermal expansion (ppm/K),8.0
+Dielectric constant (9375 MHz),9.0
+"Key: 
+(1) Suppliers’ data. Nextel is a tradename of 3M;  
+(2) Percentage by mass of fibre coating;  
+(3) Grams per 9000m of material with sizing (coating) applied.",

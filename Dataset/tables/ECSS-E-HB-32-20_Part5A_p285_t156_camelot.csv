@@ -1,0 +1,19 @@
+0,1,2
+Grade,Quality,Production
+S-200-E,Standard,Hot pressed
+S-200-F,,Vacuum hot pressed (VHP)
+S-200-FH,,Hot isostatic pressed (HIP)
+SR-200-E,Sheet,VHP & Hot rolled
+S-65,Structural (ductility),Hot pressed
+O-50,Optical (isotropic),HIP (high density)
+I-70,,Hot pressed
+I-220,Instrument (stability),Hot pressed
+I-400,,Hot pressed
+PF-10,Foil (purity),Hot pressed & rolled to <3mm
+PF-60,Foil,Hot pressed & rolled to <3mm
+B-26-D,Casting,Vacuum melted
+SP-200F,Structural †,Impact grinding
+SP-65,High purity †,
+IP-70,Optical †,
+Beryl-coat,Corrosion resistance,Coating of Be
+Key     † Powder,,

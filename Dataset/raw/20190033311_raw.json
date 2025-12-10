@@ -1,0 +1,1603 @@
+{
+  "paper_id": "20190033311",
+  "filename": "20190033311.pdf",
+  "pdf_path": "Research_Paper/20190033311.pdf",
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\nIAC-19.C4.3.5x52514\nProgress in Additively Manufactured Copper-Alloy GRCop-84, GRCop-42, and Bimetallic\nCombustion Chambers for Liquid Rocket Engines\nPaul R. Gradla*, Dr. Christopher S. Protzb, Dr. David L. Ellisc, Sandy E. Greened\na NASA Marshall Space Flight Center, Propulsion Systems Department, Component Technology\nDevelopment/ER13, Huntsville, AL 35812, Paul.R.Gradl@nasa.gov\nb NASA Marshall Space Flight Center, Propulsion Systems Department, Component Technology\nDevelopment/ER13, Huntsville, AL 35812, Christoper.S.Protz@nasa.gov\nc NASA Glenn Research Center, Materials and Structures Department, High Temperature and Smart Alloys Branch,\n21000 Brook Park Road, Cleveland, OH 44135, David.L.Ellis@nasa.gov\nd NASA Marshall Space Flight Center, Propulsion Systems Department, Component Technology\nDevelopment/ER13, Huntsville, AL 35812, Sandra.E.Greene@nasa.gov\n* Corresponding Author\nAbstract\nAdditive Manufacturing (AM) has significantly evolved over the last decade for use in the aerospace industry,\nparticularly for liquid rocket engines. AM offers a considerable departure from traditional manufacturing to rapidly\nfabricate components with complex internal features. High performance liquid rocket engine combustion chambers\nthat operate in a high heat flux environment are fabricated using a copper-alloy liner with a series of integral coolant\nchannels. Copper-alloys provide the necessary conductivity and material strength for adequate design margins offering\nhigh performance without the need for film coolant. Copper-alloys present unique challenges to properly melt the\npowder in laser-based AM processes due to their high reflectivity and conductivity. Starting in 2014, NASA’s Marshall\nSpace Flight Center (MSFC) and Glenn Research Center (GRC) have developed a process for AM of GRCop (Copper-\nChrome-Niobium) alloys using Selective Laser Melting (SLM). GRCop, originally developed at GRC, is a high\nconductivity, high-strength, dispersion strengthened copper-alloy for use in high-temperature, high heat flux\napplications. NASA has completed significant material characterization and testing, along with hot-fire testing, to\ndemonstrate that GRCop-42 and GRCop-84 alloys are suitable for use in combustion chambers. Additional\ndevelopment and testing has been completed on AM bimetallic chambers using GRCop-84 liners and superalloy\njackets, fabricated using two Directed Energy Deposition (DED) processes: Electron Beam Freeform Fabrication\n(EBF³) and Blown Powder DED. NASA completed hot-fire testing on various AM chambers using GRCop-84,\nGRCop-42, and bimetallic chambers in Liquid Oxygen (LOX)/Hydrogen, LOX/Methane, and LOX/Kerosene\npropellants.\nKeywords: Additive Manufacturing, Laser Powder Bed Fusion (L-PBF), GRCop-42, GRCop-84, Liquid Rocket\nEngines, Selective Laser Melting (SLM), Combustion Chambers, Channel-Cooled Chambers, Regeneratively-cooled\nchamber, Regen chamber, Bimetallic Additive Manufacturing, AM, DED\nAcronyms/Abbreviations Assembly (TCA), United States (US) National\nAdditive Manufacturing or Additively Manufactured Aeronautics and Space Administration (NASA)\n(AM), Directed Energy Deposition (DED), Electron\nBeam Freeform Fabrication (EBF3), Gaseous hydrogen 1. Introduction\n(GH2), Glenn Research Center (GRC), NASA GRC\nCopper-alloy Cu-Cr-Nb (GRCop), Hot Isostatic Pressing Additive Manufacturing (AM) is an emerging\n(HIP), thousand pound-force, thrust (K-lb), George C. fabrication technology being used across the aerospace\nf\nMarshall Space Flight Center (MSFC), Low Cycle industry as a new approach for fabricating complex\nFatigue (LCF), Low Cost Upper Stage Propulsion components. The United States (U.S.) National\n(LCUSP), Liquid Oxygen (LOX), Kerosene (RP-1), Aeronautics and Space Administration (NASA) along\nLaser Powder Bed Fusion (L-PBF), Chamber Pressure with U.S. industry partners have been developing the use\n(Pc), Pounds Square Inch, Gage (psig), Methane (LCH4), of AM specific to complex liquid rocket engine\nRapid Analysis and Manufacturing Propulsion components to significantly reduce the lead time and\nTechnology (RAMPT), Room Temperature (RT), costs associated with their fabrication. Regeneratively\nSelective Laser Melting (SLM), Thrust Chamber (regen) cooled combustion chambers are an ideal\napplication of the AM technology due to the complexities\nIAC-19-C4.3.5x52514 Page 1 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 2,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\nof the design and an inability of traditional manufacturing Successful hot-fire testing of this 35,000 (35K) lb\nf\nto meet desired geometries. AM is also an excellent bimetallic chamber is shown in Fig. 1.\ncandidate to apply the structural jacket instead of using\ntraditional brazing. AM processes have been shown to\nsignificantly reduce the lead time for thrust chamber\nfabrication and reduce production costs, making use of\nalloys that optimize the performance of combustion\nchambers.\nSeveral AM processes, specifically laser powder bed\nfusion (L-PBF) or selective laser melting (SLM), have\nmatured over the last decade for a variety of materials,\nyet a limited number of metals are available using this\nprocess. While the availability of SLM materials for\naerospace components is continuing to expand, a\nmajority of the market is primarily focused on\nsuperalloys. NASA identified this need for new\nmaterials, specifically copper-alloys to make use of the\nAM process for combustion chambers. High\nFig. 1. Hot-fire testing of LCUSP Bimetallic AM\nperformance, liquid rocket engine, combustion chambers\nChamber.\nthat operate in a high heat flux environment are\nfabricated using a copper-alloy liner with integral coolant\nIn addition to the LCUSP chamber, NASA has\nchannels. Copper-alloys provide the necessary\ncompleted significant material characterization and\nconductivity and material strength for adequate design\ntesting on these processes, along with additional hot-fire\nmargins without the need for film coolant. Yet, copper-\ntesting, to demonstrate that AM GRCop-42 and GRCop-\nalloys present unique challenges to properly melt the\n84 alloys are suitable for use in a variety of combustion\npowder in laser-based AM processes due to their high\nchambers. Efforts have been completed on AM\nreflectivity in the near-IR wavelengths typically used for\nbimetallic chambers using GRCop-84 liners with Alloy\nAM and high thermal conductivity.\n625 (Inconel 625) structural jackets. In addition,\nStarting in 2014, NASA’s Marshall Space Flight\nextensive hot-fire testing on various AM chambers with\nCenter (MSFC) and Glenn Research Center (GRC) have\nGRCop-84, GRCop-42, and bimetallic chambers using\ndeveloped a process for AM of GRCop (Copper-\nLiquid Oxygen (LOX)/Hydrogen (H2), LOX/Methane\nChrome-Niobium) alloys using SLM. GRCop, originally\n(LCH4), and LOX/Kerosene (RP-1) propellants. Future\ndeveloped at NASA’s GRC, is a high conductivity, high-\ndevelopment and flight programs can make use of these\nstrength, dispersion strengthened, copper-alloy for use in\nadvancements in AM GRCop-84 and GRCop-42 alloys\nhigh-temperature, high heat flux applications. NASA’s\nfor a variety of high performance liquid rocket engine\ngoal was to expand the list of available materials for\napplications. These NASA-led projects have matured the\nliquid rocket engines, by providing the development and\nprocess significantly and also made process parameters\ndissemination of data on GRCop, specifically GRCop-42\nand characterization data available to industry to enable\n(Cu-4 at.% Cr-2 at.% Nb) and GRCop-84 (Cu-8 at.% Cr-\ncommercial supply chains. Several industry partners\n4 at.% Nb) alloys.\nhave continued to advance the GRCop-84 and GRCop-\nThe SLM process can fabricate a combustion\n42 materials in addition to exploring other copper-alloys\nchamber liner with complex internal coolant channels\nsuch as C-18150, C-18200, C-18000, and Glidcop.\nusing a monolithic alloy, such as GRCop. However,\nsome combustion chamber designs require an additional\n2. Process Overview and Development\nstructural jacket due to handle high (axial) thrust and\nhoop or circumferential loads. An optimized solution is\nThe GRCop family of alloys exhibit exceptional high\nto create a copper liner for the chamber and then apply a\ntemperature mechanical and good thermophysical\nsecond high-strength-to-weight alloy using a secondary\nproperties. The alloys were developed as a high heat flux,\nAM process with Directed Energy Deposition (DED),\nhigh strength alternative to other common aerospace\nspecifically Electron Beam Freeform Fabrication (EBF³)\ncopper alloys, such as NARloy-Z and C-18150 (Cu-1 Cr-\nand Blown Powder DED at NASA’s Langley Research\n0.15 Zr) [1,2,3,4]. The alloys are dispersion strengthened\nCenter (LaRC). Under NASA’s Low Cost Upper Stage\nmaterials with primary strengthening from the Cr Nb\nPropulsion (LCUSP) program, these AM techniques 2\nphase. The material is preferred for use in combustion\nwere used to deposit a high strength superalloy onto a\nchambers due to:\nGRCop liner, forming a bimetallic mechanical bond and\nthe necessary strength to handle structural loads.\nIAC-19-C4.3.5x52514 Page 2 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 3,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\n1) Oxidation and blanching resistance during or secondary processes such as brazing or other\nthermal and oxidation-reduction cycling [5], manufacturing steps, and it is not possible to perform\n2) A maximum use temperature around 800 ºC, subsequent solution and precipitation heat treatments.\ndepending upon strength and creep The advantage is typically on the order of two times the\nrequirements strength of competing alloys such as NARloy-Z (Cu-1\n3) Good mechanical properties at high use Ag-0.5 Zr). Creep failure modes can occur when the liner\ntemperatures, material is operated for sustained durations at high\n4) Lower thermal expansion to reduce thermally temperatures. GRCop alloys typically can withstand\ninduced stresses and low cycle fatigue (LCF), 10% to 25% greater stresses than most competing copper\n5) Established powder supply chain, alloys with even larger advantages above about 600 °C.\n6) Mature AM process that provides consistent, The intrinsic oxidation rates of GRCop-42 and\nminimum material properties [6]. GRCop-84 up to 800 °C are up to one order of magnitude\nGRCop-84 is the most common alloy, having lower than most competing copper-based alloys.\ncompleted substantial process and property development GRCop-42 and GRCop-84 have demonstrated\nusing SLM under the LCUSP program. Recent exceptional thermal stability up to 1050 °C or 98% of the\nadvancements of GRCop-42 though are showing that it melting point of copper. Essentially no mechanical\nprovides a higher conductivity compared to GRCop-84, property or microstructural changes have been observed\nand its maturity level is rapidly increasing. The up to 800 °C and the alloys retain at least half their tensile\nconductivity of the wrought (non-AM) GRCop-84 and strength when exposed up to 1050 °C for 100 hours.\nGRCop-42 materials are compared in Fig. 2. Short term thermal exposures to temperatures up to 1050\n°C for simulated manufacturing steps such as brazing\n420 have resulted in minimal property degradation. In\nCu comparison, all precipitation strengthened, low-alloy\n400\ny high conductivity copper-based alloys would return to\nvit 380\nmechanical properties similar to pure copper at these\nu\ncti\n360 GRCop-42 higher temperatures.\no n\nd\nm\nK)\n340 There are some differences between GRCop-84 and\nm al C ( W/ 320 L G o R w C o F p e -84 GRCop-42, and they can be traded for various\napplications. GRCop-42 trades somewhat lower\nh\ner\n300 mechanical properties, such as strength, for higher\nT\n280 GRCop-84 thermal conductivity, and thus a lower wall temperature.\n260 The ductility of GRCop-42 is generally superior to that\n0 200 400 600 800 1000 of GRCop-84. With only half the Cr Nb content of\n2\nTemperature GRCop-84, this was expected. Both alloys have\n(°C) sufficient ductility for most applications, and will deform\nFig. 2. Thermal Conductivity of Wrought GRCop large amounts without failure. The major difference\nAlloys and Pure Cu between the alloys is observed in low cycle fatigue (LCF)\nin the stresses observed during strain control testing. The\nBoth alloys are capable of operating at temperatures difference in stresses at the minimum and maximum\nup to 800°C, and they have been successfully hot-fire strains was calculated, and Fig. 3 shows the total stress\ntested in an oxidizing environment to above 750°C. In range for each strain at the three test temperatures. This\ncomparison, pure copper is limited to approximately made GRCop-84 preferable for reusable launch vehicles\n200°C, and most copper alloys cannot exceed 500°C [7]. requiring lives of hundreds of missions.\nSubstitution of GRCop-42 or GRCop-84 for NARloy-Z,\nC-18150, or another precipitation strengthened copper-\nalloy, could result in a 200°C or more increase in\ntemperature capability, providing higher performance\ntrades or increased margin. These attributes, in addition\nto the rapid development of the GRCop alloys using the\nSLM process, make them an attractive option for use in\nhigh performance combustion chambers.\nThe strengths of GRCop-42 and GRCop-84 exceed\nalmost all other copper-based alloys in the 500-700°C\nrange. They also exceed all other precipitation\nstrengthened copper-based alloys at all temperatures if\nthe part must be given a high temperature heat treatment\nIAC-19-C4.3.5x52514 Page 3 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 4,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\nfabrication of components with desired properties and a\nsustainable supply chain. In the SLM development of the\nGRCop alloys, a series of integrated tasks across NASA\nand industry were considered to mature the material and\nprocess, including:\n Establishing and controlling the powder supply\nchain\n Scalability and transfer of the SLM process to\nvarious machines and size scales\n Optimal work flow and processing time of\nGRCop-42 and GRCop-84\n Characterizing the material and establishing a\ndatabase of AM properties for design engineers\n(cycles)  Understanding property and microstructural\nFig. 3. Low Cycle Fatigue of Wrought GRCop-84 sensitivities to powder supply, print parameters,\nand GRCop-42. and design features\n Developing best design practices for the SLM\nIn all cases, GRCop-42 had a lower stress range than GRCop alloy use in combustion chambers\nGRCop-84, and the difference increased with  Demonstrating component hardware in a\ntemperature. This was consistent with expectations as relevant environment and testing at aggressive\nGRCop-84 has a higher strength and requires a higher conditions to validate designs and property\nstress to deform it to these strains. This indicates that the databases\nload bearing capability of GRCop-42 in an LCF  Dissemination of data to US industry partners\nenvironment will not be as high as GRCop-84. This will and US commercial print service vendors.\nneed to be addressed in some designs, but since the LCF\nThe high level process flow for SLM GRCop\nis thermally driven for a liner, it is expected that the total\ndevelopment can be seen in Fig. 4. The powder supply\nthermal expansion driven by the temperature change will\nchain was expanded and matured, but it required some\nbe the key determinants for the LCF performance. The\nvariations on printing and lessons learned to be fed back\nanalyses will also need to address the higher coefficient to the powder atomization suppliers. In parallel,\nof thermal expansion for GRCop-42 relative to GRCop- mechanical test specimens and design databases were\n84 when calculating the thermal stresses and strains.\nbeing developed to capture the data and apply it to the\nWith the increased thermal conductivity, wall\nchamber designs. Hot-fire testing was conducted in\ntemperatures will also be lower and stresses may be\nparallel, as the overall process was matured to understand\nequivalent in designs.\nearly performance characteristics of the GRCop\nAll initial SLM development was completed using materials.\nGRCop-84 since it was the more mature alloy with\nwrought (extruded, hot rolled, cold rolled and forged)\ndata for comparison. However, after successful\ndevelopment using this alloy, GRCop-42 was pursued for Powder\nSLM Post-\nsome performance improvements. Supply Process Processing\nChain\nThe GRCop-42 has the following advantages over\nGRCop-84, based on the envisioned engine application:\n1) Improved thermal conductivity,\n2) Limited and acceptable reduction in strength,\nDesign GRCop Mechanical Testing\n3) Simplified powder atomization based on powder\nProperty SLM Hot-fire Evaluation\nsupplier comments,\nDatabase Design Application Performance\n4) Less costly fabrication build times based on\nincreased layer height\nDevelopment on both alloys has been conducted at Fig. 4. High-level process flow of SLM GRCop-\nNASA, and several commercial print vendors now exist alloy development.\nin the U.S. for both GRCop-84 and GRCop-42.\n2.2 GRCop SLM Powder Supply Chain\n2.1 GRCop-alloy SLM Process Development An important aspect of the GRCop alloy development\nFabrication using the SLM process must consider the was establishing and controlling powder sources to\nend to end design, atomization, additive processes, and ensure that the GRCop powders met all requirements.\npost-processing requirements to provide repeatable The GRCop alloys are atomized using high purity\nIAC-19-C4.3.5x52514 Page 4 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 5,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\nelemental charges under argon gas atomization. Handling infill parameters yielded high densities and good\nwithin an inert or vacuum environment is critical for the strengths and ductilites. A minimum density of 99.2%,\nGRCop powder to avoid oxygen contamination. and in many cases higher, was achieved by SLM prior to\nUndesired trace elements such as aluminium and silicon a Hot Isostatic Pressing (HIPing) operation. Full density\nthat may indicate non-metallic inclusions and iron which was easily achieved after HIPing.\nreduces thermal conductivity (Fig. 2) must be limited. Best results with GRCop-42 was obtained using\nThe ratio of Cr:Nb is also critical as a slight excess of Cr powders that contained the fines (-1250 mesh) as shown\nis required to prevent hydrogen embrittlement. The in Table 2 [ 9 ]. Based on several NASA engine\npowder chemistry for GRCop-84 and GRCop-42 are applications, the elongation was one of the driving\nprovided in Table 1. properties since ductility is important in the thermal\ncycling of a combustion chamber at high temperature.\nTable 1. Powder chemistry comparison of GRCop- because the elongation and strength was best with the\n42 with GRCop-84. fines, it was determined that future production powder\nlots will include the fine particles and limit the maximum\nElement GRCop-42 Wt % GRCop-84 Wt % diameter of the powder to 45 µm.\nCr 3.1 – 3.4 6.2 – 6.8\nNb 2.7 – 3.0 5.4 – 6.0 Table 2. Mechanical characterization summary of\nGRCop-42 with various powder sizes.\nFe Target <50 ppm Target <50 ppm\nO Target <400 ppm Target <400 ppm Powder Size Tensile Yield Elong.\nAl <50 ppm <50 ppm Source (mesh) (MPa) (MPa) (%)\nSi <50 ppm <50 ppm Vendor 1 -325 without fines 265 153 8.7\nCu Balance Balance Vendor 1 -270 without fines 234 137 7.2\nCr:Nb Ratio 1.12 – 1.15 1.12 – 1.15 Vendor 1 -325 with fines 359 173 32.5\nVendor 2 -325 without fines 342 186 21.3\nVarious vendors were established to produce the Vendor 2 -325 with fines 419 218 28.4\nGRCop-84 and GRCop-42 powders for SLM. While it Vendor 3 -325 without fines 355 182 25.4\ntook some iterations early in development, all vendors\nwere able to successfully melt these alloys and meet the Separate studies were completed on powder re-use\nchemistry specifications, including oxygen and trace and determined it is feasible to mix virgin and used\nelements. Another driver behind maturing the powder powder so long as the reused powder does not have\nsupply chain was cost reduction. Over the course of 5 excessive oxidation. Fully used powder can also achieve\nyears in maturing the AM process with several suppliers, desired mechanical properties, but there is about a 2%\nthe cost was reduced by 3x. There were some minor reduction in ultimate strength and no discernible\ndifferences between the vendors for mechanical difference of tensile and elongation properties at room\nproperties, although they all performed as expected and temperature with once-used fully recycle powder.\ncould be used for SLM processing. The number of\nvendors has been increased with additional vendors 2.3 SLM Process Development\nindicating interest. This prevents a single-point loss of The LCUSP program, initiated in 2014, was\ncapability if a vendor chooses to no longer make GCop established to develop the necessary GRCop-84 AM\nalloys or ceases operations. build parameters, characterize SLM microstructures and\nEarly development and powder lots were specified to mechanical properties, and build and test representative\na more traditional SLM sieve size at -325/+1250 mesh chambers. The SLM, of Laser-Powder Bed Fusion (L-\n(10-45 um). It was determined through further PBF), process uses a layer-by-layer approach, in which\ndevelopment that the fines could be included in the SLM the desired component features are created by melting the\npowder, which helped improve yield. The specification powder using a laser, as depicted in Fig. 5.\nwas later changed to provide -325/down mesh. The This process for copper alloys has been well\nchange had the additional benefit of increasing the described in prior publications for GRCop alloys [Ref\nobserved elongations, but the increase might be 10,11,12]. The behavior of the GRCop material during\nconfounded by processing parameter changes the SLM process was different than original expected. It\nAn additional powder study with the GRCop-42 was appeared that GRCop-84 was easily melted in the\ncompleted during development and produced identical process. Most likely, the 14 vol.% Cr Nb phase is\n2\nresults [8]. SLM build parameters were developed to responsible for a higher absorption of near-IR laser\noptimize the infill to achieve desired mechanical and energy than pure copper and results in easier heating\nthermophysical properties. The contouring parameters initially. The reflectivity of copper rapidly decreases with\nwere optimized to minimize surface roughness. The core\nIAC-19-C4.3.5x52514 Page 5 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 6,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\ntemperature, and the powder should absorb more energy The second observation was that the Cr Nb appears\n2\nfrom the laser and heat readily [13]. to have been refined in size. The Cr Nb present in the\n2\npowder particles is actually an agglomeration of finer\nCr Nb particles formed in liquid copper during the gas\n2\natomization process. It appeared that thermal, and\nperhaps mechanical forces, acting upon the\nagglomerations broke them up and formed the finer\nparticles seen in the SLM sample. This is important\nbecause basic strengthening mechanisms such as Ashby-\nOrowan strengthening predict that the strength of a\nmaterial will be increased as the average diameter of the\nparticles is decreased [14].\nThe AM process parameters for GRCop-42 were\ndeveloped on the same MSFC Concept Laser M2 used\nfor the LCUSP program for GRCop-84, and the NASA\nGRC led materials characterization. In parallel,\nFig. 5. SLM fabrication of GRCop-84 chambers. commercial service vendors were established to develop\nmachine specific parameters and provide GRCop-42\nParameter and process development for GRCop-84 components fabricated on EOS M290 and EOS M400\nwas conducted on MSFC’s Concept Laser M2 with a machines. The GRCop-42 development included the\nbuild volume of 250x250x250mm. The system had fundamental SLM process parameter development, full\nproven itself “copper friendly”, making GRCop-84 parts. characterization and mechanical testing of the AM\nIt featured an inert atmosphere glovebox and build material. Representative mechanical properties can be\nchamber for handling the powder and parts, and the seen in Table 3.\n400W infrared laser could readily achieve the high-\nenergy density needed to fully melt the GRCop alloys. Table 3. Summary of SLM GRCop-42 and GRCop-\nHowever, the machine features are now standard in most 84 mechanical properties.\nmachines and further development in EOS machines\nMaterial Source Tensile Yield Elong\nhave demonstrated equivalent results.\nInitial Scanning Electron Microscope (SEM) images\nMachine (MPa) (MPa) (%)\ntaken during development of the GRCop-84 revealed GRCop-84 Extruded 368 197 27\nsome interesting observations (Fig. 6). First, the SLM GRCop-84 SLM, M2 390 208 30\nprocess did not result in segregation of the Cr 2 Nb GRCop-42 Extruded 354 200 30\nprecipitates. This is likely due to turbulence in the melt\nGRCop-42 SLM, M2 359 173 32.2\npool mixing the molten Cu and solid Cr Nb particles.\n2 GRCop-42 SLM, M400 355 172 33.6\nOnce the laser moves away, the liquid-solid mixture\nrapidly solidified by the conduction of heat out of the\nTwo of the concerns during development were that\nmaterial through the GRCop-84 substrate. This\ntransferring parameters to different machines and scaling\napparently did not allow sufficient time for buoyancy\nwould be challenging. Larger build platforms can have\neffects to segregate the Cr Nb to the surface of the molten\n2 different purge and laser focal plane characteristics as\ncopper. The results was a very uniform distribution of\nwell as radically different thermal environments. Similar\nCr Nb throughout the sample.\n2 parameters were used when transferring between systems\nand scaling to larger volumes. Some adjustments were\nmade on different machines based on the specific laser.\nOverall, similar processing parameters resulted in similar\nproperties that met requirements. The average tensile\ncurves at room temperature (20°C) for the SLM GRCop-\n42 built on the MSFC Concept M2 and a vendor’s EOS\nM400 are shown in Fig. 7.\n(a) As-Extruded (b) SLM\nFig. 6. Scanning Electron Microscope Backscatter\ncharacterization of GRCop-84 Cr Nb.\n2\nIAC-19-C4.3.5x52514 Page 6 of 14",
+      "tables": [
+        [
+          [
+            "",
+            "Material",
+            "",
+            "",
+            "Source",
+            "",
+            "",
+            "Tensile",
+            "",
+            "",
+            "Yield",
+            "",
+            "",
+            "Elong",
+            ""
+          ],
+          [
+            "",
+            null,
+            null,
+            "",
+            "Machine",
+            "",
+            "",
+            "(MPa)",
+            "",
+            "",
+            "(MPa)",
+            "",
+            "",
+            "(%)",
+            ""
+          ],
+          [
+            "",
+            "GRCop-84",
+            "",
+            "",
+            "Extruded",
+            "",
+            "",
+            "368",
+            "",
+            "",
+            "197",
+            "",
+            "",
+            "27",
+            ""
+          ],
+          [
+            "",
+            "GRCop-84",
+            "",
+            "",
+            "SLM, M2",
+            "",
+            "",
+            "390",
+            "",
+            "",
+            "208",
+            "",
+            "",
+            "30",
+            ""
+          ],
+          [
+            "",
+            "GRCop-42",
+            "",
+            "",
+            "Extruded",
+            "",
+            "",
+            "354",
+            "",
+            "",
+            "200",
+            "",
+            "",
+            "30",
+            ""
+          ],
+          [
+            "",
+            "GRCop-42",
+            "",
+            "",
+            "SLM, M2",
+            "",
+            "",
+            "359",
+            "",
+            "",
+            "173",
+            "",
+            "",
+            "32.2",
+            ""
+          ],
+          [
+            "",
+            "GRCop-42",
+            "",
+            "",
+            "SLM, M400",
+            "",
+            "",
+            "355",
+            "",
+            "",
+            "172",
+            "",
+            "",
+            "33.6",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_num": 7,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\n700 450\n600 aP 400 SLM GRCop-84\nM 350 SLM GRCop-42\n,S\n500 T U 300\n)a\nP M400\n,h\ntg\nn\ne\n250\n(\nsse\nrtS 300\nGRCop-42 - MSFC HIP\nrts\ne lisn\ne\n1\n2\n5\n0\n0\n0\n200 GRCop-84 - MSFC HIP t e 100\nGRCop-84 - MSFC No HIP\nta\nm 50\n100 GRCop-42 - M400 Vendor No HIP itlU\n0\nGrcop-42 - M400 Vendor HIP\n0 0 100 200 300 400 500 600 700 800\n0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 Temperature, ⁰C\nStrain (%) Fig. 8. Ultimate Tensile Strength vs Temperature of\nFig. 7. Stress-Strain curve of SLM GRCop-42/-84\nSLM GRCop-84/-42.\nshowing HIP and un-HIP conditions\n250\nA comparison to SLM GRCop-84 from the MSFC\nSLM GRCop-84\nConcept M2 is also shown. The SLM tensile data follows\na 200 SLM GRCop-42\nsimilar trends to the extruded material shown previously. P M\nT\nhi\nh\ng\ne\nh e\nS\nr\nL\ne\nM\nlon g\nG\nat\nR\nio\nC\nn\no p\nco\n-4\nm\n2\np a\ns\nr\na\ne\nm\nd\np\nt\nl\no\ne s\nt he\nd e\nG\nm\nR\no\nC\nns\no\nt\np\nra\n-\nt\n4\ne\n2\nd\nex\nsl\nt\ni\nr\ng\nu\nh\nd\nt\ne\nl\nd\ny\n,h σ\n,% 2.0150\nmaterial. The SLM material in the as-built (non-HIP)\ntg\nn e 100\ncondition exhibits high residual stresses and higher\nrts\nd\nstrength, but the elongation is greatly reduced [15]. This\nle\niY 50\ndemonstrates the needs for at least a post-build stress % 2\n.0\nrelief heat treatment to achieve good ductility. 0\nAdditional mechanical test data was completed at a 0 100 200 300 400 500 600 700 800\nseries of temperatures including elevated temperatures Temperature, ⁰C\nsimilar to chamber hot wall operating conditions. The Fig. 9. 0.2% Yield Strength vs Temperature of SLM\ndatasets show repeatable properties and low scatter. The GRCop-84/-42.\nultimate tensile strength can be seen in Fig. 8. While the\nSLM GRCop-84 exhibits an average of 8% higher For a given chamber operating pressure, the\nultimate strength at 20°C, the SLM GRCop-42 has minimum wall thickness of a liner must be increased to\nsimilar strength above 200°C. This is caused by decrease lower the stresses to acceptable levels. How that affects\nin the pure Cu matrix strength and its inability to transfer thermal gradients, hot wall temperatures, thermally\nstress to the Cr Nb particles as efficiently at elevated induced strains and other design considerations must be\n2\ntemperatures. The result is the two alloys have similar examined and will require iterations to determine optimal\nstrengths above 200-400 °C. The strength remains designs in strength limited applications.\ngenerally superior to competitive alloys in this The ductility of GRCop-42 is generally superior to\ntemperature range, and exposure of the GRCop alloys to that of GRCop-84 at temperatures above 400°C (due to\nthese temperatures has minimal impact on the properties. the Cr 2 Nb content of GRCop-84). Both alloys have\nThe 0.2% yield strength as a function of temperature sufficient ductility for most applications including liners,\ncan be seen in Fig. 9. While the SLM GRCop-84 exhibits and will deform large amounts without failure. The\nan average of 14% higher yield strength at 20-400°C, the elongation is shown in Fig. 10 and the reduction in area\nSLM GRCop-42 has similar strength above 600°C. This is shown in Fig. 11.\nis one of the major properties that must be traded to get\nthe higher thermal conductivity offered by GRCop-42.\nIAC-19-C4.3.5x52514 Page 7 of 14",
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "GRC",
+            "op-",
+            "42 -",
+            "MSF",
+            "C H",
+            "IP",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "GRC\nGRC",
+            "op-\nop-",
+            "84 -\n84 -",
+            "MSF\nMSF",
+            "C H\nC N",
+            "IP\no HI",
+            "P",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "GRC\nGrc",
+            "op-\nop-4",
+            "42 -\n2 -",
+            "M4\nM40",
+            "00 V\n0 Ve",
+            "end\nndo",
+            "or N\nr HI",
+            "o HI\nP",
+            "P",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            null,
+            null
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "SL",
+            "M GRCop",
+            "-84",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "SL",
+            "SL",
+            "M GRCop",
+            "-42",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "",
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            null
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "SL",
+            null,
+            "",
+            "p-84"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "SL",
+            "M GRCo",
+            "p-84"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "SL",
+            "SL",
+            "M GRCo",
+            "p-42"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_num": 8,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\n45 300\n40\ny 250\n35 t\n,e\nru lia f\nt\no\nn e cre\np ε,f\n1\n2\n2\n3\n0\n0\n5\n5\niv\nit c u\nd n o\nC\nla m\nr\n)C\nº * m\n(/\nW ( 1\n1\n2\n0\n5\n0\n0\n0\n0\nMSFC GRCop42\nt\nn ia rtS\n10\n5\nS\nS\nL\nL\nM\nM\nG\nG\nR\nR\nC\nC\no\no\np\np\n-\n-\n8\n4\n4\n2\ne\nh T\n50\n0\nMSFC GRCop84\n0\n0 100 200 300 400 500 600 700 800\n0 100 200 300 400 500 600 700 800\nTemperature (˚C)\nTemperature, ⁰C\nFig. 12. Thermal Conductivity vs Temperature of SLM\nFig. 10. Elongation vs Temperature of SLM GRCop-\nGRCop-84/-42.\n84/-42.\nThe GRCop-42 and GRCop-84 process parameter\n70\ndevelopment yielded the desired initial values for\n60 density, mechanical and thermophysical properties, and\nsurface finishes. Additional improvements are being still\ntn 50\ne cre\np ,A 40\nm\nm\na\ne\nd\nch\ne\na\na\nn\ns\nic a\ne\nl\nx p\nte\ne\ns\nr\nt\ni\ni\ne\nn\nn\ng\nc\n,\ne\na\ni\nn\ns\nd\ng\nh\na\no\nin\nt-\ne\nf\nd\nir\n,\ne\nb\nt\nu\ne\nt\ns t\ns\nin\nu\ng\nc c\nt\ne\no\ns s\nb\nf\ne\nu l\nd\np\ne\nr\ns\ni\nc\nn\nr\nt\ni\ni\nb\nn\ne\ng\nd\n,\nR\n,a 30 later in the paper have been successfully achieved. The\ne\nrA GRCop-42 process parameters resulted in an improved\nn 20\ni n SLM GRCop-84 processing time compared to the GRCop-84, with an\no\nitcu 10 SLM GRCop-42 approximately 20% reduction in build time. MSFC and\nd\ne R 0 GRC, along with industry partners, have demonstrated\n0 100 200 300 400 500 600 700 800 that both are readily printable alloys that can be\nTemperature, ⁰C additively manufactured into fully dense components\nFig. 11. Reduction in area vs Temperature of SLM with consistent properties.\nGRCop-84/-42. The powder supply chain improved with more\nvendors capable of meeting the powder specifications\nThermal conductivity was also measured with the SLM with GRCop-42 compared to GRCop-84. The ability to\nsamples and as-expected the GRCop-42 demonstrated a meet the GRCop-42 chemistry and vendor competition\n5-8% higher conductivity than the GRCop-84 (Fig. 12). also reduced powder pricing, making the overall process\nThe observed decrease in the thermal conductivity at the more economically attractive.\nhighest temperatures is a result of the excess Cr\ndissolving into the Cu matrix. Generally, GRCop-84 has 2.4 Post-Processing Considerations for Chambers\nmore excess Cr, and the effect is greater. If critical, the Successful development of SLM chambers placed\namount of excess Cr could be reduced, but there might be considerable emphasis on the post-processing after initial\nhydrogen embrittlement issues with hydrogen- and build and removal from the build box. Based on\nmaybe methane-propellant applications. experience, much of the overall fabrication time is post-\nWhile not shown in the details of this paper, prior processing of the parts to ensure full part integrity and\npublications demonstrated details on the surface finish of removal of all loose powder prior to HIPing. Post-\nthe GRCop materials [9,10,23]. There is additional processing of combustion chambers presents additional\ndevelopment being completed to further improve surface challenges for AM due to the complexity of the small\nfinish. internal features. The post-processing considerations\ninclude: powder removal and verification of clear\nchannels, build plate removal, HIP, machining, welding,\ninspections, and flow testing. A generic flow diagram is\nshown in Fig. 13. A more detailed process discussion was\npresented in [10]. It should be noted that additional\noperations are required when the bimetallic combustion\nchambers are fabricated using a structural jacket.\nIAC-19-C4.3.5x52514 Page 8 of 14",
+      "tables": [
+        [
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            "",
+            "",
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "SLM GRC\nSLM GRC",
+            "op-84\nop-42",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            null
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MS",
+            "FC GR",
+            "Cop4",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "MS",
+            "FC GR",
+            "Cop8",
+            "4",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "",
+            "",
+            "",
+            null,
+            null
+          ]
+        ],
+        [
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            null,
+            "",
+            "",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "SLM GRC",
+            "op-84",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "",
+            "",
+            "SLM GRC",
+            "op-42",
+            null,
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            null,
+            null,
+            "",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      ]
+    },
+    {
+      "page_num": 9,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\ncutting technique will depend on requirements and\nDesign of Test Print Wedges or\nSLM of Chamber available material included in the build between the part\nChambers for SLM Model Iterations\nand the build plate. HIPing was used to both reduce\nresidual stresses and close any remaining porosity to\nSupport/Powder Computed Tomography Remove from Build bring the GRCop to full density. Complete closure of the\nRemoval (CT) Scanning plate\npores is critical to prevent blistering when using high\npressure hydrogen as a fuel.\nFollowing HIP, traditional operations can be\nHot Isostatic Machining, Welding, Final Inspection and\nPressing (HIP) Finishing Operations Flow Testing completed such as machining of interfaces, welding\nFig. 13. General SLM additive process for chambers. operations, porting, and any finishing operations.\nGenerally speaking, GRCop alloys can be easily\nPowder removal is a critical step and several machined with carbide tooling and respond similar to\nchambers have been scrapped due to inability to fully other high-strength copper alloys. It is also at this phase\nremove powder after an AM build. Trapped powder can of the process that a bimetallic jacket would be applied if\nbe caused by a variety of mechanisms, including residual necessary using a secondary directed energy deposition\nmoisture, design features, excessive local heating during (DED) AM process. Following all operations, the\nthe build, build failures (short feed, deformation from chambers completed final dimensional inspections and\nresidual stresses, re-coater arm impacts), oxidation, and flow testing.\nsurface finish. Various techniques are used for powder\nremoval including manual removal, vacuum and 3. AM Bimetallic Jacket Development\ncompressed air, shaker tables, and rotational and variable\nfrequency machines. It should be noted that analysis or In some high pressure and large scale chamber\nproper precautions may be needed for the powder configurations, a structural jacket is necessary to handle\nremoval process as fatigue loads could be introduced that radial and axial loads. An optimized design makes use of\ncould affect part integrity. higher-strength to density material, typically a nickel\nThe most common technique to verify powder based superalloy, providing a higher strength to weight\nremoval is computed tomography (CT) scanning. This ratio [16,17]. A secondary AM process is used to apply\nallows confirmation of successful powder removal. An the structural jacket. Several processes have been\nexample of a CT scan on a GRCop alloy combustion evaluated for the jacket including:\nchamber can be seen in Fig. 14; it is evident which 1. Blown Powder DED\nchannels are clear and which channels are still packed 2. Electron Beam DED\nwith powder. Any fluids should be avoided until full 3. Laser Wire DED\npowder removal can be verified. 4. Arc-based DED\n5. Coldspray\nEach of these have advantages and disadvantages that\nhave been discussed in prior papers [Ref 18,19,20]. At\nMSFC, development has been focused on the blown\npowder DED and electron beam DED. The blown\npowder DED fabrication technique uses a coaxial nozzle\nwith a central laser source and powder injected (or\nblown) into the laser focus creating a melt pool and\nmaterial deposition. The powder is accelerated, or blown,\ninto the melt pool using an inert carrier gas to allow for\nminimal or reduced oxidation in the high temperature\ndeposition/weld. This DED head system, with integrated\nfocus optics and blown powder nozzle(s), is attached to a\nrobot or gantry system that controls a toolpath defined by\nthe CAD model. NASA has demonstrated the blown\npowder DED technology using Inconel 625 on both\nFig. 14. Computer Tomography (CT) post-processing of standard and hybrid (integrated machining) DED systems\nchamber showing clogged and cleared channels. [21].\nNASA also demonstrated the use of a bimetallic\nOnce powder removal was verified for the chamber, jacket through the EBF3 at LaRC under the LCUSP\nit was removed from the build plate. This was typically program. Under LCUSP, a GRCop-84 SLM liner was\naccomplished with electro discharge machining (EDM), fabricated in 2-pieces and an Inconel 625 jacket was\nalthough a band saw has also been used. The choice of applied. The EBF3 uses a wire-fed electron beam energy\nIAC-19-C4.3.5x52514 Page 9 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 10,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\ndeposition approach and applied the Inconel 625 included LOX/LH2, LOX/GH2, LOX/RP-1, and\nstructural jacket on the length of the chamber including LOX/LCH4, and all hot-fire testing was conducted at\nthe manifold preparations. The manifolds were then MSFC Test Stands 115 and 116. These chambers were\ntraditionally welded using Electron Beam (EB) welding. typically regeneratively-cooled with fuel; in addition,\nAn example of the LCUSP 35K-lb thrust chamber can some chambers were cooled with water to characterize\nf\nbe seen in Fig. 15. heat flux performance. MSFC has accumulated over 385\nstarts and 20,000 seconds on various AM GRCop-alloy\nand AM bimetallic chambers. The design of AM GRCop-\nalloy chambers has been discussed in prior literature\n[10,11,23]. From experience, the two main adjustments\nto the design process for AM SLM regenerative cooling\nchambers reside in accounting for the minimum feature\nsize that can be reliably built using SLM and the resultant\nsurface finish [23]. There are also complex geometric\nfeatures, such as channel geometry and flowpaths that\ncould not be manufactured with traditional techniques.\nThe initial SLM GRCop-84 chambers that completed\nhot-fire tested used LOX/LCH4 at 4000 lb thrust-class.\nf\nA B A throat section was successfully regen-cooled with\nliquid methane during its testing in 2016 and further\nallowed thermal models to be developed to characterize\ntwo-phase flow, which occurred during the subcritical\ncoolant’s phase change. This chamber design went\nthrough a few design iterations to further optimize\nperformance and weight. A series of modified methane\ncooled chambers later demonstrated active throttling, as\nC shown in Fig. 16, with full regen-cooling with an as-built D\nsurface of the coolant channels. Smaller methane cooled\nchambers for 1,000 lb thrust were also developed and\nFig. 15. Bimetallic LCUSP Chamber Development f\nsuccessfully tested with active throttling capabilities. To\na) SLM 2-piece GRCop-84 liner, b) Chamber with\ndate, a total of 8 designs of GRCop methane chambers\nEBF3 Inconel 625 structural jacket, c) Mixing of Inconel\nhave been tested accumulating over 2,600 seconds and\n625 with GRCop-84 liner.\n72 starts. These chambers were developed for technology\ndevelopment in NASA’s lunar lander programs and\nSeveral lessons were learned during the bimetallic\nprovided critical performance data of methane cooling.\ndevelopment, including deposition toolpath strategy,\nproper diffusion and mixing of the Inconel 625 and\nGRCop base alloy, and shrinkage of the throat and\noverall length. In some development chambers, nearly\n10% shrinkage was observed. The EBF3 used the highest\nheat input with the electron energy source, but required\nhigh heat to achieve good penetration of the Inconel 625\ninto the copper [22]. The blown powder did provide some\nreduction in heat with less distortion, but chambers still\nexperienced 3-9% shrinkage.\n4. Chamber Hot-fire Testing Results\nNASA has fabricated and tested over 20 different\nSLM GRCop-alloy, channel-cooled, combustion\nchambers since 2016. Chambers have all been\nconstructed using the previously described AM\ntechnology, with some units incorporating the bimetallic\nAM jacket. The thrust chambers tested ranged operated\nFig. 16. Throttling of Methane-cooled SLM GRCop-84\nwith Pc’s from 200 to over 1,400 psia in a variety of\nsupporting lunar lander engines.\npropellants and mixture ratios, producing 1,000 to 35,000\nlb thrust. The propellants demonstrated in this testing\nf\nIAC-19-C4.3.5x52514 Page 10 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 11,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\nSeveral of the 1,200-2,400 lb thrust chambers units\nf\nserved as workhorse hardware to hot-fire test a variety of\nnew SLM injectors, along with channel-cooled nozzle\ndesigns and carbon-composite nozzle extensions [24].\nThese chambers included SLM GRCop-84 and later\nGRCop-42 liners. Test conditions, including Pc’s, MR’s,\nand coolant flow rates, were varied to challenge the\nSLM-fabricated chambers. Fig. 17 shows one of the tests\nwith a Carbon-Carbon (C-C) nozzle. As part of this\ntesting, chambers fabricated on different machines and\nwith slightly different build parameters were evaluated.\nSome liners from industry partners were fabricated with\n50% reduction in surface roughness (indicated by\nprofilometer and optical measurements) that resulted in a Fig. 18. High Duty Cycle Testing on AM GRCop-42\nmore than 20% reduction in coolant pressure drop.\nSustained peak wall temperatures were demonstrated\nup to 727°C (1,340 °F) on the SLM GRCop-42 liners.\nResults showed the resilience of the material at these\nelevated wall temperatures with consistent performance\nthroughout the test series. The hot-fire testing\ndemonstrated aggressive conditions with high Pc/MR\nand subsequent heat loads. The chambers were run\naggressively to promote the environment for potential\nblanching, but none was observed in the liners. The liner\nsurface remained smooth and showed good oxidation\nresistance.\nNASA completed the full development and hot-fire\ntesting under the LCUSP program for a bimetallic AM\nGRCop-84 chamber at 35,000 lb thrust. Testing\nf\ndemonstrated the key AM technologies: GRCop-84 SLM\nFig. 17. Hot-fire testing of 1.2K LOX/GH2 SLM and EBF3 Inconel 625 jacket, in a relevant environment,\nGRCop-84 liner with C-C nozzle. testing the AM LCUSP chamber and the one piece AM\ncooled nozzle to 100% of design conditions.\nA high duty cycle test series was completed on 2,100 The LCUSP test program was conducted at Test\nlb f thrust SLM GRCop-42 chambers to demonstrate Stand 116 from October 2017 through March 2018. Both\nperformance and durability of the hardware. This an AM bimetallic full length chamber (Unit 3.0) and a\nLOX/GH2 thruster was tested in early 2019 using a shortened chamber (Unit 2.2) were tested in the program.\nwater-cooled liner. It was exposed to long duration tests Fig. 19 shows one unit installed for testing. The copper-\n(180 seconds) and multiple cycle tests [25, 26]. A total of Inconel joint performed well, indicated by the successful\n188 tests were completed on the two GRCop-42 liners, hot-fire test campaign at 100% power level (1,400 psia\naccumulating a combined 8,030 seconds of test time. The and MR=6.2) including the cryogenic shock during\nconditions included Pc’s up to 1,224 psig and MR’s up to startup. Testing provided excellent data on articles\n8.0. The high MR testing was completed at the end of the manufactured with these technologies and even\nseries to fully demonstrate chamber liner durability. The successfully demonstrated a unique chamber repair made\nfirst GRCop-42 liner completed 168 tests and a total of after blocked cooling passages were discovered after\n7,400 seconds (Fig. 18). initial testing.\nIAC-19-C4.3.5x52514 Page 11 of 14",
+      "tables": []
+    },
+    {
+      "page_num": 12,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\naccommodate larger combustion chambers for upper-\nstage and boost class engine applications, as shown in\nFig. 21. In addition to internal NASA development work,\nseveral vendors are providing GRCop-42 and GRCop-84\nas a commercial printing service. Initial material\nproperties from these vendors are included in this paper\nand updated results will be distributed in future\npublications.\nFig. 19. LCUSP Bimetallic AM chamber installed in the\ntest stand. Fig 1 shows LCUSP chamber during hot-fire.\nAn additional hot-fire test series was completed on\nsubscale bimetallic chambers using LOX/RP-1 at 2,100\nlbf thrust with development partner Virgin Orbit. These\nchambers demonstrated a bimetallic jacket using the Fig. 21. Large-scale SLM GRCop-42 chambers\nblown powder DED process. This was developed on a fabricated (Diameters ~15\" and Heights ~14\").\nhybrid blown powder DED/subtractive machine [21].\nNASA also completed initial feasibility testing in late The SLM development work supports NASA projects\n2018 with a lightweight chamber design. For this unit, including Engine Advanced Manufacturing for MSFC’s\nthe structural layer on the chamber was created with a Liquid Engines Office (LEO), the RAMPT project,\ncomposite overwrap (of carbon fiber) to reduce weight Lunar Lander applications, Nuclear Thermal Propulsion,\nby 30%, compared to the same size chamber with a and NASA’s Space Technology Mission Directorate\nsuperalloy structural jacket. Fig. 20 shows this unit being (STMD) Announcement for Collaborative Opportunity\nhot-fire tested. These chambers are part of the Rapid (ACO) program with commercial space partners. Several\nAnalysis and Manufacturing Propulsion (RAMPT) of these projects are making use of the current scale and\nprogram where a series of larger thrust and more evaluating the larger scale. NASA will complete\naggressive composite overwrap environments will be hardware fabrication and hot-fire testing of the larger\ntested. The initial testing with the GRCop-84 liners GRCop-42 chambers in early 2020. Investments are\ndemonstrated a series of aggressive wall temperature being made by NASA in the material characterization\nconditions, with temperatures exceeding 93°C (200°F) and property database to further enable the technology\non the composite joint. readiness and process maturity. Test samples from the\nexisting scale build platforms (M2, and M290) and the\nEOS M400 will complete a series of mechanical and\nthermophysical property testing to develop a design\ndatabase for the SLM GRCop-42 and GRCop-84. This\ndata is being tested continuously and will be made\navailable to industry partners and general industry.\n5. Conclusions\nNASA has completed development using AM for\nprocess development, material characterization, property\ndatabases, and hardware fabrication of GRCop-42 and\nFig. 20. Composite overwrap SLM GRCop-84 liner hot-\nGRCop-84 thrust chambers. General lessons learned and\nfire testing under RAMPT program.\ncomparisons of the AM SLM GRCop-84 and GRCop-42\nalloys were determined:\nNASA is continuing to advance the SLM GRCop-42\n1) GRCop-alloys are readily printable using SLM,\nand GRCop-84 development in a GE Concept Laser M2,\n2) Full density can be achieved with consistent\nEOS M290, and EOS M400 SLM machines. The latter\nproperties across several SLM/L-PBF machines,\nEOS M400 provides a larger build volume to\nIAC-19-C4.3.5x52514 Page 12 of 14",
+      "tables": [
+        [
+          [
+            "accommodate larger combustion chambers for upper-"
+          ],
+          [
+            "stage and boost class engine applications, as shown in"
+          ],
+          [
+            "Fig. 21. In addition to internal NASA development work,"
+          ],
+          [
+            "several vendors are providing GRCop-42 and GRCop-84"
+          ],
+          [
+            "as a commercial printing service. Initial material"
+          ],
+          [
+            "properties from these vendors are included in this paper"
+          ],
+          [
+            "and updated results will be distributed in future"
+          ],
+          [
+            "publications."
+          ]
+        ],
+        [
+          [
+            null,
+            "The SLM development work supports NASA projects"
+          ],
+          [
+            "including Engine Advanced Manufacturing for MSFC’s",
+            null
+          ],
+          [
+            "Liquid Engines Office (LEO), the RAMPT project,",
+            null
+          ],
+          [
+            "Lunar Lander applications, Nuclear Thermal Propulsion,",
+            null
+          ],
+          [
+            "and NASA’s Space Technology Mission Directorate",
+            null
+          ],
+          [
+            "(STMD) Announcement for Collaborative Opportunity",
+            null
+          ],
+          [
+            "(ACO) program with commercial space partners. Several",
+            null
+          ],
+          [
+            "of these projects are making use of the current scale and",
+            null
+          ],
+          [
+            "evaluating the larger scale. NASA will complete",
+            null
+          ],
+          [
+            "hardware fabrication and hot-fire testing of the larger",
+            null
+          ],
+          [
+            "GRCop-42 chambers in early 2020. Investments are",
+            null
+          ],
+          [
+            "being made by NASA in the material characterization",
+            null
+          ],
+          [
+            "and property database to further enable the technology",
+            null
+          ],
+          [
+            "readiness and process maturity. Test samples from the",
+            null
+          ],
+          [
+            "existing scale build platforms (M2, and M290) and the",
+            null
+          ],
+          [
+            "EOS M400 will complete a series of mechanical and",
+            null
+          ],
+          [
+            "thermophysical property testing to develop a design",
+            null
+          ],
+          [
+            "database for the SLM GRCop-42 and GRCop-84. This",
+            null
+          ],
+          [
+            "data is being tested continuously and will be made",
+            null
+          ],
+          [
+            "available to industry partners and general industry.",
+            null
+          ]
+        ],
+        [
+          [
+            null,
+            "NASA is continuing to advance the SLM GRCop-42"
+          ],
+          [
+            "and GRCop-84 development in a GE Concept Laser M2,",
+            null
+          ],
+          [
+            "EOS M290, and EOS M400 SLM machines. The latter",
+            null
+          ],
+          [
+            "EOS M400 provides a larger build volume to",
+            null
+          ]
+        ]
+      ]
+    },
+    {
+      "page_num": 13,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\n3) SLM GRCop-42 offers 5-8% higher conductivity disseminate data to industry partners and general\nover SLM GRCop-84, industry.\n4) SLM GRCop-42 offers higher ductility over\nSLM GRCop-84, Acknowledgements\n5) GRCop-84 offers higher ultimate and yield The authors would like to thank the large team\nstrength over SLM GRCop-42, involved in the material development and hot-fire testing\n6) SLM GRCop-42 showed 20% reduction in of the Additively manufactured SLM GRCop Alloys.\nprocessing time compared to SLM GRCop-84, Thank you to Cynthia Sprader, Tal Wammen and the test\n7) GRCop-84 and GRCop-42 showed resistance to team at Test Stand 115 for performing outstanding test\noxidation during aggressive test environments support as usual. Several individuals were involved in the\nand high sustained wall temperatures, design, development and testing and provided critical\n8) GRCop-84 and GRCop-42 demonstrated support including Chance Garcia, Dale Jackson, Marissa\nresistance to blanching during high duty cycle Garcia, James Buzzell, Dwight Goodman, Cory Medina,\nhot-fire testing with high Pc and MR. Kevin Baker, Adam Willis, Bob Witbrodt, Will\nNASA has fabricated and tested over 20 different AM Bransdmeier, Ian Johnston, Jonathan Nelson, Van\nGRCop-alloy channel-cooled combustion chambers Luong, Matt Cross, and Hannah Cherry for analysis. Big\nsince 2016. GRCop-alloy and AM bimetallic chambers thanks to Will Tilson and his mechanical test team for the\ntested at NASA have accumulated over 385 starts and significant number of specimens. Thank you to our\n20,000 seconds. The test conditions ranged from 200 to materials, NDE, and inspection teams including Ron\nover 1,400 psia in a variety of propellants and mixture Beshears, David Myers, John Ivester, James Walker,\nratios, producing 1,000 to 35,000 lb thrust. The Doug Wells. Thank you to our critical industry partners\nf\npropellants demonstrated in this testing included involved in this development including ASRC Federal\nLOX/LH2, LOX/GH2, LOX/RP-1, and LOX/LCH4. Astronautics, Additive Manufacturing and Engineering\nMost chambers were regeneratively-cooled using the (AME), 3DMT, Elementum, Powder Alloy Corporation\nfuel, while water coolant was used in specific tests to (PAC), ATI, Carpenter, DMG Mori Seiki, RPMI,\ncharacterize heat flux environments. DM3D. Thank you to the EM42 team including Ken\nHigh duty cycle testing was demonstrated on a SLM Cooper (retired), Zack Jones, Megan Le Corre, Jim\nGRCop-42 liner, accumulating over 168 starts and 7,400 Lydon, and Brian West. The GRC team including Laura\nseconds. No signs of blanching or degradation were Evans, David Scannapieco, Bob Carter, Brad Lerch\nobserved, and the liner remained in excellent condition. (retired), Ivan Locci for continued material support of\nSustained peak wall temperatures were demonstrated GRCop alloys. We would like to recognize Karen\nabove 727 °C on SLM GRCop-42 liners at MR greater Taminger (Langley), and Virgin Orbit as part of the ACO\nthan 8 for LOX/H2. Similar temperatures were also for bimetallic. We wish to acknowledge the project\ndemonstrated during testing on SLM GRCop-84 offices that continue to push needs for nozzle technology\nchambers. All hardware performed well and the data and offer leadership, including Steve Wofford, John\nshowed the resilience of the material at these elevated Fikes, Mike Shadoan, and Keegan Jackson, and Lynn\nwall temperatures with consistent performance Machamer. Also, thank you to the many other engineers\nthroughout test series. Several developmental hot-fire at MSFC and across the agency, commercial space\ntest series demonstrated aggressive conditions with high companies, and industry that engage in technical\nPc, MR and subsequent heat loads. The chambers were discussions and that have contributed to these various\nrun aggressively to promote the environment for techniques.\npotential blanching, but none was observed in the liners.\nNASA is continuing to advance the technology for References\nAM GRCop-84 and GRCop-42 combustion chambers.\nSeveral U.S. vendors have and are being established to [1] Ellis, D.L., GRCop-84: A High-Temperature Copper\nprovide these designs as a commercial printing service Alloy for High-Heat-Flux Applications, NASA/TM-\nand NASA is using vendor-supplied chambers as part of 2005-213566.\ndevelopment testing under various programs. NASA [2] H. Groh III, D. Ellis, W. Loewenthal, Comparison of\nrecently demonstrated large-scale SLM of a GRCop-42 GRCop-84 to other Cu alloys with high thermal\nchamber in an EOS M400 and achieved properties conductivities. J. Mater.Eng. Perform.17, 594 (2008)\nconsistent with the Concept Laser M2 material. Several [3] Ellis, D.L. and G.M. Michal, \"Precipitation\nlarge-scale chambers have been fabricated and will be Strengthened High Strength, High Conductivity Cu-\ntested in the future. Mechanical and thermophysical Cr-Nb Alloys Produced by Chill Block Melt\nproperty testing of the SLM GRCop-84 and GRCop-42 Spinning,\" NASA CR-185144, NASA LeRC,\nis being completed to develop a design database and Cleveland, OH, (Sept. 1989).\nIAC-19-C4.3.5x52514 Page 13 of 14",
+      "tables": [
+        [
+          [
+            "Ellis, D.L., GRCop-84: A High-Temperature Copper"
+          ],
+          [
+            "Alloy for High-Heat-Flux Applications, NASA/TM-"
+          ],
+          [
+            "2005-213566."
+          ]
+        ],
+        [
+          [
+            "[2] H. Groh III, D. Ellis, W. Loewenthal, Comparison of",
+            null
+          ],
+          [
+            null,
+            "GRCop-84 to other Cu alloys with high thermal"
+          ],
+          [
+            null,
+            "conductivities. J. Mater.Eng. Perform.17, 594 (2008)"
+          ],
+          [
+            "[3] Ellis, D.L. and G.M. Michal, \"Precipitation",
+            null
+          ],
+          [
+            null,
+            "Strengthened High Strength, High Conductivity Cu-"
+          ],
+          [
+            null,
+            "Cr-Nb Alloys Produced by Chill Block Melt"
+          ],
+          [
+            null,
+            "Spinning,\" NASA CR-185144, NASA LeRC,"
+          ],
+          [
+            null,
+            "Cleveland, OH, (Sept. 1989)."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_num": 14,
+      "text": "70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.\nThis material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.\n[4] Ogbuji, L. and Humphrey, D.L., 2003. Comparison as Fabricated by Selective Laser Melting. 2017 Joint\nof the oxidation rates of some new copper alloys. Nanoscience and Neutron Scattering User Meeting;\nOxidation of metals, 60(3-4), pp.271-291. 31 Jul. - 4 Aug. 2017; Oak Ridge, TN; United States\n[5] Thomas-Ogbuji, L., Humphrey, D.L. and Setlock, [16] Ashby, M.F. and Cebon, D., 1993. Materials\nJ.A., 2003. Oxidation-Reduction Resistance of selection in mechanical design. Le Journal de\nAdvanced Copper Alloys. NASA/CR-2003-212549. Physique IV, 3(C7), pp.C7-1.\nInternational Symposium on Corrosion Science in the [17] Ashby, M.F., Materials selection in mechanical\n21st Century; July 06, 2003 - July 11. Manchester; design. Metallurgia Italiana, 86, (1994).\nUnited Kingdom [18] Gradl, P.R., 2016. Rapid Fabrication Techniques for\n[6] L.U. Thomas-Ogbuji, and D.L. Humphrey: Oxidation Liquid Rocket Channel Wall Nozzles. In 52nd\nBehavior of GRCop-84 (Cu-8Cr-4Nb) at AIAA/SAE/ASEE Joint Propulsion Conference (p.\nIntermediate and High Temperatures. NASA/CR— 4771).\n2000-210369, Aug. 2000. [19] Gradl, P., Mireles, O. and Andrews, N., 2018. Intro\n[7] Donovan, P.C. & Barton, C.J. MT (1973) 4: 1765. to Additive Manufacturing for Propulsion Systems.\nhttps://doi.org/10.1007/BF02666209 M18-6849. AIAA Propulsion and Energy\n[8] Cooper, K. G., Lydon, J. L., Corre, M. D., & Jones, Conference; 9-11 Jul. 2018; Cincinnati, OH.\nZ. C. (2018). Three-Dimensional Printing GRCop-42 [20] Gradl, P., Brandsmeier, W., Calvert, M., Greene, S.,\n(pp. 1-9) (Unites States, NASA, Marshall Space O'Neal, D., Protz, C., Richard, J. and Morgan, K.,\nFlight Center). Huntsville, AL. NASA/TM-2018- 2017. Additive manufacturing overview: propulsion\n220129 (2019). applications, design for and lessons learned.\n[9] Gradl, P., Protz, C., Cooper, K., Garcia, C., Ellis, D., [21] Gradl, P.R., Protz, C.S., Zagorski, K., Doshi, V. and\nEvans, L., “GRCop-42 Development and Hot-fire McCallum, H., 2019. Additive Manufacturing and\nTesting using Additive Manufacturing Powder Bed Hot-fire Testing of Bimetallic GRCop-84 and C-\nFusion for Channel-Cooled Combustion Chambers”. 18150 Channel-Cooled Combustion Chambers Using\nPaper presented at 55nd AIAA/SAE/ASEE Joint Powder Bed Fusion and Inconel 625 Hybrid Directed\nPropulsion Conference, August 2019. Indianapolis, Energy Deposition. In AIAA Propulsion and Energy\nIN. 2019 Forum (p. 4390).\n[10] Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch, [22] Protz, C., Bowman, R., Cooper, K., Fikes, J.,\nB., and Locci., I. \"Development and Hot-fire Testing Taminger, K., Wright, B. Additive Manufacturing of\nof Additively Manufactured Copper Combustion Low Cost Upper Stage Propulsion Components. Joint\nChambers for Liquid Rocket Engine Applications\", Army-Navy-NASA-Air Force (JANNAF) Liquid\n53rd AIAA/SAE/ASEE Joint Propulsion Conference, Propulsion Subcommittee (LPS) Advanced Materials\nAIAA Propulsion and Energy Forum, (AIAA 2017- Panel (AMP) Additive Manufacturing for Propulsion\n4670) Applications Technical Interchange Meeting (TIM);\n[11] Gradl, P., Greene, S., Protz, C., Bullard, B., Buzzell, 3-5 Sept. (2014).\nJ., Garcia, C., Wood, J., Osborne, R., Hulka, J. [23] Garcia, C.P., Gradl, P.R., Protz, C.S., Wood, J., and\nCooper, K. Additive Manufacturing of Liquid Rocket Greene, S. E., “Characterizing Performance of\nEngine Combustion Devices: A Summary of Process Additively Manufacturing Regenerative Cooled\nDevelopments and Hot-Fire Testing Results. 54th Combustion Chambers through Hot Fire Testing,”\nAIAA/SAE/ASEE Joint Propulsion Conference, 65th JANNAF Propulsion Meeting/10th Liquid\nAIAA Propulsion and Energy Forum, (AIAA 2018- Propulsion Subcommittee, May 21-24, 2018. Long\n4625). July 9-12, 2018. Cincinnati, OH. Beach, CA.\n[12] Gradl, P., Mireles, O. and Andrews, N., Introduction [24] Gradl, P.R., Greene, S. E. “Channel Wall Nozzle\nto Additive Manufacturing for Propulsion Systems. Testing: Test Summary Report for Test Program\nAIAA Propulsion and Energy Forum 2019. PH034”. NASA Marshall Space Flight Center. 2\nIndianapolis, IN. August 20 (2019). February 2018.\n[13] Pells, G. P., and M. Shiga. \"The optical properties of [25] Gradl, P.R., Greene, S. E. “Bimetallic Channel Wall\ncopper and gold as a function of temperature.\" Nozzle Testing: Test Summary Report for Test\nJournal of Physics C: Solid State Physics 2, no. 10 Program PI100/PJ038”. NASA Marshall Space Flight\n(1969): 1835. Center. August 2019.\n[14] M. F. Ashby: Oxide Dispersion Strengthening, Proc. [26] Gradl, P., Protz, C., Wammen, T. “Additive\n2nd Bolton Landing Conf., G.S. Ansell, ed., Gordon Manufacturing Development and Hot-fire Testing of\nand Breach, New York, NY, 1968, p. 143. Liquid Rocket Channel Wall Nozzles using Blown\n[15] Minnecci, R., Rawn, C., Jones, Z., Bunn, J. and Powder Directed Energy Deposition Inconel 625 and\nTramel, T., 2018. Residual Stress Mapping of As- JBK-75 Alloys”. 55th AIAA/SAE/ASEE P&E\nBuilt and Hot Isostatic Pressure Treated GRCop-84 Forum. August 19-22. Indianapolis, IN. (2019).\nIAC-19-C4.3.5x52514 Page 14 of 14",
+      "tables": [
+        [
+          [
+            "[4] Ogbuji, L. and Humphrey, D.L., 2003. Comparison",
+            null
+          ],
+          [
+            null,
+            "of the oxidation rates of some new copper alloys."
+          ],
+          [
+            null,
+            "Oxidation of metals, 60(3-4), pp.271-291."
+          ]
+        ],
+        [
+          [
+            null,
+            "as Fabricated by Selective Laser Melting. 2017 Joint"
+          ],
+          [
+            null,
+            "Nanoscience and Neutron Scattering User Meeting;"
+          ],
+          [
+            null,
+            "31 Jul. - 4 Aug. 2017; Oak Ridge, TN; United States"
+          ],
+          [
+            "[16] Ashby, M.F. and Cebon, D., 1993. Materials",
+            null
+          ],
+          [
+            null,
+            "selection in mechanical design. Le Journal de"
+          ],
+          [
+            null,
+            "Physique IV, 3(C7), pp.C7-1."
+          ]
+        ],
+        [
+          [
+            "[5] Thomas-Ogbuji, L., Humphrey, D.L. and Setlock,",
+            null
+          ],
+          [
+            null,
+            "J.A., 2003. Oxidation-Reduction Resistance of"
+          ],
+          [
+            null,
+            "Advanced Copper Alloys. NASA/CR-2003-212549."
+          ],
+          [
+            null,
+            "International Symposium on Corrosion Science in the"
+          ],
+          [
+            null,
+            "21st Century; July 06, 2003 - July 11. Manchester;"
+          ],
+          [
+            null,
+            "United Kingdom"
+          ]
+        ],
+        [
+          [
+            "[18] Gradl, P.R., 2016. Rapid Fabrication Techniques for",
+            null
+          ],
+          [
+            null,
+            "Liquid Rocket Channel Wall Nozzles. In 52nd"
+          ],
+          [
+            null,
+            "AIAA/SAE/ASEE Joint Propulsion Conference (p."
+          ],
+          [
+            null,
+            "4771)."
+          ]
+        ],
+        [
+          [
+            "[6] L.U. Thomas-Ogbuji, and D.L. Humphrey: Oxidation",
+            null
+          ],
+          [
+            null,
+            "Behavior of GRCop-84 (Cu-8Cr-4Nb) at"
+          ],
+          [
+            null,
+            "Intermediate and High Temperatures. NASA/CR—"
+          ],
+          [
+            null,
+            "2000-210369, Aug. 2000."
+          ]
+        ],
+        [
+          [
+            "[19] Gradl, P., Mireles, O. and Andrews, N., 2018. Intro",
+            null
+          ],
+          [
+            null,
+            "to Additive Manufacturing for Propulsion Systems."
+          ],
+          [
+            null,
+            "M18-6849. AIAA Propulsion and Energy"
+          ],
+          [
+            null,
+            "Conference; 9-11 Jul. 2018; Cincinnati, OH."
+          ]
+        ],
+        [
+          [
+            "[8] Cooper, K. G., Lydon, J. L., Corre, M. D., & Jones,",
+            null
+          ],
+          [
+            null,
+            "Z. C. (2018). Three-Dimensional Printing GRCop-42"
+          ],
+          [
+            null,
+            "(pp. 1-9) (Unites States, NASA, Marshall Space"
+          ],
+          [
+            null,
+            "Flight Center). Huntsville, AL. NASA/TM-2018-"
+          ],
+          [
+            null,
+            "220129 (2019)."
+          ]
+        ],
+        [
+          [
+            "[20] Gradl, P., Brandsmeier, W., Calvert, M., Greene, S.,",
+            null
+          ],
+          [
+            null,
+            "O'Neal, D., Protz, C., Richard, J. and Morgan, K.,"
+          ],
+          [
+            null,
+            "2017. Additive manufacturing overview: propulsion"
+          ],
+          [
+            null,
+            "applications, design for and lessons learned."
+          ]
+        ],
+        [
+          [
+            "[9] Gradl, P., Protz, C., Cooper, K., Garcia, C., Ellis, D.,",
+            null
+          ],
+          [
+            null,
+            "Evans, L., “GRCop-42 Development and Hot-fire"
+          ],
+          [
+            null,
+            "Testing using Additive Manufacturing Powder Bed"
+          ],
+          [
+            null,
+            "Fusion for Channel-Cooled Combustion Chambers”."
+          ],
+          [
+            null,
+            "Paper presented at 55nd AIAA/SAE/ASEE Joint"
+          ],
+          [
+            null,
+            "Propulsion Conference, August 2019. Indianapolis,"
+          ],
+          [
+            null,
+            "IN."
+          ]
+        ],
+        [
+          [
+            "[21] Gradl, P.R., Protz, C.S., Zagorski, K., Doshi, V. and",
+            null
+          ],
+          [
+            null,
+            "McCallum, H., 2019. Additive Manufacturing and"
+          ],
+          [
+            null,
+            "Hot-fire Testing of Bimetallic GRCop-84 and C-"
+          ],
+          [
+            null,
+            "18150 Channel-Cooled Combustion Chambers Using"
+          ],
+          [
+            null,
+            "Powder Bed Fusion and Inconel 625 Hybrid Directed"
+          ],
+          [
+            null,
+            "Energy Deposition. In AIAA Propulsion and Energy"
+          ],
+          [
+            null,
+            "2019 Forum (p. 4390)."
+          ]
+        ],
+        [
+          [
+            "[10] Gradl, P.R., Protz, C., Greene, S.E., Ellis, D., Lerch,",
+            null
+          ],
+          [
+            null,
+            "B., and Locci., I. \"Development and Hot-fire Testing"
+          ],
+          [
+            null,
+            "of Additively Manufactured Copper Combustion"
+          ],
+          [
+            null,
+            "Chambers for Liquid Rocket Engine Applications\","
+          ],
+          [
+            null,
+            "53rd AIAA/SAE/ASEE Joint Propulsion Conference,"
+          ],
+          [
+            null,
+            "AIAA Propulsion and Energy Forum, (AIAA 2017-"
+          ],
+          [
+            null,
+            "4670)"
+          ]
+        ],
+        [
+          [
+            "[22] Protz, C., Bowman, R., Cooper, K., Fikes, J.,",
+            null
+          ],
+          [
+            null,
+            "Taminger, K., Wright, B. Additive Manufacturing of"
+          ],
+          [
+            null,
+            "Low Cost Upper Stage Propulsion Components. Joint"
+          ],
+          [
+            null,
+            "Army-Navy-NASA-Air Force (JANNAF) Liquid"
+          ],
+          [
+            null,
+            "Propulsion Subcommittee (LPS) Advanced Materials"
+          ],
+          [
+            null,
+            "Panel (AMP) Additive Manufacturing for Propulsion"
+          ],
+          [
+            null,
+            "Applications Technical Interchange Meeting (TIM);"
+          ],
+          [
+            null,
+            "3-5 Sept. (2014)."
+          ]
+        ],
+        [
+          [
+            "[11] Gradl, P., Greene, S., Protz, C., Bullard, B., Buzzell,",
+            null
+          ],
+          [
+            null,
+            "J., Garcia, C., Wood, J., Osborne, R., Hulka, J."
+          ],
+          [
+            null,
+            "Cooper, K. Additive Manufacturing of Liquid Rocket"
+          ],
+          [
+            null,
+            "Engine Combustion Devices: A Summary of Process"
+          ],
+          [
+            null,
+            "Developments and Hot-Fire Testing Results. 54th"
+          ],
+          [
+            null,
+            "AIAA/SAE/ASEE Joint Propulsion Conference,"
+          ],
+          [
+            null,
+            "AIAA Propulsion and Energy Forum, (AIAA 2018-"
+          ],
+          [
+            null,
+            "4625). July 9-12, 2018. Cincinnati, OH."
+          ]
+        ],
+        [
+          [
+            "[23] Garcia, C.P., Gradl, P.R., Protz, C.S., Wood, J., and",
+            null
+          ],
+          [
+            null,
+            "Greene, S. E., “Characterizing Performance of"
+          ],
+          [
+            null,
+            "Additively Manufacturing Regenerative Cooled"
+          ],
+          [
+            null,
+            "Combustion Chambers through Hot Fire Testing,”"
+          ],
+          [
+            null,
+            "65th JANNAF Propulsion Meeting/10th Liquid"
+          ],
+          [
+            null,
+            "Propulsion Subcommittee, May 21-24, 2018. Long"
+          ],
+          [
+            null,
+            "Beach, CA."
+          ]
+        ],
+        [
+          [
+            "[12] Gradl, P., Mireles, O. and Andrews, N., Introduction",
+            null
+          ],
+          [
+            null,
+            "to Additive Manufacturing for Propulsion Systems."
+          ],
+          [
+            null,
+            "AIAA Propulsion and Energy Forum 2019."
+          ],
+          [
+            null,
+            "Indianapolis, IN. August 20 (2019)."
+          ]
+        ],
+        [
+          [
+            "[24] Gradl, P.R., Greene, S. E. “Channel Wall Nozzle",
+            null
+          ],
+          [
+            null,
+            "Testing: Test Summary Report for Test Program"
+          ],
+          [
+            null,
+            "PH034”. NASA Marshall Space Flight Center. 2"
+          ],
+          [
+            null,
+            "February 2018."
+          ]
+        ],
+        [
+          [
+            "[13] Pells, G. P., and M. Shiga. \"The optical properties of",
+            null
+          ],
+          [
+            null,
+            "copper and gold as a function of temperature.\""
+          ],
+          [
+            null,
+            "Journal of Physics C: Solid State Physics 2, no. 10"
+          ],
+          [
+            null,
+            "(1969): 1835."
+          ]
+        ],
+        [
+          [
+            "[25] Gradl, P.R., Greene, S. E. “Bimetallic Channel Wall",
+            null
+          ],
+          [
+            null,
+            "Nozzle Testing: Test Summary Report for Test"
+          ],
+          [
+            null,
+            "Program PI100/PJ038”. NASA Marshall Space Flight"
+          ],
+          [
+            null,
+            "Center. August 2019."
+          ]
+        ],
+        [
+          [
+            "[14] M. F. Ashby: Oxide Dispersion Strengthening, Proc.",
+            null
+          ],
+          [
+            null,
+            "2nd Bolton Landing Conf., G.S. Ansell, ed., Gordon"
+          ],
+          [
+            null,
+            "and Breach, New York, NY, 1968, p. 143."
+          ]
+        ],
+        [
+          [
+            "[26] Gradl, P., Protz, C., Wammen, T. “Additive",
+            null
+          ],
+          [
+            null,
+            "Manufacturing Development and Hot-fire Testing of"
+          ],
+          [
+            null,
+            "Liquid Rocket Channel Wall Nozzles using Blown"
+          ],
+          [
+            null,
+            "Powder Directed Energy Deposition Inconel 625 and"
+          ],
+          [
+            null,
+            "JBK-75 Alloys”. 55th AIAA/SAE/ASEE P&E"
+          ],
+          [
+            null,
+            "Forum. August 19-22. Indianapolis, IN. (2019)."
+          ]
+        ],
+        [
+          [
+            "[15] Minnecci, R., Rawn, C., Jones, Z., Bunn, J. and",
+            null
+          ],
+          [
+            null,
+            "Tramel, T., 2018. Residual Stress Mapping of As-"
+          ],
+          [
+            null,
+            "Built and Hot Isostatic Pressure Treated GRCop-84"
+          ]
+        ]
+      ]
+    }
+  ]
+}

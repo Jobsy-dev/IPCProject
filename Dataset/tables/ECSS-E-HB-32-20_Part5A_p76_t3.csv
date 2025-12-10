@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+Alloy (1),Composition,"E
+(GPa)","
+(kg/m3)","E/(2)
+(MNm/kg)","E1/3/(3)
+(N1/3m7/3/kg)"
+-,Al-5Cr-2Zr,80.8,2820,28.7,1.53
+-,Al-5Cr-2Zr-1Mn,86.5,2860,30.2,1.55
+CU78,Al-8.3Fe-4.0Ce,79.6,2950,27.0,1.46
+CZ42,Al-7.0Fe-6.0Ce,80.0,3010,26.6,1.43
+-,Al-8Fe-2Mo,86.2,2910,29.6,1.52
+FVS-0812,Al-8.5Fe-1.3V-1.7Si,88.4,3020,29.3,1.48
+FVS-1212,Al-2.4Fe-1.2V-2.3Si,95.5,3070,31.1,1.49
+"Calidus
+350xq",Al-Fe-V-Si,80,2990,27.6,1.49
+RAE 72,Al-7.5Cr-1.2Fe,89.0,2890,30.8,1.54
+I/M 2219,"Al-6.3Cu-0.3Mn-
+0.06Ti-0.1V-0.18Zr",73.0,2860,25.5,1.46
+"Key: (1) Sources: CU and CZ from Alcoa; FVS‐series from Allied Signals Inc.; Calidus from AMC; others
+unknown;
+(2) E/ ‐ Specific modulus;
+(3) E1/3 / ‐ Buckling parameter.",,,,,

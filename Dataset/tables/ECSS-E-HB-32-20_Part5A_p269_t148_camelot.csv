@@ -1,0 +1,28 @@
+0,1,2
+Matrix,,Reinforcements
+"Nickel aluminides: 
+[1]","NiAl 
+Ni3Al","SiC 
+TiB2 
+TiC 
+C 
+Al2O3"
+"Titanium aluminides: 
+[2, 3]","TiAl 
+Ti3Al",
+,"Ti2AlNb 
+[4]","SiC [SCS‐6] 
+SiC [Sigma SM1140+]"
+Iron aluminides:,FeAl,-
+Niobium aluminides:,"Nb3Al 
+NbAl3",-
+"Key:  [1] 
+IC221/TiC particulate reinforcement. IC221/Al2O3 fibre reinforcement, 
+Ref. [49-17]. 
+[2] 
+Ti3Al + Nb/Al2O3 fibre reinforcement. These materials have comparable 
+CTE values of 10x10-6, typically. Ref. [49-4]. 
+[3] 
+Ti3Al + Nb/SiC fibre reinforcement, Ref. [49-18]. 
+[4]  Orthorhombic phase: Composition Ti-22Al-25Nb, Ref. [49-19] or Ti-
+25Al-25Nb, Ref. [49-26].",,

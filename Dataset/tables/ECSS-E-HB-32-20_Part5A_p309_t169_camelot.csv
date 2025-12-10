@@ -1,0 +1,10 @@
+0,1
+E11 = E22 = 47 GPa,XT = YT = 157 MPa
+ν12 = 0.25,XC = YC = 291 MPa
+G12 = 19.5 GPa,S12 = 109 MPa
+ρ = 1.83E‐9 Ns2/mm4,S13 = S13 (T)2 MPa
+α11 = α22 = CTE(T)1,
+"Key:  
+1: DASA‐C/SiC tested values for 11= 22 
+ 
+2: DASA‐C/SiC tested values for S13",

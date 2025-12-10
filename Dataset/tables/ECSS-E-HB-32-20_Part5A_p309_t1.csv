@@ -1,0 +1,16 @@
+0,1
+"E = E = 47 GPa
+11 22","X = Y = 157 MPa
+T T"
+"ν = 0.25
+12","X = Y = 291 MPa
+C C"
+"G = 19.5 GPa
+12","S = 109 MPa
+12"
+ρ = 1.83E‐9 Ns2/mm4,"S = S (T)2 MPa
+13 13"
+"α = α = CTE(T)1
+11 22",
+"Key: 1: DASA‐C/SiC tested values for  11=  22
+2: DASA‐C/SiC tested values for S13",

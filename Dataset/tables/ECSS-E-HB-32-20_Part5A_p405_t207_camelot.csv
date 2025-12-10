@@ -1,0 +1,58 @@
+0,1,2,3
+Parameter,Material Group,,
+,Plastics (CFRP),Metallics,Ceramics
+Outgassing/Offgassing,,,
+"UV or Radiation 
+Stability",,,
+Atomic Oxygen (LEO),,"Bulk material stable 
+Thin films may 
+degrade",
+Toxicity,,,
+Flammability,,,
+Moisture Absorption,,,
+Dimensional Stability," 
+Low CTE but some 
+instability"," 
+Controlled CTE 
+possible",
+Aqueous Corrosion,NA,e.g. SCC,
+"Embrittlement at 
+Cryogenic 
+Temperatures",,,
+Thermal Cycling," 
+Will accept  -170°C 
+to +200°C"," 
+Will go close to 1000°C 
+as maximum"," 
+Will go to high 
+temperatures"
+Thermal conductivity,"Low, Anisotropic"," 
+Good to High"," 
+Low to Medium"
+Thermal expansion," 
+Low axial CTE. 
+High transverse 
+CTE"," 
+Wide variations 
+possible"," 
+Modest CTE, 
+temperature 
+range important"
+Oxidation Resistance,"NA 
+other than LEO"," 
+Engines, (Ni)."," 
+Engines & TPS"
+"Hydrogen 
+Embrittlement"," 
+For fuel tanks"," 
+For propulsion systems"," 
+For engines"
+Emissivity,NA,,
+Flux Capacity,NA,,
+Hot Gas Corrosion,NA,,
+"Key 
+ : Issue for material selection. 
+ 
+ : Unimportant, due to good material stability. 
+ 
+NA : Not appropriate.",,,

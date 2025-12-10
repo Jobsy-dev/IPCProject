@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8,9
+Machine,Condition,Test Temperature,,Avg. 0.2% Yield Strength,,Avg. Ultimate Tensile Strength,,Avg. Elongation,Tested Samples
+"Single-Laser 
+AM Printer 3",N/A,°F,°C,ksi,Mpa,ksi,Mpa,%,#
+,As-built,75,24,98.8,681.0,132.6,914.2,34.2,3
+,HIP,75,24,74.2,511.6,127.0,875.6,42.6,3
+,As-built,800,427,77.4,533.4,105.1,724.4,33.6,3
+,HIP,800,427,55.6,383.3,99.7,687.4,38.2,3
+,As-built,1200,649,70.2,484.0,100.0,689.2,29.9,3
+,HIP,1200,649,50.6,349.1,94.5,651.6,38.8,3

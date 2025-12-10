@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+"Alloy and
+temper",Form,"Direction (1)
+(2)",UTS (MPa),YS (MPa),"Elong.
+(%)"
+1441-T11,sheet,T,455,390,9
+1441-T11,sheet,45,440,380,8.5
+AMC500F1-T1,"Forgings, 10-50mm",L,400,300,8-10
+AMC500sa-T1,"Forgings, 10-50mm",L,500,420,7-9
+"Key (1) Direction is defined in ASTM E 1823‐05 Annex 2;
+L ‐ long; T – transverse;
+LT ‐ long transverse;
+ST ‐ short transverse;
+(2) Angle ‐ in‐plane relative to L direction.",,,,,

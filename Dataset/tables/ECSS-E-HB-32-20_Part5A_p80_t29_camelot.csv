@@ -1,0 +1,37 @@
+0,1,2,3
+Supplier (location),Reinforcements,Matrix alloys,Process
+AMC (UK),"SiC, p (a)","2124, 6061","powder 
+metallurgy"
+CMT (UK),"Al2O3 , f","Al, Al-Cu2, ?","pressure 
+infiltration"
+Electrovac (D),"SiC, p",AlSi7Mg,"pressure 
+infiltration"
+Sandvik-Osprey (UK),Si,Al,spray forming
+3M (US),"Al2O3 , f (a) 
+SiC, p","Al, Al-Cu2, 
+?(b)",melt infiltration
+Ametek (US),,n.s (c),"pressure 
+infiltration"
+CPS (US),"SiC, p",A356,melt infiltration
+Duralcan (Canada),"SiC, p ; Al2O3 , 
+f","3xx, 6061",melt stirring
+DWA-DRA (US),"SiC, p","2009, 6069, ?","powder 
+metallurgy"
+M Cubed (US),"SiC, p","Al, AlSi",melt infiltration
+MC 21 (US),"SiC, p",3xx,melt stirring
+"Millenium Materials 
+(US)","SiB6 , p",cast alloys ?,melt stirring
+MMCC,"C, f",AlSi,"pressure 
+infiltration"
+PCC-AFT (US),"SiC, p",cast alloys ?,"pressure 
+infiltration"
+PEAK (D),"SiC, p","wrought 
+alloys",spray forming
+Triton Systems (US),"SiC, p",cast alloys ?,"pressure 
+infiltration"
+TRL (US),"Al2O3 , f 
+SiC, p",Al,"continuous melt 
+infiltration"
+TTC (US),,"Al, AlSi",melt infiltration
+"Key: 
+(a): f = fibre, p = particulate; (b): ? = other alloys available; (c): n.s. = not specified",,,

@@ -1,0 +1,85 @@
+0,1,2,3
+Materials,"Relative cost 
+of finished 
+product †","Complexity 
+scale ‡",Comments
+Multidirectional CFRP,Modest,1 to 2,"Well understood technology. Costs 
+reducing through automation & 
+lower part counts over aluminium."
+"Wrought Magnesium 
+Alloys","Low to 
+Modest",1 to 2,"Well understood technology. Fewer 
+applications than aluminium."
+"7XXX series Wrought 
+Aluminium Alloys",Low,1,"Well understood technology applied 
+to ambient temperature structures."
+"8090 Aluminium-
+Lithium Alloy","Modest to 
+Medium",1 to 3,"Technology established for 5 years. 
+Requires more usage to increase 
+confidence."
+Aluminium ODS Alloy,Medium,2 to 3,"Improves high temperature 
+capabilities of 7XXX series, but 
+lacks applications."
+"Carbon Fibre 
+Reinforced Aluminium 
+Alloy","Medium to 
+High",2 to 4,"Lacks applications. Some 
+fundamental issues still to be 
+resolved, e.g. poor transverse 
+strength & corrosion."
+"Wrought Titanium 
+Alloy",Medium,1 to 2,"Well established technology for 
+intermediate temperature (200° to 
+600°C) applications."
+"Silicon Carbide Mono-
+filament Reinforced 
+Titanium",High,3 to 5,"Still under development. Seeking 
+applications principally in gas 
+turbine engines."
+"Conventional Nickel 
+Superalloy",Medium,2,"Well established technology 
+particularly for gas turbine engines."
+"Consolidated Titanium 
+Aluminide","Medium to 
+High",3 to 5,"Still under development. Competing 
+for gas turbine use."
+Machined Beryllium,"Medium to 
+High",2 to 3,"Specialised high modulus material, 
+but has established history. Lack in 
+confidence on low ductility/toxicity 
+has hindered use."
+"Ceramic Matrix 
+Composite: 
+SiC-SiC by CVI","Very High to 
+Extremely 
+High",6 to 9,"Recent development for very high 
+temperature applications. 
+Processing is specialised & capital 
+intensive. Lower processing costs 
+sought."
+"Hot Pressed Glass-
+ceramic Matrix 
+Composite: LAS/SiC",Very High,5 to 7,"Easier to achieve than CMC's, but 
+are restrained to 1000°C"
+"Carbon-Carbon 
+Composite","High to Very 
+High",4 to 5,"Well established technology, 
+although cost and poor oxidation 
+performance can limit application."
+"Key: 
+† 
+Based on cost‐to‐weight. However, variations in density are enormous from 1740 kg/m3 
+(Magnesium) to 9500 kg/m3 (Superalloys). 
+ 
+‡ 
+Ranking to reflect:‐ 
+ 
+∙ Technical difficulty 
+ 
+∙ Availability of knowledge & facilities, and 
+ 
+∙ Material cost 
+ 
+ 
+1 = Easily achieved; 10 = Extremely difficult.",,,

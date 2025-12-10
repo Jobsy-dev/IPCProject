@@ -1,0 +1,64 @@
+0,1,2,3
+"Fibre 
+[Source]","Matrix 
+[Process]","Fibre Vol.% 
+[Type]","Mechanical Properties 
+[Reference]"
+"SiC 
+[N]","SiC 
+[CVI]","45 
+[U]","flex @ RT: 500MPa 
+flex @ 1000C: 280MPa.  Ref. [52-11], 
+[52-16]"
+"SiC 
+[N]","SiC 
+[CVI]","40 
+[B]","flex @ RT: 310MPa 
+flex @ 1000C: 140MPa (in air) 
+tens @ RT: 230MPa 
+tens: 0.75%.  Ref. [52-12]"
+"SiC 
+[N]","SiC 
+[CVI]","40 
+[B]","flex @ RT: 350MPa 
+Fracture Toughness (max): 10MPam. 
+Ref. [52-22]"
+"SiC 
+[A]","Si3N4 
+[RSBN]","40 
+[U]","flex @ RT: 900MPa 
+tens @ RT: 530MPa"
+"SiC 
+[A]","Si3N4 
+[RSBN]","50-60 
+[U]","flex @ RT: 750MPa 
+Ref. [52-27]"
+"SiC 
+[A]","Si3N4 
+[HP]","44 
+[U]","flex @ RT: 900MPa 
+flex @ RT: 400MPa Ref. [52-28] 
+Fracture Toughness: 7MPam 
+(unchanged)"
+"Al2O3 
+[FP]","Al2O3 
+[CVI]","40 
+[U]","flex @ RT: 250MPa 
+flex @ 1200C: 100MPa. Ref. [52-29]"
+"SiC 
+[N]","ZrO2 
+[HP]","- 
+[-]","flex @ RT: <700MPa 
+Ref. [52-33]"
+"Carbon 
+[-]","SiC 
+[Various]",-,[See: 52.3]
+"Key 
+N: Nicalon. 
+HP: Hot Pressed. 
+A: AVCO (SCS‐6). 
+FP: Fibre FP, DuPont. 
+CVI: Chemical Vapour Infiltration. 
+U: Uni‐directional composite. 
+RSBN: Reaction Bonded Silicon Nitride. 
+B: Bi‐directional (fabric) composite.",,,

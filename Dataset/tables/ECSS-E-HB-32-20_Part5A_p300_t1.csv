@@ -1,0 +1,58 @@
+0,1,2,3
+Reinforcement,Matrix,Source [Ref.],Comments
+"Alumina-based fibres:
+AB-312 [3M], Saffil [ICI],
+FP [DuPont], -Al O
+2 3","Alumina (Al O )
+2 3","SEP, France. Ref. 52 [29]","CVI processing route. -Al O fibres gave the best results. Brittleness
+2 3
+proved a problem, owing to good fibre:matrix bonding. Interface
+modifications needed to improve toughness."
+"Nicalon fabric
+Alumina (Saffil)
+Zirconia fibres (ZrO )
+2","Al O
+2 3","University of Florida,
+Ceramics Division, USA.
+Ref. 52 [30]","Preliminary processing by Sol-Gel route with high temperature
+densification at 1200°C."
+"Alumina (FP), Nicalon","Al O
+2 3","Aerospatiale Aquitaine,
+France. Ref. 52 [31]","Preliminary processing by Sol-Gel route. Problems noted with fibre wetting,
+fibre degradation & matrix cracking on cooling."
+SiC monofilament [AVCO],"Zirconia (ZrO )
+2",,"Composites achieved by colloidal infiltration & pressureless sintering at
+1235°C. Theoretical densities of 70% achieved with 20% by volume of fibre."
+Nicalon,"Al O
+2 3","ONERA, France.
+Ref. 52 [32]",-
+"Nicalon fibres, with &
+without BN coatings","Zirconia:
+ZrO + 50mol%SiO
+2 2
+(Zircon)
+ZrO + 50mol%TiO
+2 2
+(Titanate)","Naval Research Labs,
+USA. Ref. 52 [33]","Initial work noted problems in thermal expansion mis-match between pure
+Zirconia matrix & fibre. Processing by vacuum hot-pressing & nitrogen hot
+pressing at 1200 to 1600°C. Significant improvements noted with coated
+fibres and Zircon & Titanate matrices."
+Carbon fibres,"Boron Nitride(BN)
+Titanium Carbide (TiC)
+Boron Carbide(B C)
+4","SEP, France.
+Ref. 52 [4,5,34]
+University of Bordeaux,
+France. Ref. 52 [35]","Porous preforms of 2-D Carbon-Carbon densified by CVI. The preforms
+consisted of carbon fibre fabric held together with a small quantity of
+carbon (pyrolysed methane). The three matrices were evaluated, along with
+SiC; the last became the eventual choice."
+Carbon fibres,SiC,"MAN Technologie,
+Germany. Ref. 52 [60]
+DASA, Germany.
+DLR, Germany.","European FESTIP study: Material and technology development for
+reusable launch vehicle (RLV) hot structures. Comparison of materials
+produced by different processing routes. Includes internal oxidation
+protection methods for applications >500°C in oxidising atmospheres,
+Ref.52 [61]."

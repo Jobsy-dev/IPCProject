@@ -1,0 +1,60 @@
+0,1,2,3,4,5
+Material system,,Thermal history,"Test temp. 
+(°C)","Creep rupture 
+life","Min creep rate, 
+(h‐1)"
+Coating,Substrate,,,,
+"Codep (low 
+activity 
+aluminide)","Rene 80 
+","ST+A: not stated 
+Coat: 1068°C/6hr",900,"38.6 
+± 6.5","99 
+± 14"
+None,Rene 80,"ST+A: not stated + 
+1068°C/6hr  
+(simulated coating HT)",900,"43.2 
+± 4.5","119 
+± 43"
+"Ni-23Co-
+20Cr-8.5Al-
+4Ta + 0.6Y 
+[100m]","CMSX-2  
+(SC)","ST:1315°C/30 mins/ 
+AC 
+A:1050°C/16hr/AC + 
+850°C/24hr/AC + 
+Coat:PS (vacuum) + 
+Diffusion (Ist alloy 
+ageing temperature)","1
+850 
+050","Negligible effect on rupture stress. 
+Creep deformation is dictated by 
+the alloy metallurgical structure. 
+Coating procedures matched to 
+alloy heat treatment. Limited 
+interdiffusion between coat & 
+substrate.",
+"Ni-23Co-
+20Cr-8.5Al-
+4Ta + 0.6Y 
+[100m]","Cotac 784  
+(DS)","ST: 1250°C/90 mins
+1180°C/AC 
+A: 1050°C/16hrs/AC + 
+850°C/24 hr/AC  
+Coat: PS (Vacuum) + 
+Diffusion (as for alloy)","1
+900 
+100","Coating lowers creep strength. Life 
+reduced by 20 to 30% at 900°C & 
+50% at 1100°C. Large deformations. 
+Interdiffusion disrupted the 
+metallurgical structure responsible 
+for inferring creep resistance to the 
+alloy.",
+"Key: 
+  Coating: heat treatment changes microstructure of alloy: change in c.s.a; cracks initiate in coating. 
+ 
+HT: Heat treatment; SC: Single crystal; A: Aged; ST: Solution treatment; c.s.a: Cross sectional area; 
+PS(Vacuum): Plasma spray in vacuum",,,,,

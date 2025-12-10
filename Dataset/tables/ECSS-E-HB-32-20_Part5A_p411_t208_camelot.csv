@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7
+Material,Properties,,,,,,Comments
+,"Conductivity @ RT, 
+CTE,  
+Max. Temp. 
+Melting Temp. 
+Stiffness, E 
+Strength, UTS 
+(GPa) 
+(MPa) 
+(C) 
+(C) 
+(Wm-1 C-1) 
+(x 10-6C-1)",,,,,,
+Metallic alloys,,,,,,,
+Aluminium:  7075,23.0,70,400,110-150,600,150,Standard aerospace alloy.
+Titanium:  Ti-6AI-4V,11.0,120,890,450,1725,6.0,Most common Ti-alloy.
+Steel:  SS 316,14.0,196,"650-865 
+(YS: 310-750)",700,1500,150,Common stainless steel.
+Nickel:  lnconel 718,13.0,200,"1276 
+(0.2%PS: 1056)",800,1455,11.2,Well established Ni-alloy.
+Aluminide: Ni3AI,12.5,226,1310,900,1390,-,New material.
+MMC,,,,,,,
+"Aluminium: 
+DWG-A1/P100(UD)",~0 to -I,379-414,552-834,200,600,-,"Anisotropic, Fibre-reinforced, 
+high modulus, unidirectional."
+"Aluminium: 
+2124/18vol.% SiCp",<23.0,100,"610 
+(0.2%PS: 490)",200,600,-,Particulate reinforced.
+"Titanium/SiCf: 
+Ti-6AI-4V/SCS-6(UD)",<11.0,225,1040 (L),500,1725,-,Monofilament reinforced.
+Nickel/W Fibre (TFRS),-,TD,TD,900,1455,-,Monofilament reinforced.
+Monolithic ceramic,,,,,,,
+Silicon Nitride,2.1 to 3.5,310,Flex: 400-845,1400,1900,10-30,Powder based.
+Sialon,3.2,280-331,Flex: 845,-,-,21.3,Powder based.
+Silicon Carbide,4.2 to 5.4,345-470,Flex: 300-540,1600,-,125-200,Powder based.
+Alumina,7.7 to 8.1,300-372,Flex: 240-400,1700,2050,39(25),Powder based.
+Zirconia (ZrO2),6.5,186,Flex: 405,-,2960,1-2,Powder based.
+CMC,,,,,,,
+C-SiC,1 to 2,200-250,400,~1600,N/A,-,"Anisotropic.  2-D carbon fibre-
+reinforced."
+SiC-SiC:  2-D fabric,5,210,230,~1600,N/A,"25(L) 
+6(TT)","Anisotropic.  2-D SiC fibre- 
+reinforced."
+C-C:  2-D fabric,0 to 1,90-100,127-172,~2000,N/A,,Anisotropic.  2-D C-C composite.

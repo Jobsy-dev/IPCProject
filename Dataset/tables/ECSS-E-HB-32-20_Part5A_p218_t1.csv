@@ -1,0 +1,102 @@
+0,1,2,3,4,5,6,7
+Materials system,,"Thermal
+history (2)","Test
+temp.
+(°C)",Mechanical properties,,,Comments
+"Coating
+[Thickness, m]","Substrat
+e (1)",,,"UTS
+(MPa)","YS
+(MPa)","Elon
+g
+(%)",
+"None
+[-]","CMSX-2
+(SC)","ST:1315°C/30
+Mins/ACA:10
+50°C/
+16h/AC+
+850°C/24h/AC","RT
+850
+1050","1157
+1019
+483","1021
+860
+415","13
+-
+-",-
+"Aluminide
+(High Activity)
+[75m]","CMSX-2
+(SC)","ST + A.
+Coat:
+700°C/7h/?+
+diffusion HT
+(as for alloy)","RT
+850
+1050","1049
+1044
+492","1043
+953
+417","0.8
+25
+30",-
+"Ni-23Co-20Cr-
+8.5Al-4Ta-0.6Y (3)
+[100m]","CMSX-2
+(SC)","ST + A Coat:
+PS(vacuum)+
+diffusion HT
+(1st alloy
+ageing
+treatment)","RT
+850
+1050","1071
+1068
+474","1061
+967
+396","13
+26
+29","RT: Coat
+fractured at 0.5%
+ and failed at c:s
+interface. At high
+temps., no cracks
+seen prior to
+rupture of test
+piece."
+[None],"Cotac 784
+(DS)","ST:1250°C/90
+min
+1180°C/AC
+A:1050°C/16h
+r/AC+
+850°C/24h/AC","900
+1100","844
+366","707
+342","8.7
+7.7",-
+"Ni-23Co-20Cr-
+8.5Al-4Ta-0.6Y
+[100m]","Cotac 784
+(DS)","ST + A Coat:
+PS(vacuum)+
+diffusion HT
+(lst alloy
+ageing
+treatment)","RT
+900
+1100","1228
+823
+344","786
+690
+324","9.8
+9
+10","RT: Coat
+fractured at 0.5%
+ and failed at c:s
+interface. At high
+temps., no crack
+seen prior to
+rupture of test
+piece."

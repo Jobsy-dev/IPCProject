@@ -1,0 +1,48 @@
+0,1,2,3
+"Ceramic layer 
+composition 
+[Application 
+method]","Bond coat 
+composition 
+[Application 
+method]","Substrate 
+alloy",Comments
+"ZrO2+8Y2O3 
+[PS]","NiCrAlYTa 
+[EP + Aluminising]","Hastalloy 
+X","Bond coat is cellular. 
+Improved thermal shock. 
+Cells act as crack stoppers. 
+Carbide layer at Bond Coat/ Substrate 
+interface due to C-content of Hastelloy. 
+Bond coat: 200m.   
+Ceramic: 300m, Ref. [48-33]."
+"ZrO2+CaO, 
+MgO,Y2O3 
+additions 
+[PS]","NiCrAl 
+[PS]",IN 100,"Bond coat: 0.1mm.   
+Ceramic: 0.4mm. 
+ZrO2+7Y2O3 gave best thermal cycling 
+resistance, Ref. [48-39]."
+"ZrO2-6Y2O3 
+[-]","NiCrAl 
+[-]",Superalloy,"Finite Element Modelling of coating 
+mechanical performance. 
+Stress State Model, Ref. [48-40]."
+"ZrO2-6Y2O3 
+[PS]",NiCrAlYb,"MAR M 
+200+Hf","Effect of Yb additions on diffusion 
+mechanisms on bond coat. 
+Morphology of oxide(s) on bond coat. 
+Thermal cycling resistance, Ref. [48-
+41]."
+,"CoCrAlYb 
+CoCrAlY","MAR M 
+509",
+,"FeCrAlYb 
+FeCrAlY 
+[PS]","Fe-22Cr-
+5.8Al-
+0.5Co",
+Key: PS ‐ Plasma spraying; EP ‐ Electrophoretic deposition,,,

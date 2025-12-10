@@ -1,0 +1,6 @@
+0,1
+,This information is useful for iterating on future redesigns and serves to quantify the limits of the types of features
+"that can be deposited. Note that more material deposition is not an unrecoverable flaw as it can be machined away,",
+but it does add cost and the potential for additional residual stresses to build up as compared to a minimal deposition.,
+"And finally, regions where the green line is in board of the black line show regions where not enough material went",
+"onto the part. With additive processes, it is possible to end up with too little material on a part if the process does not",

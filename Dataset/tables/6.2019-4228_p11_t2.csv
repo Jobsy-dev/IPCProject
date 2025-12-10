@@ -1,0 +1,8 @@
+0,1
+,"While the GRCop-84 development had been successful on a 30 micron step print strategy, it proved to be time-"
+"consuming to build larger components at that rate—essentially a 10.8” (274320 microns or 9,144 layers) tall part could",
+take as long as 28 days to fabricate using PBF. The intent with the GRCop-42 development was that it could be pushed,
+to operate at faster print speeds and scaled to larger platform PBF machines (i.e. EOS M400) to allow production for,
+larger scale components. The higher conductivity of the GRCop-42 was theorized to allow for lower core energy,
+"density (CED), thus achieving stable weld pools at thicker layers. This effort started with 50% thicker layers (45",
+microns). This strategy appeared to be successful and thicker layers were baselined for the GRCop-42.,

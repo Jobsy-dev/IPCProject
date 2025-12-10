@@ -1,0 +1,7 @@
+0,1
+Property,Typical value
+Density (kg/m3),1600
+CTE( 10-6 /K),0.1
+Tensile strength (MPa),> 160
+Short beam shear strength (MPa),> 12
+Tensile modulus (GPa),> 60

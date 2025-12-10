@@ -1,0 +1,42 @@
+0,1,2
+Conditions,Characteristics,Comments
+"Hydrogen embrittlement 
+(HE) mechanism","Absorption of hydrogen at ~90 
+to 150ppm causes hydride 
+precipitation.","For Ti-10V-2Fe: Linked to -
+phase stabilisation inhibiting 
+martensite transformation."
+Cryogenic Temperatures,Resistance to liquid hydrogen.,"Insufficient heat to promote 
+dissociation at 20K"
+Ambient to ~400C,"Erratic behaviour, not easily 
+predicted. Factors include: 
+ Oxide-free surface 
+ Stress 
+ Acicular microstructure 
+ Increasing temperature 
+ Increasing pressure 
+Intact oxide films (without 
+other active factors) reduce 
+hydrogen penetration below 
+~450C.","R
+Turbine blades operating at 
+350C found to chip in 
+stressed regions (leading 
+edge) owing to high hydrogen 
+contents. 
+educe hydrogen content by 
+vacuum heat-treatment (700
+C for 7 hours, typically)."
+>450C,Sensitive to hydrogen,
+Surface contamination,"Fe & Fe-Ni surface 
+contamination prohibits 
+formation of Ti oxide film. 
+These are sites for rapid 
+hydrogen penetration & 
+embrittlement of the alloy.","Ti structures fabricated with 
+Fe-based tooling require: 
+ Surface pickling to 
+remove contamination. 
+ Use of Ti brushes for 
+scratch-brushing 
+operations."

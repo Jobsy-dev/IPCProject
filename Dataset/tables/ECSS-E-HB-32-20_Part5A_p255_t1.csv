@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Alloy,Condition,"Stress
+(MPa)",Plastic deformation (%),,
+,,,23 hour,50 hour,165 hour
+"Ti Al + Nb
+3","PREP Powder HIP @
+1065°C+1205°C/½hr/A
+gC 760°C/1 hr/Vac.C",138,0.95,1.53,3.55

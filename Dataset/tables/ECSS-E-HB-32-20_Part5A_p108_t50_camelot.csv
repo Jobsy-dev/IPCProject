@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9
+Fibre (1),"Vol
+%",Matrix,"Process 
+(2)","Density 
+(kg/m3)","Direction 
+(3)","UTS 
+(MPa)","E 
+(GPa)",CTE (ppm/K),
+,,,,,,,,"50°C 
+150°C","50°C 
+300°C"
+"Carbon 
+(M40,Toray)",60,"Al99.8
+5",GPI,2200,L,1500,240,0.2,0
+"Carbon 
+(EHMS, 
+Courtaulds)",60,"Al99.8
+5",GPI,2200,L,1000,230,0.6,0.2
+,,,,,T,100,30,17.0,-
+"Alumino-
+silicate 
+Al2O3:SiO2 
+(Altex)",50,"Al99.8
+5",GPI,3000,L,1050,130,7.5,6.6
+,,,,,T,130,115,14.0,17.0
+"Alumino-
+silicate 
+Al2O3:SiO2 
+(Altex)",50,"AlZnM
+g",PAIC,3000,L,1000,135,-,7.3
+,,,,,T,200,85,-,18.7
+"Alumina 
+Al2O3 (Nextel 
+610)",50,"AlZnM
+g",PAIC,3200,L,1200,240,-,-
+"Alumina 
+Al2O3 (Nextel 
+610)",60,"Al99.8
+5",GPI,3300,L,2000,260,n. a.,-
+"Alumina 
+Al2O3 (Nextel 
+610)",60,"Al99.8
+5",3M,3400,L,1600,240,-,7
+,,,,,T,120,130,-,16
+"Key: 
+(1) Reinforcement fibre (material, name/code, source);  
+(2) GPI ‐ gas pressure infiltration; PAIC ‐ pressure assisted investment casting;  
+(3) L – longitudinal; T – transverse.",,,,,,,,,

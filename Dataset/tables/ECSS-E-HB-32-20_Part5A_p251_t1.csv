@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9
+Alloy composition,"Temp
+(°C)",,"YS
+(MPa)","UTS
+(MPa)","Modulus
+(GPa)","Elong
+(%)","R of A
+(%)",Condition,"Notes
+[Reference]"
+,700V,,,,,,,,
+,420*,693,-,67,-,,,,
+800,315*,418,79,80,-,,,,
+Ti-48Al-2Cr-2Nb,-196,,-,510,149,-,-,"Powder metallurgy.
+PA - Primary annealed (after sheet
+rolling):
+1000°C/2 hrs/vacuum.
+Annealed: 700°C/100hrs.","Sheet test specimens, Ref. [49-24]"
+,25,,464*,466,119,-,-,,
+,600,,443*,570,122,4,-,,
+,700,,379*,543,102,89,-,,
+,700V,,400*,550,-,66,-,,
+,800,,357*,404,81,83,-,,
+"V: Test temp., in vacuum. At room temperature, the base TiAl and Ti3Al compounds are
+Key: * : 0.2% Yield Stress † : Specimen failed near gauge clamp.
+brittle.",,,,,,,,,

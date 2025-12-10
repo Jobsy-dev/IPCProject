@@ -1,0 +1,90 @@
+0,1,2,3,4,5,6
+Properties,Osprey standard alloys,,,,,
+,CE7,CE9,CE11,CE13,CE17,CE17M
+Silicon content (%),70,60,50,42,27,27
+Density (kg/m3),2400,2450,2500,2550,2600,2600
+"Ultimate tensile strength
+(MPa)",100,134,138,176,236,380
+Bend strength (MPa),143,140,172,213,210,-
+Yield stress (MPa),100,134,125,155,183,-
+Young’s modulus (GPa),129,124,121,107,92,92
+Shear modulus (GPa)(1),51,49,49,42,36,36
+Poisson’s ratio,0.26,0.25,0.25,0.27,0.28,0.28
+"Coefficient of thermal
+expansion (ppm/ºC):
+60ºC to 200ºC
+25ºC to 100ºC
+25ºC to 200ºC
+25ºC to 300ºC
+25ºC to 400ºC
+25ºC to 500ºC","7.6
+7.4
+8.3
+8.5
+8.2
+7.7","-
+9.0
+9.9
+10.5
+10.8
+10.1","11.6
+11.0
+12.7
+13.1
+13.7
+14.4","-
+12.8
+13.6
+14.4
+15.0
+15.2","-
+16.0
+17.0
+17.7
+17.5
+16.8","-
+16.0
+17.0
+17.7
+17.5
+16.8"
+"Thermal conductivity
+(W/mK):
+100ºC
+50ºC
+0ºC
+25ºC
+100ºC
+200ºC","180
+140
+125
+120
+110
+100","-
+-
+-
+129
+125
+108","-
+-
+-
+149
+132
+122","-
+-
+-
+160
+-
+-","-
+-
+-
+177
+-
+151","-
+-
+-
+147
+-
+147"
+"Key: Suppliers’ data: Osprey (http://www.smt.sandvik.com/)
+(1) Supplier quoted ‘Rigidity modulus’",,,,,,

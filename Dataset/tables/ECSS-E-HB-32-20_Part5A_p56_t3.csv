@@ -1,0 +1,14 @@
+0,1,2
+Alloy,Ageing Condition,"S.T. Threshold Stress, [MPa]"
+8090,UA,60
+,PA,115 (20 day)
+,OA,230
+8090,T651,<50 (20 day)
+8090,UA,120 (2 day)
+,PA,120 (6 day)
+,OA,120 (29 day)
+2024,T351,50 (20 day)
+2014,T651,50 (20 day)
+7070,T7651,150 (20 day)
+7075,T7351,240 (20 day)
+Key: UA = Under aged; PA = Peak aged; OA = Over aged.,,

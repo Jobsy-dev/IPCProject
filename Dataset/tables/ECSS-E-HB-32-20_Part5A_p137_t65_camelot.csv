@@ -1,0 +1,40 @@
+0,1,2,3,4,5
+Property,Alloy,,,,
+,"Ti‐6Al‐4V 
+(IMI 318)",IMI 685,IMI 629,IMI 634,6242S
+Density (kg/m3),4420,4450,4540,4550,4540
+" - Transus 
+(°C)",-,1020,1015,1045,995
+"Thermal 
+Conductivity 
+(W m-1°C-1)",6.7,4.2,-,-,-
+CTE (10-6°C-1) :,,,,,
+20 - 100°C,8.6,9.8,-,-,9.9
+20 - 200°C,9.0,9.3,9.45,10.6,-
+20 - 300°C,9.2,9.5,-,-,-
+20 - 400°C,9.4,9.8,9.77,10.9,-
+20 - 500°C,9.5,10.1,-,-,-
+20 - 600°C,9.7,10.1,9.98,11.0,-
+20 - 800°C,-,-,10.34,11.2,-
+20 - 1000°C,-,-,10.39,11.3,-
+"Suitable Post-
+weld 
+Treatments",-,"550°C/4-8hrs/ 
+AC",625°C/2hr/AC,"625°C/ 
+1hr/AC",-
+"Fracture 
+Toughness 
+(MPa m½ ) †","44-66 
+Equiaxed 
+with 910MPa 
+YS","68 
+For 910 MPa 
+0.2% PS","78 
+ heat 
+treated 
+condition","37 
+Aged: 700°C 
+/2hrs","65-79 
+- heat 
+treated & 
+aged"

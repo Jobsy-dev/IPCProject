@@ -1,0 +1,31 @@
+0,1,2,3,4
+"Matrix type
+[See: Notes]","Fibre
+type
+†","Fibre
+vol. %","Cycles to
+failure
+(x 104)","UTS
+(MPa)"
+Ti-6Al-4V ,None,Nil,6,890
+Ti-6Al-4V ,None,Nil,4 to 6,-
+Ti-6Al-4V,Borsic,35 to 40,6,895
+Ti-6Al-4V,Borsic,Not stated,~1,-
+Ti-6Al-4V,SiC,35-40,2 to 200*,820
+Ti-6Al-4V,SCS-6,35-40,20,1455
+Ti-6Al-4V ,SCS-6,Not stated,~1,-
+Ti-6Al-4V,"B C/B
+4",35-40,1000,1055
+Ti-6Al-4V ,"B C/B
+4",Not stated,3 to 10,-
+"Beta III 
+(Ti-11.5Mo-6Zr-
+4.5Sn)",Borsic,Not stated,3 to 6,-
+Ti CP,Borsic,Not stated,1 to 3,-
+Ti-10Mo,Borsic,Not stated,1 to 2,-
+"Key: : Mill annealed 732°C/2 hours/AC; : After fabrication 955°C/8 hour
+exposure; †: Borsic, boron and BC fibres are no longer appropriate
+4
+for use in Ti‐composites; *: Poor consolidation of composite.",,,,
+"Test conditions: As fabricated 4 ply unidirectional specimens. R = +0.1, ‐max. = 515 MPa, Room
+Temperature. Axial Fatigue",,,,

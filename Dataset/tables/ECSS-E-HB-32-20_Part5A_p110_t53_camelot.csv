@@ -1,0 +1,10 @@
+0,1,2
+Application: Push rods(1) ;  9.5mm diameter  226mm long,,
+Properties,Al/Nextel,4130 Steel
+Bending stiffness (Nm2),84,74
+Compressive failure load (kN),132,72
+Critical buckling load (kN),16.29,14.28
+First bending resonance (Hz),630 Hz,-
+"Key: 
+Suppliers’ data. Nextel is a tradename of 3M Corp. 
+(1) High‐performance motor sport engine component",,

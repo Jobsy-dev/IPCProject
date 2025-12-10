@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+Material,"Aging
+Treatment","Strain Rat
+(in/in/min)","YS Ratio
+(GH /GHe)
+2","UTS Ratio
+(GH /GHe)
+2","Ductility Ratio
+(GH /GHe)
+2"
+LP-DED NASA HR–1,1–step,0.0001,1.01,0.93,0.83
+,2–step,0.0001,0.97,0.95,0.79
+Wrought NASA HR–1,1–step,0.005,0.94,0.96,0.99

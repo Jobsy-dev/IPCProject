@@ -1,0 +1,33 @@
+0,1,2,3,4
+Alloy,Condition,"Test temperature, (°C)","Strain range, (%)","LCF life loss, (%)"
+Inconel 718,STA2,"25
+677
+-162","2
+2
+2","67
+20
+-75"
+Inconel 718,STA 1,677,1,5
+Inconel 625,-,25,2,88
+Hastelloy X,-,25,2,-100
+Waspalloy,-,677,1.8,50
+IN 100,-,677,1,69
+Haynes 188,-,677,1.5,33
+A286,-,"25
+677","2
+2","0
+0"
+"DSMAR M
+200",-,677,1,-400
+"DSMAR M
+246",-,"760
+871","2
+2","8
+-87"
+CCMAR 246,-,"750
+871(a)","0.5
+0.5","14
+62"
+"Key: (a); load control; H Pressure 34.5 (MPa).
+2
+STA 1 & 2: NASA Heat treatments used for Space Shuttle Main Engine parts.",,,,

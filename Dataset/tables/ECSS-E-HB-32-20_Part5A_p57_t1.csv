@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Alloy,Form,Direction (1),SCC resistance (a),,"EXCO(2)
+rating (b)"
+,,,MPa,Duration,
+2098-T82P,sheet,LT,>240,30,-
+2x98-T82P,sheet,LT,>240,30,-
+"2099-
+T8E65",extrusions,LT,330,-,P/EA
+"2099-
+T8E67",extrusions,LT,250,-,P/EA
+"2195-
+T8R78",plate,-,345,30,≥ EA
+2196-T8511,extrusions,-,-,-,≥ EA
+2297-T87,plate,ST,207,30,≥ EA
+"Key: (1) Direction to ASTM E 1823
+(2) EXCO – exfoliation corrosion susceptibility
+(a) to ASTM G47
+(b) to ASTM G34",,,,,

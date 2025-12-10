@@ -1,0 +1,85 @@
+0,1,2,3
+"Whisker
+Reinforcement",Matrix,"Source
+[Reference]",Comments
+SiC (ARCO),"Si N with Y O & CeO
+3 4 2 3 2
+sintering aids. Al O
+2 3","GTE Laboratories, USA.
+Ref. [52-41]","20 wt% whisker content. Powder route. Al O hot pressed @ 1850°C & Si N @
+2 3 3 4
+1725°C."
+-SiC,"Si N with Y O & La O
+3 4 2 3 2 3
+sintering aids.","Japanese Government Industrial
+Research Institute. Ref. [52-42]","Hot pressing @ 1800°C. Up to 50% whisker content. Whiskers modified strength
+of monolithic ceramic by very small amount to 650 MPa, fracture toughness
+improved slightly."
+SiC (Tokamax),"Si N with Y O & Al O
+3 4 2 3 2 3
+sintering aids.","Swedish Institute for Silicate
+Research. Ref. [52-43], [52-44]","Cold isostatically pressed. Nitrided @ 1350°C and then Pressureless Sintered @
+1850°C. Neither the flexural strength or the fracture toughness of Si N
+3 4
+improved. The whisker:matrix bond judged to be too good, causing brittle failure."
+SiC (VLS grade),"Si N with MgO
+3 4
+sintering aid.","Los Alamos National Laboratory,
+USA. Ref. [52-45]","Whisker volume fractions of 40%. Hot pressing @ 1850°C. Toughness increased by
+50% to 10.5 MPa m-1/2."
+"SiC (Silar SC-9,
+ARCO)","Si N with Y O & Al O
+3 4 2 3 2 3
+sintering aids.","GTE Laboratories, USA.
+Ref. [52-46]","Hot pressed @ 1800°C. For 30 vol.% whiskers, fracture toughness increased by
+40% to 6.4 MPa m-1/2 & flexural strength by 25% to 950 MPa."
+"SiC (SC-9, ARCO)","Al O
+2 3
+Mullite","ORNL, USA.
+Ref. [52-47], [52-48], [52-49]","Hot pressed @ 1850°C for alumina matrix. Fracture toughness of both matrices
+improved two-fold. Al O with 20 vol.% whiskers, flexural strength of 805 MPa @
+2 3
+RT & 520 MPa @1200°C obtained."
+"SiC (SC-9, ARCO)","Al O
+2 3","University of Illinois, USA.
+Ref. [52-50]","30 vol.% whiskers. Hot pressed to 1950°C. Flexural strength of 650 MPa;
+m-1/2.
+Fracture toughness 9.5 MPa"
+"SiC (SC-9, ARCO)","Al O
+2 3","Rockwell Corp., USA.
+Ref. [52-51]","15 wt.% whiskers. Hot pressed to 1500°C. Flexural strength of 650 MPa; Fracture
+.
+toughness 4.6 MPa m-1/2"
+"SiC (SC-9, ARCO)","Al O
+2 3","University of Southern
+California, USA. Ref. [52-52]","15 wt.% whiskers. Composite supplied by ARCO. Creep data acquired in air @
+1500°C, where creep is appreciable even at stresses of 48 MPa."
+SiC,"Al O (WG300)
+2 3","Brown University, USA.
+Ref. [52-53]","Fracture Toughness & Fatigue Crack Growth study. 60% increase in toughness,
+K values increase by 70 to 150%.
+1C"
+"SiC (Silar SC-9,
+SCW-1)","Mullite
+(3Al O :2SiO )
+2 3 2","General Electric Co., USA.
+Ref. [52-54]","Up to 40 wt.% whiskers. Hot pressed @ 1700°C. Flexural strength: 386 MPa;
+Fracture Toughness 3.52 MPa m-1/2. Failure strain: <0.15%."
+"SiC (SCW-1,
+Tateho):
+Also Al O & Si N
+2 3 3 4","Al O Corderite
+2 3
+Mullite
+ZrO
+2","University of Hamburg/Max-
+Plank Institute, G.
+Ref. [52-55], [52-56]","Hot pressing of various matrix:whisker combinations. Thermal expansion
+mismatch between whiskers & matrix strongly influence strength levels.
+Fracture Toughness of all ceramics increased."
+"SiC whiskers (VLS
+grade)","Molybdenum disilicide
+(MoSi )
+2","Los Alamos National Laboratory,
+USA. Ref. [52-57], [52-58]","20 vol.% whiskers. Hot pressed @ 1640°C. 100% increase in flexural strength;
+50% increase in Fracture Toughness."

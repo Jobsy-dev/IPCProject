@@ -1,0 +1,43 @@
+0,1
+"pyrolysis of the re-infiltrated structure,
+F9 typically 4-6 times, according to density
+requirements","inspection of re-infiltrated CMC parts
+Q9 after last pyrolysis, test of witness
+coupons"
+"final machining of structural part to
+F10 required dimensions taking into account
+the coating thickness","inspection of CMC parts after final
+Q10
+machining, NDI"
+"application of fundamental layer
+oxidation protection coating by means
+of Chemical Vapour Deposition (CVD).
+F11 For re-use and multi mission
+applications, the coating is improved
+with multi-layer self healing OPS and
+final CVD coating (F12-F14)","visual inspection after CVD coating and
+Q11
+weight measurement"
+"preparation of slurry for multi-layer
+F12
+coating",Q12 inspection of OPS coating slurry
+"application of multi-layer coating and
+F13
+final erosion resistant layer","visual inspection after OPS coating and
+Q13
+final CVD coating, weight control"
+"heat treatment for oxidation protective
+F14
+multi-layer coating for each layer","inspection of transportation container for
+Q15
+coated CMC parts"
+"manufacture of transportation boxes
+and handling fixtures prior first
+F15
+transportation of structural part (green
+state)","inspection of pre-assembled and final
+Q16 assembled CMC parts, acceptance for
+delivery"
+"assembling if necessary, packing and
+F16
+transportation",

@@ -1,0 +1,12 @@
+0,1
+,The SLM process for GRCop-84 has gone through significant development to produce desirable surface finishes.
+The surface finishes do vary per machine and per vendor. The surface finishes are dependent on a number of variables,
+"including sintering and coater arm (powder-refresh) speeds, starting powder size, mix of virgin and recycled powder,",
+"oxidation, features, sintering pattern, and post-processing techniques. These factors are further complicated by the",
+machine and the vendor being used for AM. Sample pieces were measured during development for the two-piece,
+chamber and produced a surface finish of 400 µ-in. Other development work being completed has produced surface,
+"finishes ranging from 200-500 µ-in. Surface finish can affect several factors including mechanical properties, heat",
+"transfer, and hydraulic pressure drops, but the required surface finish is dependent on the final application. The as-",
+"produced surface finish was found to be acceptable, except for high cycle fatigue (based on properties), for the two-",
+piece and other chambers discussed in this paper.,
+,Figure 26. Two-piece regen-cooled AM chamber design and fabrication. Fabricated chamber on the right

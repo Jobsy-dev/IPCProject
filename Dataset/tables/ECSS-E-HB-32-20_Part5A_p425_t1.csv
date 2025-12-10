@@ -1,0 +1,97 @@
+0,1,2,3,4,5
+Material A,Material B,"Interlayer
+material","Consolidation
+technique","Process
+conditions","Comments
+[Reference]"
+2.25%Cr Mo-steel,316 stainless steel,None,"Vacuum arc
+remelting","Welding of dissimilar
+electrodes","Graded structure for steam systems in
+power stations, Ref. [60-1], [60-2]"
+Steel,"Alumina (AI O )
+2 3","Nb, Mo, Ti, (1 to 2mm)",HIP,1000-1300°C at 100 MPa,"Optimisation of interlayer thickness,
+single and multiple, Ref. [60-3]"
+"Type 405 stainless
+steel","Silicon nitride
+Si N
+3 4","Ni,Fe,Ti,Nb (pure) + W",HIP,1200-1400°C at 100 MPa,"Study to identify efficiencies of interlayers,
+Ref. [60-4]"
+"INVAR
+(Fe-32Ni-5Co)","Si N
+3 4",Al (pure) (0.5mm),Hot pressed,700-950°C at 0-0.15 MPa,"Bond strength optimisation, Ref. [60-5]"
+"AI O
+2 3","AI O & Ti, Pt, Fe,
+2 3
+SS316, Cu","AI, Ag, Cu, & Ni foils",Hot pressed,">450°C for Al
+>600°C for Ag & Cu
+>900°C for Ni","Evaluation of bond strengths, Ref. [60-6]"
+"ODS nickel super-
+alloy MA 6000","Si N
+3 4","NiCo 36
+(Fe-36%Ni)
+W-Ni-Cu alloy
+Ni & Ti (pure)",HIP,"1100°C-1300°C, 100 MPa","Optimisation of interlayers, both single &
+double, Ref. [60-7]"
+W-6Co alloy,"AI O (2% TiC)
+2 3",Nb plus Ni-based filler,"HP bonding
+LP brazing","1200°C, 60MPa
+1255°C, 0.2-0.6MPa","Comparison of techniques. LP brazing
+preferred, Ref. [60-8]"
+"Ni
+Steel
+Al","AI O
+2 3
+AI O
+2 3
+SiC",None,HIP,"1400°C, 207MPa
+1400°C, 207MPa
+600°C, 207MPa","Demonstration of seven zone graded
+compositions, Ref. [60-9]"
+"Ti
+Cr
+C
+Ti
+C
+Superalloy
+Superalloy
+Cu
+Ni","TiN, TiC
+CrN, Cr C
+3 2
+SiC, TiC
+TiC
+SiC
+ZrO
+2
+ZrO
+2
+TiB , TiC
+2
+TiB , TiC
+2","None
+-
+None
+None
+-
+None
+None
+-
+-","PVD
+PVD
+CVD
+PVD-CVD
+PVD-CVD
+Powder metallurgy,
+Wet or dry
+sprayed, 1 or 2 gun
+-","-
+-
+-
+-
+-
+-
+-
+-
+-","Functionally gradient materials (FGM)
+from Japan organised by Science &
+Technology Agency, Ref. [60-10]"

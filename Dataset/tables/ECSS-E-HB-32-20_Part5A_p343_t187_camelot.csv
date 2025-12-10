@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+"Hole Dia. 
+(mm)",d/b,"Fibre 
+Vol.%","Actual 
+UTS 
+(MPa)","Normalised 
+Actual UTS † 
+(MPa)","PL 
+(MPa)","Ultimate 
+Extensometer 
+Strain (%)"
+"Unnotch
+ed",0,39,309,1.0,43,0.48
+,0,38,320,1.0,81,0.56
+,0,40,341,1.0,76,0.57
+1.6,0.110,39,324,1.05,121,0.92
+,0.113,38,334,1.04,37,1.05
+,0.112,40,330,0.97,77,0.97
+3.1,0.202,39,296,0.96,16,1.08
+6.4,0.431,38,297,0.93,20,1.42
+,0.429,40,306,0.90,31,1.52
+"Key 
+† : Ratio of notched/unnotched tensile strength. 
+ 
+d/b : Ratio of hole diameter to specimen width.",,,,,,

@@ -1,0 +1,113 @@
+0,1,2,3,4,5,6,7
+Alloy,Form,"Temp. 
+(C)","UTS 
+(MPa)","0.2%PS 
+(MPa)","El 
+(%)","R of A 
+(%)",Comments
+"Ti-
+6242S","Forging 
+Stock","RT 
+480","895 
+620","825 
+485","10 
+15","25 
+30","Solution treated & 
+aged."
+"IMI 
+685","Forging 
+Stock 
+ 360mm ø","RT 
+520","950 
+610","880 
+480","6 
+9","15 
+20","As manufactured, 
+surface cleaned & 
+etched. 1050°C/
+½hr/OQ+550°C/24hr
+/AC."
+"IMI 
+829","Forging 
+Stock 
+ 300mm ø","RT 
+540","930 
+570","820 
+480","9 
+9","15 
+25","As manufactured, 
+surface cleaned & 
+etched. 1050°C/
+½hr/AC+625°C/2hr/
+AC."
+"IMI 
+834","Forging 
+Stock 
+ 300mm ø","RT 
+600","1030 
+585","910 
+450","6 
+9","15 
+20","As manufactured, 
+surface cleaned & 
+etched. Solution 
+Treated & aged."
+"IMI 
+318 
+(Ti-
+6Al-
+4V)","Sheet 
+Plate 
+<10mm 
+Plate 10-
+100mm 
+Bar 
+150mm ø","RT 
+RT 
+RT 
+RT","960-
+1270 
+895-
+1150 
+895-
+1150 
+900-
+1160","900 
+825 
+825 
+830","8 
+10 
+8 
+8","- 
+- 
+25 
+25","Annealed.700°C/20m
+ins/AC. De-scaled. 
+Annealed.700°C/20m
+ins/AC. De-scaled & 
+pickled. 
+20% R of A for 25-
+100mm plate. 
+Annealed.700°C/hr/2
+5mm section/AC."
+"IMI 
+550","Wrought 
+product",RT,1100,940,7,15,"Solution treated 
+900°C/AC & aged."
+Ti15-3,"Wrought 
+product",RT,"785 
+1095-
+1335","773 
+985-
+1245","22 
+6-12","- 
+-","Annealed. 
+Aged."
+Ti-17,"Wrought 
+product",RT,"1105-
+1240","1030-
+1170",8-15,20-45,"Solution treated & 
+aged."
+"Key:  
+All values, except where a range is given, are minimum values stated by the suppliers.  
+OQ: Oil Quenched; AC: Air Cooled.",,,,,,,

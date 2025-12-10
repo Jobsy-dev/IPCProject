@@ -1,0 +1,33 @@
+0,1,2,3
+Coating Composition (wt.%),Substrate,"Application
+Method",Comments
+Ni-l7Cr-12Al-O.4Y,B1900 + Hf,"PVD
+LPPS",Ref. [48-29]
+Ni-23Co-18Cr-13Al-0.6Y,U700,-,-
+CoCrAlY + 4.5 or 3Ta,"IN 100
+MAR M 002","LPPS
+PS",Ref. [48-30]
+NiCoCrAlYTa,CMSX2,LPPS,Ref. [48-31]
+NiCoCrAlTa,MA 6000,LPPS,Ref. [48-31]
+Ni-23Co-20Cr-8.5Al-4Ta-0.6Y,CMSX2,LPPS,Ref. [48-32]
+Co-10Ni-25Cr-7Al-5Ta-0.6Y,IN 100,LPPS,Ref. [48-32]
+NiCrAlYTa,Hastelloy X,ED,"Bond coat for TBC, Ref.
+[48-33]"
+NiCoCrAlYTa,"CMSX2
+Cotac 784","LPPS
+PS(Vac)","Ref. [48-34]
+Ref. [48-35]"
+NiCrAlY,IN713LC,PS(p.p),Ref. [48-36]
+NiCoCrAlYTa,X40,PS(p.p),Ref. [48-36]
+"NiCoCrAlY
+(PWA276)",PWA 1480,LPPS,"Pratt & Whitney
+Aircraft Co.
+designations"
+PWA286,Alloy 185,-,Ref. [48-37]
+NiCrAlHf,Rene 80,Laser(RS),"Increased Hf content in
+solid solution. Ref.
+[48-38]"
+"Key: PVD: Physical Vapour Deposition PS (vac): Plasma Spray, under vacuum
+LPPS: Low Pressure Plasma Spray PS (p.p.): Plasma Spray, partial pressure
+PS: Plasma Spray Laser (RS): Laser (Rapid Solidification)
+ED: Electrophoretic Deposition TBC: Thermal Barrier Coating",,,

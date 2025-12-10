@@ -1,0 +1,7 @@
+0,1
+,"After a layer is completed, the build plate is lowered slightly, a new layer of powder is spread, and the laser sinters"
+"the new build layer. Sufficient power is used to penetrate into a couple of the previous build layers, allowing proper",
+bonding between layers. The process is repeated thousands of times until the part is fully fabricated or printed. This,
+"allows for complex internal features to be fabricated, such as coolant channels. The entire build is completed in an",
+inert environment that limits oxidation of the parts during fabrication. The SLM process and an example of a SLM,
+"copper-alloy liner fabrication are shown in Figure 12 and Figure 13, respectively.",

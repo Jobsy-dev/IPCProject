@@ -1,0 +1,21 @@
+0,1,2,3
+Element,Nominal,Minimum,Maximum
+Iron,BAL,–,–
+Nickel,34.00,33.70,34.30
+Chromium,14.60,14.30,14.90
+Cobalt,3.80,3.60,4.00
+Molybdenum,1.80,1.60,2.00
+Tungsten,1.60,1.40,1.80
+Titanium,2.40,2.20,2.60
+Vanadium,0.30,0.28,0.32
+Aluminum,0.25,0.23,0.27
+Sulfur,–,–,0.005
+Phosphorus,–,–,0.005
+Carbon,–,–,0.03
+Silicon,–,–,0.05
+Boron,–,–,0.005
+Manganese,–,–,0.05
+Hydrogen,–,–,<50 ppm
+Oxygen,–,–,"<100 ppm (–140/+325 mesh)
+<200 ppm (–325 mesh/+10 um)"
+Nitrogen,–,–,<50 ppm

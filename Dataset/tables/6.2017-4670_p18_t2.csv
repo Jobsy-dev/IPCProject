@@ -1,0 +1,9 @@
+0,1
+,The ports were each tapped manually using the port top surface as a primary datum and the outer circumference
+as the secondary datum for centerline alignment. A lesson learned has been to set up the ports manually (individually),
+for tapping instead of an automated computer numerical control (CNC) setup due to potential distortions from the,
+build process. At this stage of fabrication small cracks were observed in the thinner regions of the ribs. These cracks,
+"were likely due to several conditions: 1) A stress riser as an artifact of the design, 2) Microcracks during solidification",
+"from the build, 3) A low cycle fatigue (LCF) or HCF condition present during the mallet blows from powder removal",
+"and machining of the ports, and 4) Brittleness of the material prior to the HIP conditioning26. These cracks were",
+monitored and saw some slight growth during continued powder removal operations.,

@@ -1,0 +1,38 @@
+0,1,2,3,4
+"Material 
+A","Material 
+B",Interlayer(s),Technique,"Bond strength, at RT. 
+[Reference]"
+Steel,Al2O3,Mo + Nb,HIP (DB),"Mean 63 MPa, Ref. [60-3]"
+"405 S 
+Steel",Si3N4,"Nickel braze 
++ W + Fe",HIP (DB),"Mean 65 MPa, Ref. [60-4]"
+"405 S 
+Steel",Si3N4,"Nickel braze 
++ W + Fe",LP (DB),"Mean 51 MPa, Ref. [60-4]"
+Si3N4,Si3N4,Al,HP (DB),"Max ~450 MPa, Ref. [60-5]"
+Si3N4,Si3N4,Ag-Cu,Brazing,"Max ~328±38 MPa, Ref. [60-
+18]"
+INVAR,Si3N4,Al,HP (DB),"Max ~175 MPa, Ref. [60-5]"
+Al2O3,Al2O3,Al,HP (DB),"Max ~70 MPa, Ref. [60-6]"
+Al2O3,Al2O3,Ag,HP (DB),"Max ~40 MPa, Ref. [60-6]"
+Al2O3,Al2O3,Cu,HP (DB),"Max ~50 MPa, Ref. [60-6]"
+Al2O3,Al2O3,Ni,HP (DB),"Max ~45 MPa, Ref. [60-6]"
+Al2O3,Ti,Al,HP (DB),"Max ~50 MPa, Ref. [60-6]"
+Al2O3,Fe,Al,HP (DB),"Max ~20 MPa, Ref. [60-6]"
+Al2O3,SS 316,Al,HP (DB),"Max ~10 MPa †, Ref. [60-6]"
+Al2O3,Cu,Al,HP (DB),"Max ~5 MPa, Ref. [60-6]"
+Al2O3,Al2O3,Cu,LP (RB),"Max ~124 MPa, Ref. [60-11]"
+Al2O3,S Steel,Cu,LP (RB),"Max ~167 MPa, Ref. [60-11]"
+"PSZ 
+(Zr2O3)",S Steel,Cu,LP (RB),"Max ~70 MPa, Ref. [60-11]"
+"Key  
+† :  70 MPa achieved by annealing 
+ 
+ 
+HIP ‐ Hot isostatic pressing 
+DB ‐ Diffusion bonding 
+RB ‐ Reaction bonded 
+ 
+LP ‐ Low pressure 
+HP ‐ High pressure",,,,

@@ -1,0 +1,32 @@
+0,1,2,3
+,"Wrought GRCop-42 and GRCop-84 were low cycle fatigue tested at room temperature (23 °C), 400 °C and 600",,
+"°C (73 °F, 752 °F and 1112 °F) using a fully reversed (R = -1) triangular waveform and strain control to achieve the",,,
+"desired strain range14,15. It was found that wrought GRCop-42 did not have a statistically significant temperature",,,
+"dependence for the LCF lives, so all the data were pooled together. Wrought GRCop-84 showed a slight dependency",,,
+of LCF life on temperature with the 600 °C data being statistically significantly different from the RT and 400 °C,,,
+"data. The RT and 400 °C data, which were statistically equivalent, were pooled. The results of the analyses are",,,
+presented in Figure 2. GRCop-42 exhibits a statistically slight lower LCF life at higher strain ranges while the two,,,
+"alloys were statistically equivalent at 0.7% total strain, the lowest strain range tested. Below a 0.7% total strain range,",,,
+"the alloys normally did not fail. From a practical engineering standpoint, the two alloys are very similar and nearly",,,
+equivalent performance should b,,e possible for most applications,.
+,,"4
+GRCop-84, 600 °C
+3
+e
+g
+n 2
+R a m)
+n m
+ai m/
+Str
+m
+al ( 1 GRCop-42, GRCop-84,
+ot 0.9 RT - 600 °C RT - 400 °C
+T
+0.8
+0.7
+0.6
+0.5
+102 103 104 105
+Life
+(cycles)",

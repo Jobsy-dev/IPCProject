@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+Alloy‐Temper,Form,Direction (1),K Q  MPa√m,KIc  MPa√m,Kc  MPa√m
+2090-T83,sheet,L-T,-,-,43.9
+2098-T82P,sheet (Pechiney),LT,-,-,130
+2x98-T82P,sheet (Pechiney),LT,-,-,160
+2099-T8E65,extrusion,L-T,-,30,-
+2099-T8E65,extrusion,T-L,-,27,-
+2099-T8E67,extrusion,L-T,-,66,-
+2099-T8E67,extrusion,T-L,-,55,-
+2195-T8R78,"plate, 38 - 50mm",L,-,37,-
+2195-T8R78,"plate, 38 - 50mm",LT,-,35,-
+2195-T8R78,"plate, 6.4 - 
+12.7mm",L,-,40,-
+2195-T8R78,"plate, 6.4 - 
+12.7mm",LT,-,40,-
+2195-T8R78,"plate, 6.4 - 
+12.7mm",45,-,35,-
+2297-T87,"plate, 50mm",L-T,-,35.2,-
+2297-T87,"plate, 75mm",L-T,-,35.2,-
+2297-T87,"plate, 100mm",L-T,-,34.1,-
+2297-T87,"plate, 125mm",L-T,-,33,-
+2297-T87,"plate, 150mm",L-T,-,31.9,-
+8090-T8771,plate,L,27,-,-
+8090-T8771,plate,T,24,-,-
+8090-T8771,plate,S-T,19,-,-
+8090-T81551,extrusion,L,36,-,-
+8090-T81551,extrusion,T,33,-,-
+8090-T82551,extrusion,L,32,-,-
+8090-T82551,extrusion,T,20,-,-
+8090-T851,extrusion,L,30,-,-
+8090-T851,extrusion,T,20,-,-
+8090-T652,forging,L,23,-,-
+8090-T652,forging,T,19,-,-
+8090-T652,forging,S-T,14,-,-
+8090-T852,forging,L,-,22,-
+8090-T852,forging,T,-,20,-
+8090-T8151,plate,L,35,-,-
+8090-T8151,plate,T,30,-,-
+8090-T8151,plate,S-T,18,-,-
+8090-T81,sheet,L,-,-,160
+8090-T81,sheet,T,-,-,122
+1441-T1,sheet (a),LT,-,"76.5 / 99.2 / 
+124",-
+1441-T1,sheet (a),TL,-,73.0 /  98.5 / -,-
+1441-T11,sheet (a),LT,-,76.6 /  99.8 / -,-
+1441-T11,sheet (a),TL,-,76.8 / 102.0 / -,-
+"Key 
+(1) direction is defined in ASTM E 1823‐05 Annex 2;  
+(a) Sheet thickness 1.4mm to 1.8mm; widths 200mm / 400mm / 600mm",,,,,

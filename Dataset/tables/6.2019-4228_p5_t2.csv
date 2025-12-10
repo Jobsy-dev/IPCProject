@@ -1,0 +1,10 @@
+0,1
+,"The largest difference observed in LCF testing was in the stresses observed during the testing. As was mentioned,"
+the tests were run in strain control. The actuator applied a load until the desired strain was achieved. The difference,
+in stresses at the minimum and maximum strains was calculated. Figure 4 shows the total stress range for each strain,
+"at the three test temperatures. In all cases, GRCop-42 had a lower stress range than GRCop-84, and the difference",
+increased with temperature. This was consistent with expectations as the GRCop-84 has a higher yield strength and,
+requires a higher stress to deform it to these strains. This indicates that the load bearing capability of GRCop-42 in,
+"an LCF environment will not be as high as GRCop-84. This will need to be addressed in some designs, but since the",
+"LCF is thermally driven for a liner, it is expected that thermal expansion and temperature change will be the key",
+determinants for the LCF performance.,

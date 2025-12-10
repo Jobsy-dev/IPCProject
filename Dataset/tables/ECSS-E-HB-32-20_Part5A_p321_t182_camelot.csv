@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+"Whisker 
+type","Trade name 
+[Source]",Properties,,,
+,,"Density 
+(kg/m3)","Size 
+(m)","UTS 
+(GPa)","Modulus 
+(GPa)"
+-SiC,"Silar SC-9 
+[Arco, USA]",3200,0.6,6.9,689
+-SiC,"Silar SC-10 
+[Arco, USA]",3200,-,-,-
+-SiC,"Tokamax 
+[Tokai Carbon, Japan]",3190,0.1-1,3-14,400-700
+-SiC,"Tateho SCW 
+[Tateho, Japan]",3180,0.1-0.5,20.6,483
+-,"XPW2 
+[JM Huber, USA]",-,-,-,-
+-SiC,"VLS 
+[Los Alamos]",-,3-10,15.9,580
+-Si3N4,"Tateho 
+[Japan]",3180,-,-,-
+Al2O3,"Emcor 66 
+[Engelhard, USA]",-,-,-,-
+Al2O3,"- 
+[Thermokinetics, USA]",-,-,-,-

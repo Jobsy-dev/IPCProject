@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+"Matrix Alloy
+[See: Notes]","Fibre Type
+†","Fibre Volume
+%",Ultimate Tensile Strength,,Modulus (GPa),Notes
+,,,Longitudinal (MPa),"Transverse
+(MPa)",,
+Ti-6Al-4V ,None,Nil,890,890,120,"Commercial Purity
+( ) predicted values"
+CP-Ti,Borsic,28,860,276,193,
+,Borsic,-,620,324,-,
+Ti-6Al-4V,Boron,32,1000,340,204,
+,,-,(1630),(286),(201),
+Ti-6Al-4V,Borsic,28,970,>345,190,
+Ti-6Al-4V ,Borsic,35-40,895,365,205,
+Ti-6Al-4V ,Borsic,Not stated,813,324,207,
+Ti-6Al-4V ,Borsic,Not stated,827,289,200,
+Ti-6Al-4V,B4C/B,32,1450,>345,214,"Range of properties
+are from materials
+made by different
+companies.
+(DWA and AVCO in U.S.A.)"
+Ti-6Al-4V,B4C/B,Not stated,978-1054,303-310,-,
+Ti-6Al-4V,B4C/B,38,1550,>345,221,
+Ti-6Al-4V ,B4C/B,Not stated,985-1033,324-351,199-207,
+Ti-6Al-4V ,B4C/B,35-40,1055,310,205,
+Ti-6Al-4V ,B4C/B,Not stated,875-1047,310,203-218,
+Ti-6Al-4V ,B4C/B,Not stated,882-1068,317-344,215-229,
+Ti-6Al-4V ,SiC,35-40,820,380,225,
+Ti-6Al-4V ,SiC,Not stated,779,289,189,
+Ti-6Al-4V ,SiC,Not stated,771,379,196,
+Ti-6Al-4V ,SCS-6,Not stated,1040,338,240,
+Ti-6Al-4V ,SCS-6,35-40,1455,340,240,
+Ti-6Al-4V ,SCS-6,Not stated,909,303,233,
+Ti-6Al-4V ,SCS-6,Not stated,833,365,213,
+Beta III,Borsic,Not stated,854,-,-,Ti-11.5Mo-6Zr-4.5Sn
+Ti-10Mo,Borsic,Not stated,730,331,-,
+Beta III,Borsic,Not stated,854,-,-,Ti-11.5Mo-6Zr-4.5Sn
+Ti-10Mo,Borsic,Not stated,730,331,-,
+"Key: †: Borsic, boron and B4C fibres are no longer appropriate for use in titanium composites; : Mill annealed 732°C/2 hours/Air cooled; : After fabrication & low temperature
+595°C/512 hours exposure; : After fabrication and 760°C/64 hours exposure; : After fabrication and 900°C/5 hours exposure",,,,,,

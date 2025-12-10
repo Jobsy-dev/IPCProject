@@ -1,0 +1,16 @@
+0,1,2,3,4
+Alloy,Temper,"UTS 
+(MPa)(1)","YS 
+(MPa) (1)","Elongation 
+(%)(1)"
+7091,TE192,640,600,13
+,T7,595,545,11
+7090,T6511,675,640,10
+,T7,620,580,9
+CW67,T7X1,614,580,12
+7064,T6,683,635,12
+,T7,650,621,9
+Al-9052,F,450,380,13
+,F,635,630,4
+"Key:  
+(1) Longitudinal properties from experimental extrusions.",,,,

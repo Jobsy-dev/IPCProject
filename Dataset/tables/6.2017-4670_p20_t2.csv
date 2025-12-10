@@ -1,0 +1,9 @@
+0,1
+,Two-piece chamber development
+,"Due to many of the issues discovered with the one-piece chamber assembly, a two-piece chamber assembly was"
+designed that incorporated the lessons learned from the one-piece. Although the development process for the first unit,
+"of the one-piece chamber was described above, several additional units were attempted and found build failures during",
+the SLM process following several design changes. These build failures included damaging the coater arm/recoater,
+"blade, which led to subsequent non-uniform material sintering and ultimately a unrecoverable build failure. Another",
+build failure frequently discovered was curling of the material due to unsupported regions of excessive heat sinks.,
+"Based on the series of failures, the two-piece chamber was designed and fabricated.",

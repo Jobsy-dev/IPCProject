@@ -1,0 +1,41 @@
+0,1,2,3
+Reinforcement,Matrix,Source [Ref.],Comments
+"Carbon fibres 
+SiC fibres",SiC,"SEP, France. 
+Ref. 52 [1 to 10]","C-SiC & SiC-SiC traded as SEPCARBINOX & CERASEP. Produced by CVI 
+techniques. SEP has the most advanced production capability in the world. 
+Their ceramic matrix composites are applied to a wide range of propulsion 
+units & thermal protection systems for space vehicles. Reasonable property 
+data available. Technology licensed to DuPont."
+SiC (Nicalon yarns),SiC,"ORNL, USA. 
+Ref. 52 [11 to 20]","CVI techniques for infiltrating SiC into Nicalon fabrics. Work has 
+concentrated on reducing processing times. Limited mechanical property 
+data available. Pyrolytic graphite coating on fibres prevalent. There is a 
+commercial link with Babcock & Wilcox. Proposed uses in heat exchangers, 
+turbine engines & Space Power Systems (SDI)."
+"Carbon, Nicalon, 
+Alumina fibres (Saffil)",SiC,"Refractory Composites 
+Inc., USA. Ref. 52 [21,22]","RECOMP-201 for the C-SiC version. Nicalon fabrics form the principle SiC 
+reinforcement. Published papers by RCI are scarce. Work supported by 
+USA Department of Energy."
+"Carbon, Nicalon, 
+Nextel 312",SiC,"Thermo Electron Corp., 
+USA. Ref. 52 [23,24]","A range of composites prepared by CVI/CVD, including SICONEX ™3M, 
+with Nextel fibres. Intended use in a combustion environment at 1450°C. 
+Tungsten coating included."
+Nextel 312,SiC,"3M Co & Amercom, USA. 
+Ref. 52 [25]","SICONEX composite produced by CVI/CVD. Amercom have interests in 
+Thermal Protection Systems for space vehicles."
+SiC monofilament,Si3N4 or RSBN,"NASA-Lewis Research 
+Center, USA. Ref. 52 [26]","AVCO SCS-6 derivative fibre used. Composites formed by reaction bonding 
+(nitriding) silicon powder/fibre compacts; giving composites of high porosity 
+(30 to 40% of matrix). Fibre volume fractions up to 40% possible."
+SiC monofilament,RSBN,"Norton Co., USA. 
+Ref. 52 [27]","AVCO SCS-2 & SCS-6 monofilaments used. SCS-6 with the thicker carbon- 
+rich SiC outer coating gave the highest strength. Processed at 1450°C."
+SiC monofilament,"Si3N4 direct from 
+powder","Battelle Columbus, USA. 
+Ref. 52 [28]","Commercial grade Si3N4 powder with 8wt.% Y2O3 & 4wt.% Al2O3 as 
+sintering aids. Slurry coating & filament winding used followed by hot 
+pressing at 1750°C, under vacuum."
+SiC (Nicalon yarn fabric),Si3N4,"ORNL, USA. Ref. 52 [14]",Initial work on CVI processing.

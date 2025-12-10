@@ -1,0 +1,9 @@
+0,1
+,"Finally, SLM processing leaves a surface finish roughly equivalent to the diameter of the powder used. Typically"
+a powder cut in the -325 mesh (<40 micron) range is used for SLM. Using the powder diameter as an approximation,
+"of the surface finish, the as built surface would have the rough equivalent of a 63 microinch machined surface. While",
+"the exposed surfaces can be machined to a smoother finish, it is very difficult and more likely impossible to machine",
+the interior cooling channels of liners and other SLM parts. The rough surface will increase turbulent flow during,
+engine operation. This will increase the pressure drop but also increase the heat transfer to the coolant. Whether the,
+increased benefits of greater heat transfer outweigh the increased pressure drop are likely going to be specific to each,
+"design, but designers do need to address the issue.",

@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8
+Alloy composition,"Temp 
+(°C)","YS 
+(MPa)","UTS 
+(MPa)","Modulus 
+(GPa)","Elong 
+(%)","R of A 
+(%)",Condition,"Notes 
+[Reference]"
+,25,440*,457,150,1,-,"PA - Primary annealed (after sheet 
+rolling): 
+1000°C/2 hrs/vacuum.",
+,600,371*,567,136,6,-,,
+,700,366*,512,120,100,-,,
+,700V,394*,640,-,65,-,,
+,800,295*,327,104,89,-,,
+Ti-48Al-2Cr,-196,-,561,173,-,-,"Ingot metallurgy. 
+PA - Primary annealed (after sheet 
+rolling): 
+1000°C/2 hrs/vacuum. 
+Annealed: 700°C/100hrs.","Sheet test specimens, Ref. [49-24]"
+,25,450*,453,146,-,-,,
+,600,345*,546,129,7,-,,
+,700,368*,487,100,112,-,,
+,700V,388*,509,-,65,-,,
+,800,281*,318,90,91,-,,
+Ti-48Al-2Cr-2Nb,-196,-,617,171,-,-,"Powder metallurgy. 
+Near- microstructure.","Sheet test specimens, Ref. [49-24]"
+,25,451*,455,128,1,-,,
+,600,339*,499,119,4,-,,
+,700,356*,553,122,15,-,,
+,700V,375*,620,-,19,-,,
+,800,337*,406,95,58,-,,
+Ti-48Al-2Cr-2Nb,-196,-,526,170,-,-,"Powder metallurgy. 
+Near- microstructure. 
+Annealed: 700°C/100hrs.",Ref. [49‐24]
+,25,,,,,,,
+,"424* 
+426",153,-,-,,,,
+,600,338*,435,120,3,-,,
+,700,341*,498,93,10,-,,
+,700V,359*,466,-,3,-,,
+800,"308* 
+370",94,71,-,,,,
+Ti-48Al-2Cr-2Nb,-196,-,625,169,-,-,"Powder metallurgy. 
+PA - Primary annealed (after sheet 
+rolling): 
+1000°C/2 hrs/vacuum.","Sheet test specimens, Ref. [49-24]"
+,25,518*,528,101,0.3,-,,
+,600,439*,632,92,4,-,,
+,700,392*,558,85,98,-,,

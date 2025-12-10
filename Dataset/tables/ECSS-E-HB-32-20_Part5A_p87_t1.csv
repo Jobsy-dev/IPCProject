@@ -1,0 +1,19 @@
+0,1,2,3
+Properties,AMC225xe *,AMC640xa *,
+Matrix alloy,2124,6061,
+Reinforcement,SiCp,SiCp,
+Volume (%),25,40,
+Product form,plate,extrusion,extrusion
+Heat treatment,T4,T6,T1
+Orientation,L,L,L
+Ultimate tensile strength (MPa),650,570,560
+Yield stress (MPa),480,480,440
+"Fatigue Strength, 107 cycles, (MPa)",310,230,-
+Elongation (%),5,2.5,3
+Young’s modulus (GPa),115,140,140
+Density (kg/m3),2880,2900,
+"Thermal conductivity, (W/mK)",150,130,
+"Coefficient of thermal expansion,
+(ppm/K)",15.5,13.4,
+Electrical conductivity (%IACS),21,21,
+* Suppliers’ data,,,

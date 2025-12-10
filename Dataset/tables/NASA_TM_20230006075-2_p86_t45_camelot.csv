@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+Material,Environment,"Strain 
+Range","Aging 
+Treatment","Specimen 
+ID","Inelastic Strain 
+at Nh 
+(%)","Cycles to Crack 
+Initiation 
+(Ni)","Cycles to Failure 
+(Nf)"
+"LP–DED 
+NASA HR–1","5 ksi GH2, RT",–1% to 1%,1325 °F/16h,38,1.25,≈ 660,789
+,,,,39,1.25,≈ 760,918
+,,,,40,1.26,≈ 750,922
+,,,"1275 °F/16h + 
+1150 °F/16h",73,1.31,≈ 860,878
+,,,,74,1.33,≈ 865,884
+,,,,75,1.34,≈ 865,993

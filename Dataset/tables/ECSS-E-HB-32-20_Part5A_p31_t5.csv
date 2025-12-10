@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+,Basic temper designations,,,,
+F,,"As fabricated. Products for which there
+are no special thermal or strain
+hardening processes.",H,"Strain hardened. For wrought products which are
+strengthened by working, with or without thermal
+treatments. The H is always followed by one or
+more further digits.",
+O,,"Annealed. Used for cast products to
+improve ductility or dimensional
+stability and for wrought products to
+give lowest strength.",T,"Thermally treated to stable temper other than F, O
+or H. Used for products thermally treated with or
+without strain hardening. The T is always followed
+by one or more further digits.",
+W,,"Solution heat treated. Unstable temper,
+used only for alloys which
+spontaneously age harden at room
+temperature.",,"NOTE: The letter P can be used, after the temper
+designation, to indicate variations to H, T or O
+tempers agreed between supplier and purchaser.",

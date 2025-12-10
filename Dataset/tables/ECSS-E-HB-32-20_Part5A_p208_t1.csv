@@ -1,0 +1,30 @@
+0,1,2,3
+"Coating Composition
+(wt.%)",Designation,Company,"Application
+Method"
+Co-18Cr-8Al-0.5Y,LCO29,Union Carbide,PS(argon)
+Co-18Cr-11Al-O.3Y,ATD5,Airco Temescal,EB-PVD
+Co-19Cr-10Al-0.5Y,LOC5,Union Carbide,PS(argon)
+Co-23Cr-12Al-0.3Y,ATD2,Airco Temescal,EB-PVD
+Co-23Cr-13Al-0.6Y,LCO7,Union Carbide,PS(argon)
+Co-30Cr-5Al-0.5Y,ATD14,Airco Temescal,EB-PVD
+Co-32Ni-21Cr-7.5Al-0.5Y,LCO22,Union Carbide,PS(argon)
+Co-32Ni-21Cr-8Al-o.5Y,Amdry 995,Alloy Metal,LPPS
+Co-23Ni-30Cr-3Al-0.5Y,LCO37,Union Carbide,PS(argon)
+Co-10Ni-25Cr-7Al-0.6Y-5Ta,Amdry 996,Alloy Metals,LPPS
+Ni-17Cr-6Al-0.5Y,Amdry 961,Alloy Metals,LPPS
+Ni-22Cr-10Al-1.0Y,Amdry 962,Alloy Metals,LPPS
+Ni-25Cr-12Al-0.3Y,ATD16,Airco Temescal,EB-PVD
+Ni-25Cr-5Al-0.4Y,Amdry 963,Alloy Metals,LPPS
+Ni-38Cr-11Al-0.3Y,ATD1,Airco Temescal,EB-PVD
+Ni-22Co-18Cr-12Al-0.3Y,ATD7,Airco Temescal,EB-PVD
+Ni-20Co-42Cr-5Al-0.3Y,ATD9,Airco Temescal,EB-PVD
+Ni-22Co-21Cr-7.5Al-0.5Y,LN21,Union Carbide,PS(argon)
+Ni-23Co-20Cr-8.5Al-0.6Y-4Ta,Amdry 997,Alloy Metals,LPPS
+"Ni-0.5Co-20Cr-11Al-0.5Y-
+0.5Mo",LN34,Union Carbide,PS(argon)
+Fe-24Cr-8Al-0.4Y,Amdry 970,Alloy Metals,LPPS
+Fe-24Cr-11Al-0.6Y,ATD8,Airco Temescal,EB-PVD
+"Key: PS(argon) ‐ Plasma Spray, under argon.
+EB‐PVD ‐ Electron Beam Physical Vapour Deposition.
+LPPS ‐ Low Pressure Plasma Spray.",,,

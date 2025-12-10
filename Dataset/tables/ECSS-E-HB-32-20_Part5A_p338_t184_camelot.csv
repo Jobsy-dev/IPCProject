@@ -1,0 +1,28 @@
+0,1,2,3
+"Max. Use 
+Matrix 
+Major 
+Minor 
+Temp †  
+Type 
+Constituents 
+Constituents 
+(°C)",,,
+Glasses,,,
+7740 Boro-silicate,"B2O3, SiO2","Na2O, Al2O3",600
+"1723 Alumino-
+silicate","Al2O3, MgO, CaO, SiO2","B2O3, BaO",700
+7930 High Silica,SiO2,B2O3,1150
+Glass‐ceramics,,,
+LAS-I,"Li2O, Al2O3, MgO, SiO2","ZnO, ZrO2, 
+BaO",100
+LAS-II,"Li2O, Al2O3, MgO, SiO2","ZnO, ZrO2, 
+BaO",1100
+LAS-III,"Li2O, Al2O3, MgO, SiO2",ZrO2,1200
+MAS,"Al2O3, MgO, SiO2",BaO,1200
+BMAS,"BaO, Al2O3, MgO, SiO2",-,1250
+CAS,"CaO, Al2O3, SiO2",-,-
+Ternary Mullite,"BaO, Al2O3, SiO2",-,~1500
+Hexacelsian,"BaO, Al2O3",-,~1700
+"Key:   
+† : In composite form.",,,

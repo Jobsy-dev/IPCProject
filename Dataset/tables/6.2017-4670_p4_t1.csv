@@ -1,0 +1,6 @@
+0,1
+,Several challenges exist in attempting to consolidate copper-based alloys using SLM. The first is that copper is
+highly reflective in the red and near infrared portions of the spectrum where many SLM machine lasers operate. The,
+"second is that the alloys are highly conductive, so any heat put into the powder bed is rapidly conducted away from",
+the melt pool. These two issues can limit the ability of an SLM laser to effectively melt copper-based alloys and form,
+a fully dense part with no unmelted powder incorporated into it.,

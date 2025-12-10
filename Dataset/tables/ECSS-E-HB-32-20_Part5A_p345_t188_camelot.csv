@@ -1,0 +1,29 @@
+0,1,2,3,4,5
+Property,Matrix,,,,
+,"Epoxy 
+LAS‐I 
+LAS‐I 
+LAS‐II 
+LAS‐II",,,,
+Matrix state †,"- 
+P 
+C 
+P 
+C",,,,
+Fibre Vol.%,"- 
+46 
+46 
+44 
+44",,,,
+Tension,,,,,
+Strength (MPa),875,-,455,670,680
+"Elastic modulus 
+(GPa)",106,-,133,128,136
+Failure strain (%),0.84,-,0.33,0.90,1.03
+Flexural,,,,,
+Strength (MPa),1240,755,758,1380,1050
+"Ratio flexural to 
+tensile strengths",1042,-,1.67,2.06,1.54
+ILSS (MPa),87,-,34.4,-,-
+"Key 
+† ‐ P: As‐pressed;    C: Ceramed",,,,,

@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Carbon Fibre,Fibre (Vol%),Properties,,,
+T300,39,UTS,RT,(MPa),710
+,,E,,(GPa),127
+GY-70,58,UTS,RT,(MPa),680
+,,E,,(GPa),322
+P-100,54,UTS,RT,(MPa),680
+,,E,,(GPa),322
+XAS,65,flex,RT,(MPa),1240
+,,,500C †,(MPa),1237
+,,E,RT,(GPa),158
+,,,500C †,(GPa),154
+,,ILSS,RT,(MPa),38
+,,,500C †,(MPa),36
+IM6,68,flex,RT,(MPa),1030
+,,,500C †,(MPa),970
+,,E,RT,(GPa),160
+,,,500C †,(GPa),160
+,,ILSS,RT,(MPa),30
+,,,500C †,(MPa),30
+"Key:  
+Unidirectional composite 
+† Inert Argon environment",,,,,

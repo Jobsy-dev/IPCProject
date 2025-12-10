@@ -1,0 +1,10 @@
+0,1
+,Some challenges that were overcome in the original AM GRCop-84 development were carried over to the AM
+GRCop-42 development. One of these challenges was the adherence to the build plate. The build plate is required to,
+initiate the process so the material has something to initially support it. A good bond is also reuired to both hold the,
+part from chifting and prevent failure due to the part lifting off the build plate. A nickel-based bond layer was used.,
+This can be in the form of an Alloy 625 or 718 build plate or a stainless steel build plate with a superalloy layer,
+corresponding in shape to the first layer of the print printed on top. The Concept M2 system had proven itself “copper,
+friendly” making GRCop-84 parts. It featured an inert atmosphere glovebox and build chamber for handling the,
+"powder and parts, and the 400 W laser could readily achieve the high-energy density needed to fully melt the GRCop-",
+42.,

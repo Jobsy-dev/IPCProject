@@ -1,0 +1,30 @@
+0,1,2,3,4
+"Temp
+(°C)","Ratio H:He
+2
+Notched UTS","Ratio H:He
+2
+Unnotched
+UTS","Unnotched
+R of A",Comments 
+Conventionally Cast,,,,
+RT,0.75,-,0.89,"After 870°C/8 hr at 34.5 MPa H or
+2
+He. Tested in air."
+Directional Solidification,,,,
+RT,0.97,-,0.71,"After 870°C/8 hr at 34.5 MPa H or
+2
+He. Tested in air."
+-73,0.83 [0.68],-,"-
+[0.47]",After 538°C/12hr at 34.5 MPa
+24,0.28 [0.37],-,"0.28
+[0.29]","H Tested in H (or He).
+2 2"
+149,0.45 [0.71],-,"0
+[0.17]",
+RT,-,0.76,0.57,As ground 32 rms
+RT,-,0.65,0.20,32 rms + 871°C/8h stress relief.
+RT,-,0.86,0.62,"Oxidised stress relief + glass bead
+hone.
+Tested in 34.5 MPa H 2."
+"Key:  Values in brackets are for no H2 pre‐charging, but same test environment.",,,,

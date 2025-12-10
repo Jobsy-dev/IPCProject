@@ -1,0 +1,62 @@
+0,1,2,3,4,5
+Material A,Material B,"Interlayer
+material","Consolidation
+technique","Process
+conditions","Comments
+[Reference]"
+Stainless steel SS,"Al O
+2 3
+ZrO (PSZ)
+2","Cu
+Cu",Reaction bonding,"950°C at 3MPa
+950°C at 3MPa","Demonstration of strong joints, Ref. [60-11]"
+"AI O
+2 3","Mo.Nb,W, Kovar",None,Fusion Welding,Material B melted,"Largely impractical, Ref. [60-12]"
+"AI O
+2 3
+AI O
+2 3
+AI O
+2 3
+AI O
+2 3
+AI O
+2 3","Cu
+Al
+Ta
+Fe
+Nb","None
+None
+None
+None
+None",Diffusion bonding,"980°C at 8.5MPa
+600°C at 8.5MPa
+1400°C at 10MPa
+1375°C at 1 MPa
+1575°C at 15MPa","Temperatures between 0.5 to 0.98 Tm
+Pressures between 1 & 100MPa"
+Cu,"AI O
+2 3",Ti,Liquid phase bonding,Direct wetting sought,"Effectively brazing. Direct melting within
+joint"
+"AI O
+2 3","Ti alloy, Steel",Al,Solid phase bonding,"Activity within thin
+interlayer",Hot pressing required
+"Si N
+3 4",Si3N4,"lm Ti + braze Ag-Cu
+or Au-Ni or Au-Ni-Pd",Brazing,"Brazing temperatures:
+Ag-Cu: 790°C
+Au-Ni: 970°C
+Au-Ni-Pd: 1130°C","1m Ti to improve wetting by braze. High
+strength joints obtained, Ref. [60-18], [60-21]"
+"AI O or Si N
+2 3 3 4","Titanium alloy
+(TA6V) or Nb",Cu-40Ag-5Ti braze,Active brazing,"Under vacuum, 0.1MPa,
+applied pressure at 850
+to 890°C for 2 to 10
+minutes","Studies on reactions between braze &
+substrate, Ref. [60-20]"
+"SiC fibre/AI O
+2 3
+matrix","Stainless steel
+304L",Ag/Cu/Ti braze,Active brazing,"Under vacuum, 1000°C
+for 20 minutes","Initial trials, Ref. [60-24]"

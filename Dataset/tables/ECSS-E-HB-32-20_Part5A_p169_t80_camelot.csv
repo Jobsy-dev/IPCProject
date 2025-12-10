@@ -1,0 +1,14 @@
+0,1,2
+Service condition,Rocket engine ,Aircraft engine
+Fuel,Hydrogen/Methane,Petroleum distillate
+Oxidiser,Oxygen,Air
+Pressure (MPa),38,2.8
+Speed (rpm),36000 to110000,15000
+Tip speed (m/s),564,564
+Horsepower/blade,630,200 to 500
+Inlet temperature (°C),880 to 1 215,1435
+"Heat transfer coeff. 
+(kW/m2/°C)",306.6,2.84
+Thermal transients (°C/sec),17770,55
+Starts,55 to 700,2400
+Life (hours),7.5 to 100,8000

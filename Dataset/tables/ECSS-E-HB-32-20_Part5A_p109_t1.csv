@@ -1,0 +1,29 @@
+0,1,2
+Properties (3),Matrix,
+,Pure Al,Al‐2%Cu (1)
+Fibre reinforcement,Nextel,Nextel
+Fibre volume (%),60,60
+"Ultimate tensile strength (MPa):
+L",1600,1500
+"Ultimate compressive strength (MPa):
+L",1700,3400
+"Shear strength, at 2% strain (MPa)",70,140
+"Transverse strength, at 1% strain (MPa):
+T",140,280
+"Young's Modulus (GPa):
+L
+T","240
+130","240
+160"
+Shear Modulus (2) (GPa),48-57,45-56
+Density (kg/m3),3400,3400
+"Coefficient of thermal expansion, average
+value 25°C to 500°C (ppm/K):
+L
+T","7
+16","9
+16"
+"Key: Suppliers’ data.
+(1) weight percent;
+(2) measured parallel and across fibres;
+(3) L – longitudinal; T – transverse.",,

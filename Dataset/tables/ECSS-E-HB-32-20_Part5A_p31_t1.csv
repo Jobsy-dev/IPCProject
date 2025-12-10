@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+,Alloy,,,Wrought Alloys,,Alloy,,,Cast Alloys
+,group,,,Major alloying elements,,group,,,Major alloying elements
+1XXX,,,99.00 percent minimum aluminium,,1XX.0,,,99.00 percent minimum aluminium,
+2XXX,,,Copper,,2XX.0,,,Copper,
+3XXX,,,Manganese,,3XX.0,,,Silicon with added copper and/or magnesium,
+4XXX,,,Silicon,,4XX.0,,,Silicon,
+5XXX,,,Magnesium,,5XX.0,,,Magnesium,
+6XXX,,,Magnesium and Silicon,,6XX.0,,,Unused Series,
+7XXX,,,Zinc,,7XX.0,,,Zinc,
+8XXX,,,Other Elements,,8XX.0,,,Tin,
+9XXX,,,Unused Series,,9XX.0,,,Other Elements,
+"For both cast and wrought alloys, the first digit indicates the main alloying element(s). For cast alloys only the
+product form is indicated by the digit after the point; 0 = castings, 1 and 2 = ingot.",,,,,,,,,

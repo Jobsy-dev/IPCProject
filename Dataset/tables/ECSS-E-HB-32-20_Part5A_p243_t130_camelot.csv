@@ -1,0 +1,22 @@
+0,1,2,3
+Alloy,Condition,Fatigue data,
+,,"  
+(MPa)","Nf  
+(cycles)"
+IC218,"Hot extruded, cast billet. 
+Cold swage at RT. 
++ 1050°C/1 hour anneal 
++ 800°C/1 day",605,>10-7
+,,641,1.6 x 10-6
+,,690,3.9 x 10-5
+,,793,6.7 x 10-4
+,,862,1.1 x 10-4
+IC221,,690,9.8 x 10-6
+,,741,2.0 x 10-6
+,,793,4.5 x 10-5
+,,862,1.23 x 10-5
+,,910,1.5 x 10-4
+"Test conditions: 
+Temperature 600°C vacuum.  
+Triangular wave function, frequency 20 Hz. 
+R =  min/ max = 1",,,

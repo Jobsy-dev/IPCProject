@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+"Temperature (1)
+(°C)","TS
+(MPa)","YS
+(MPa)","E
+(GPa)",Elongation (%),"Fracture Toughness,
+K (MPa√m)
+1C"
+RT,448,379,78.6,5.0 †,"L-T: 23, T-L: 18"
+166,365,345,68.9,,
+232,310,296,64.1,,
+260,283,262,62.1,,
+316,221,200,56.5,,
+Key: (1) Values at stated temperature; † At RT to 316°C.,,,,,

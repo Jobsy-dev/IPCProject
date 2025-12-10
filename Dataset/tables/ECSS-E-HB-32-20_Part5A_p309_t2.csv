@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Temperature‐dependent CTE of DASA‐C/SiC:,,,,,
+T (°C),20,100,1000,1500,
+" =  (10-6/K)
+11 22",-,0.08,1.45,2.28,"DASA-C/SiC test
+values"
+Temperature‐dependent ILS‐allowable of DASA‐C/SiC:,,,,,
+"S (MPa)
+13",12,-,-,17.74,"DASA-C/SiC test
+values"
