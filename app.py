@@ -202,15 +202,17 @@ source_type = str(row.get("source_type", "")).lower()
 
 # ---- Source = table ----
 if source_type == "table" and isinstance(row.get("source_csv"), str):
-    table_rel = row["source_csv"]
-    table_path = ROOT / table_rel  # stored as relative path in your CSV
+    # Normalise Windows-style paths (backslashes) to POSIX-style for Linux
+    raw_rel = str(row["source_csv"])
+    table_rel = raw_rel.replace("\\", "/").lstrip("./")
 
+    table_path = ROOT / table_rel
     st.write("**Full table from which this row was extracted:**")
+
     if table_path.exists():
         try:
             df_table = pd.read_csv(table_path)
-
-            st.dataframe(df_table, use_container_width=True, height=300)
+            st.dataframe(df_table, use_container_width=True)
 
             if pd.notna(row.get("row_idx")):
                 try:
